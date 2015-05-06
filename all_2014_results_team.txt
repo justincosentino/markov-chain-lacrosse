@@ -1,0 +1,4082 @@
+#
+Team: Colgate, Won: 440, Lost: 40, Tied: 20, Total: 500, Percent: 0.880000
+Team: Bryant, Won: 40, Lost: 440, Tied: 20, Total: 500, Percent: 0.080000
+CORRECT
+#
+Team: Colgate, Won: 435, Lost: 44, Tied: 21, Total: 500, Percent: 0.870000
+Team: Vermont, Won: 44, Lost: 435, Tied: 21, Total: 500, Percent: 0.088000
+CORRECT
+#
+Team: Colgate, Won: 404, Lost: 62, Tied: 34, Total: 500, Percent: 0.808000
+Team: Lafayette, Won: 62, Lost: 404, Tied: 34, Total: 500, Percent: 0.124000
+INCORRECT
+#
+Team: Colgate, Won: 354, Lost: 104, Tied: 42, Total: 500, Percent: 0.708000
+Team: Bucknell, Won: 104, Lost: 354, Tied: 42, Total: 500, Percent: 0.208000
+CORRECT
+#
+Team: Colgate, Won: 328, Lost: 128, Tied: 44, Total: 500, Percent: 0.656000
+Team: Hobart, Won: 128, Lost: 328, Tied: 44, Total: 500, Percent: 0.256000
+CORRECT
+#
+Team: Colgate, Won: 340, Lost: 117, Tied: 43, Total: 500, Percent: 0.680000
+Team: Boston U., Won: 117, Lost: 340, Tied: 43, Total: 500, Percent: 0.234000
+CORRECT
+#
+Team: Colgate, Won: 362, Lost: 100, Tied: 38, Total: 500, Percent: 0.724000
+Team: Binghamton, Won: 100, Lost: 362, Tied: 38, Total: 500, Percent: 0.200000
+CORRECT
+#
+Team: Colgate, Won: 334, Lost: 118, Tied: 48, Total: 500, Percent: 0.668000
+Team: Cornell, Won: 118, Lost: 334, Tied: 48, Total: 500, Percent: 0.236000
+INCORRECT
+#
+Team: Colgate, Won: 303, Lost: 146, Tied: 51, Total: 500, Percent: 0.606000
+Team: Navy, Won: 146, Lost: 303, Tied: 51, Total: 500, Percent: 0.292000
+CORRECT
+#
+Team: Colgate, Won: 272, Lost: 177, Tied: 51, Total: 500, Percent: 0.544000
+Team: Loyola Maryland, Won: 177, Lost: 272, Tied: 51, Total: 500, Percent: 0.354000
+INCORRECT
+#
+Team: Colgate, Won: 310, Lost: 154, Tied: 36, Total: 500, Percent: 0.620000
+Team: Lehigh, Won: 154, Lost: 310, Tied: 36, Total: 500, Percent: 0.308000
+INCORRECT
+#
+Team: Colgate, Won: 268, Lost: 190, Tied: 42, Total: 500, Percent: 0.536000
+Team: Holy Cross, Won: 190, Lost: 268, Tied: 42, Total: 500, Percent: 0.380000
+CORRECT
+#
+Team: Colgate, Won: 222, Lost: 222, Tied: 56, Total: 500, Percent: 0.444000
+Team: Army West Point, Won: 222, Lost: 222, Tied: 56, Total: 500, Percent: 0.444000
+CORRECT
+#
+Team: Colgate, Won: 228, Lost: 225, Tied: 47, Total: 500, Percent: 0.456000
+Team: Bucknell, Won: 225, Lost: 228, Tied: 47, Total: 500, Percent: 0.450000
+CORRECT
+#
+Team: Colgate, Won: 272, Lost: 188, Tied: 40, Total: 500, Percent: 0.544000
+Team: Loyola Maryland, Won: 188, Lost: 272, Tied: 40, Total: 500, Percent: 0.376000
+INCORRECT
+#
+Team: Colgate, Won: 241, Lost: 215, Tied: 44, Total: 500, Percent: 0.482000
+Team: Syracuse, Won: 215, Lost: 241, Tied: 44, Total: 500, Percent: 0.430000
+INCORRECT
+#
+Team: Villanova, Won: 241, Lost: 193, Tied: 66, Total: 500, Percent: 0.482000
+Team: Lehigh, Won: 193, Lost: 241, Tied: 66, Total: 500, Percent: 0.386000
+INCORRECT
+#
+Team: Villanova, Won: 260, Lost: 196, Tied: 44, Total: 500, Percent: 0.520000
+Team: Drexel, Won: 196, Lost: 260, Tied: 44, Total: 500, Percent: 0.392000
+CORRECT
+#
+Team: Villanova, Won: 177, Lost: 269, Tied: 54, Total: 500, Percent: 0.354000
+Team: Delaware, Won: 269, Lost: 177, Tied: 54, Total: 500, Percent: 0.538000
+CORRECT
+#
+Team: Villanova, Won: 196, Lost: 265, Tied: 39, Total: 500, Percent: 0.392000
+Team: Penn, Won: 265, Lost: 196, Tied: 39, Total: 500, Percent: 0.530000
+CORRECT
+#
+Team: Villanova, Won: 201, Lost: 257, Tied: 42, Total: 500, Percent: 0.402000
+Team: Maryland, Won: 257, Lost: 201, Tied: 42, Total: 500, Percent: 0.514000
+CORRECT
+#
+Team: Villanova, Won: 267, Lost: 191, Tied: 42, Total: 500, Percent: 0.534000
+Team: Princeton, Won: 191, Lost: 267, Tied: 42, Total: 500, Percent: 0.382000
+INCORRECT
+#
+Team: Villanova, Won: 176, Lost: 278, Tied: 46, Total: 500, Percent: 0.352000
+Team: Marquette, Won: 278, Lost: 176, Tied: 46, Total: 500, Percent: 0.556000
+INCORRECT
+#
+Team: Villanova, Won: 294, Lost: 152, Tied: 54, Total: 500, Percent: 0.588000
+Team: Georgetown, Won: 152, Lost: 294, Tied: 54, Total: 500, Percent: 0.304000
+CORRECT
+#
+Team: Villanova, Won: 343, Lost: 121, Tied: 36, Total: 500, Percent: 0.686000
+Team: Penn St., Won: 121, Lost: 343, Tied: 36, Total: 500, Percent: 0.242000
+CORRECT
+#
+Team: Villanova, Won: 228, Lost: 238, Tied: 34, Total: 500, Percent: 0.456000
+Team: Denver, Won: 238, Lost: 228, Tied: 34, Total: 500, Percent: 0.476000
+CORRECT
+#
+Team: Villanova, Won: 340, Lost: 116, Tied: 44, Total: 500, Percent: 0.680000
+Team: Rutgers, Won: 116, Lost: 340, Tied: 44, Total: 500, Percent: 0.232000
+CORRECT
+#
+Team: Villanova, Won: 223, Lost: 228, Tied: 49, Total: 500, Percent: 0.446000
+Team: St. John's (NY), Won: 228, Lost: 223, Tied: 49, Total: 500, Percent: 0.456000
+CORRECT
+#
+Team: Villanova, Won: 271, Lost: 182, Tied: 47, Total: 500, Percent: 0.542000
+Team: Johns Hopkins, Won: 182, Lost: 271, Tied: 47, Total: 500, Percent: 0.364000
+INCORRECT
+#
+Team: Villanova, Won: 208, Lost: 252, Tied: 40, Total: 500, Percent: 0.416000
+Team: Providence, Won: 252, Lost: 208, Tied: 40, Total: 500, Percent: 0.504000
+CORRECT
+#
+Team: Villanova, Won: 191, Lost: 267, Tied: 42, Total: 500, Percent: 0.382000
+Team: Marquette, Won: 267, Lost: 191, Tied: 42, Total: 500, Percent: 0.534000
+INCORRECT
+#
+Team: Villanova, Won: 235, Lost: 228, Tied: 37, Total: 500, Percent: 0.470000
+Team: Denver, Won: 228, Lost: 235, Tied: 37, Total: 500, Percent: 0.456000
+INCORRECT
+#
+Team: Towson, Won: 20, Lost: 466, Tied: 14, Total: 500, Percent: 0.040000
+Team: High Point, Won: 466, Lost: 20, Tied: 14, Total: 500, Percent: 0.932000
+INCORRECT
+#
+Team: Towson, Won: 112, Lost: 355, Tied: 33, Total: 500, Percent: 0.224000
+Team: Johns Hopkins, Won: 355, Lost: 112, Tied: 33, Total: 500, Percent: 0.710000
+CORRECT
+#
+Team: Towson, Won: 57, Lost: 423, Tied: 20, Total: 500, Percent: 0.114000
+Team: Loyola Maryland, Won: 423, Lost: 57, Tied: 20, Total: 500, Percent: 0.846000
+CORRECT
+#
+Team: Towson, Won: 36, Lost: 441, Tied: 23, Total: 500, Percent: 0.072000
+Team: Georgetown, Won: 441, Lost: 36, Tied: 23, Total: 500, Percent: 0.882000
+INCORRECT
+#
+Team: Towson, Won: 50, Lost: 431, Tied: 19, Total: 500, Percent: 0.100000
+Team: Mt. St. Mary's, Won: 431, Lost: 50, Tied: 19, Total: 500, Percent: 0.862000
+INCORRECT
+#
+Team: Towson, Won: 156, Lost: 301, Tied: 43, Total: 500, Percent: 0.312000
+Team: Marist, Won: 301, Lost: 156, Tied: 43, Total: 500, Percent: 0.602000
+INCORRECT
+#
+Team: Towson, Won: 187, Lost: 273, Tied: 40, Total: 500, Percent: 0.374000
+Team: Navy, Won: 273, Lost: 187, Tied: 40, Total: 500, Percent: 0.546000
+INCORRECT
+#
+Team: Towson, Won: 226, Lost: 219, Tied: 55, Total: 500, Percent: 0.452000
+Team: UMBC, Won: 219, Lost: 226, Tied: 55, Total: 500, Percent: 0.438000
+CORRECT
+#
+Team: Towson, Won: 240, Lost: 224, Tied: 36, Total: 500, Percent: 0.480000
+Team: Delaware, Won: 224, Lost: 240, Tied: 36, Total: 500, Percent: 0.448000
+CORRECT
+#
+Team: Towson, Won: 204, Lost: 241, Tied: 55, Total: 500, Percent: 0.408000
+Team: Hofstra, Won: 241, Lost: 204, Tied: 55, Total: 500, Percent: 0.482000
+CORRECT
+#
+Team: Towson, Won: 247, Lost: 208, Tied: 45, Total: 500, Percent: 0.494000
+Team: Massachusetts, Won: 208, Lost: 247, Tied: 45, Total: 500, Percent: 0.416000
+CORRECT
+#
+Team: Towson, Won: 294, Lost: 161, Tied: 45, Total: 500, Percent: 0.588000
+Team: Penn St., Won: 161, Lost: 294, Tied: 45, Total: 500, Percent: 0.322000
+INCORRECT
+#
+Team: Towson, Won: 287, Lost: 168, Tied: 45, Total: 500, Percent: 0.574000
+Team: Drexel, Won: 168, Lost: 287, Tied: 45, Total: 500, Percent: 0.336000
+INCORRECT
+#
+Team: Towson, Won: 234, Lost: 222, Tied: 44, Total: 500, Percent: 0.468000
+Team: Penn, Won: 222, Lost: 234, Tied: 44, Total: 500, Percent: 0.444000
+INCORRECT
+#
+Team: Towson, Won: 273, Lost: 181, Tied: 46, Total: 500, Percent: 0.546000
+Team: Drexel, Won: 181, Lost: 273, Tied: 46, Total: 500, Percent: 0.362000
+INCORRECT
+#
+Team: Loyola Maryland, Won: 470, Lost: 21, Tied: 9, Total: 500, Percent: 0.940000
+Team: Virginia, Won: 21, Lost: 470, Tied: 9, Total: 500, Percent: 0.042000
+INCORRECT
+#
+Team: Loyola Maryland, Won: 473, Lost: 21, Tied: 6, Total: 500, Percent: 0.946000
+Team: Penn St., Won: 21, Lost: 473, Tied: 6, Total: 500, Percent: 0.042000
+CORRECT
+#
+Team: Loyola Maryland, Won: 440, Lost: 44, Tied: 16, Total: 500, Percent: 0.880000
+Team: Towson, Won: 44, Lost: 440, Tied: 16, Total: 500, Percent: 0.088000
+CORRECT
+#
+Team: Loyola Maryland, Won: 431, Lost: 49, Tied: 20, Total: 500, Percent: 0.862000
+Team: Holy Cross, Won: 49, Lost: 431, Tied: 20, Total: 500, Percent: 0.098000
+CORRECT
+#
+Team: Loyola Maryland, Won: 488, Lost: 6, Tied: 6, Total: 500, Percent: 0.976000
+Team: Lehigh, Won: 6, Lost: 488, Tied: 6, Total: 500, Percent: 0.012000
+CORRECT
+#
+Team: Loyola Maryland, Won: 489, Lost: 7, Tied: 4, Total: 500, Percent: 0.978000
+Team: Duke, Won: 7, Lost: 489, Tied: 4, Total: 500, Percent: 0.014000
+CORRECT
+#
+Team: Loyola Maryland, Won: 425, Lost: 54, Tied: 21, Total: 500, Percent: 0.850000
+Team: Army West Point, Won: 54, Lost: 425, Tied: 21, Total: 500, Percent: 0.108000
+CORRECT
+#
+Team: Loyola Maryland, Won: 483, Lost: 11, Tied: 6, Total: 500, Percent: 0.966000
+Team: Georgetown, Won: 11, Lost: 483, Tied: 6, Total: 500, Percent: 0.022000
+CORRECT
+#
+Team: Loyola Maryland, Won: 434, Lost: 45, Tied: 21, Total: 500, Percent: 0.868000
+Team: Lafayette, Won: 45, Lost: 434, Tied: 21, Total: 500, Percent: 0.090000
+CORRECT
+#
+Team: Loyola Maryland, Won: 479, Lost: 8, Tied: 13, Total: 500, Percent: 0.958000
+Team: Colgate, Won: 8, Lost: 479, Tied: 13, Total: 500, Percent: 0.016000
+CORRECT
+#
+Team: Loyola Maryland, Won: 456, Lost: 29, Tied: 15, Total: 500, Percent: 0.912000
+Team: Navy, Won: 29, Lost: 456, Tied: 15, Total: 500, Percent: 0.058000
+CORRECT
+#
+Team: Loyola Maryland, Won: 439, Lost: 42, Tied: 19, Total: 500, Percent: 0.878000
+Team: Boston U., Won: 42, Lost: 439, Tied: 19, Total: 500, Percent: 0.084000
+CORRECT
+#
+Team: Loyola Maryland, Won: 452, Lost: 31, Tied: 17, Total: 500, Percent: 0.904000
+Team: Bucknell, Won: 31, Lost: 452, Tied: 17, Total: 500, Percent: 0.062000
+CORRECT
+#
+Team: Loyola Maryland, Won: 475, Lost: 15, Tied: 10, Total: 500, Percent: 0.950000
+Team: Colgate, Won: 15, Lost: 475, Tied: 10, Total: 500, Percent: 0.030000
+CORRECT
+#
+Team: Loyola Maryland, Won: 457, Lost: 30, Tied: 13, Total: 500, Percent: 0.914000
+Team: Lehigh, Won: 30, Lost: 457, Tied: 13, Total: 500, Percent: 0.060000
+CORRECT
+#
+Team: Loyola Maryland, Won: 468, Lost: 22, Tied: 10, Total: 500, Percent: 0.936000
+Team: Johns Hopkins, Won: 22, Lost: 468, Tied: 10, Total: 500, Percent: 0.044000
+CORRECT
+#
+Team: Loyola Maryland, Won: 463, Lost: 25, Tied: 12, Total: 500, Percent: 0.926000
+Team: Albany (NY), Won: 25, Lost: 463, Tied: 12, Total: 500, Percent: 0.050000
+INCORRECT
+#
+Team: Cornell, Won: 388, Lost: 81, Tied: 31, Total: 500, Percent: 0.776000
+Team: Hobart, Won: 81, Lost: 388, Tied: 31, Total: 500, Percent: 0.162000
+CORRECT
+#
+Team: Cornell, Won: 363, Lost: 104, Tied: 33, Total: 500, Percent: 0.726000
+Team: Binghamton, Won: 104, Lost: 363, Tied: 33, Total: 500, Percent: 0.208000
+CORRECT
+#
+Team: Cornell, Won: 429, Lost: 53, Tied: 18, Total: 500, Percent: 0.858000
+Team: Michigan, Won: 53, Lost: 429, Tied: 18, Total: 500, Percent: 0.106000
+CORRECT
+#
+Team: Cornell, Won: 378, Lost: 88, Tied: 34, Total: 500, Percent: 0.756000
+Team: Canisius, Won: 88, Lost: 378, Tied: 34, Total: 500, Percent: 0.176000
+CORRECT
+#
+Team: Cornell, Won: 472, Lost: 22, Tied: 6, Total: 500, Percent: 0.944000
+Team: Virginia, Won: 22, Lost: 472, Tied: 6, Total: 500, Percent: 0.044000
+CORRECT
+#
+Team: Cornell, Won: 420, Lost: 60, Tied: 20, Total: 500, Percent: 0.840000
+Team: Yale, Won: 60, Lost: 420, Tied: 20, Total: 500, Percent: 0.120000
+CORRECT
+#
+Team: Cornell, Won: 442, Lost: 44, Tied: 14, Total: 500, Percent: 0.884000
+Team: Colgate, Won: 44, Lost: 442, Tied: 14, Total: 500, Percent: 0.088000
+CORRECT
+#
+Team: Cornell, Won: 423, Lost: 58, Tied: 19, Total: 500, Percent: 0.846000
+Team: Penn, Won: 58, Lost: 423, Tied: 19, Total: 500, Percent: 0.116000
+CORRECT
+#
+Team: Cornell, Won: 438, Lost: 39, Tied: 23, Total: 500, Percent: 0.876000
+Team: Dartmouth, Won: 39, Lost: 438, Tied: 23, Total: 500, Percent: 0.078000
+CORRECT
+#
+Team: Cornell, Won: 413, Lost: 62, Tied: 25, Total: 500, Percent: 0.826000
+Team: Harvard, Won: 62, Lost: 413, Tied: 25, Total: 500, Percent: 0.124000
+INCORRECT
+#
+Team: Cornell, Won: 416, Lost: 57, Tied: 27, Total: 500, Percent: 0.832000
+Team: Syracuse, Won: 57, Lost: 416, Tied: 27, Total: 500, Percent: 0.114000
+INCORRECT
+#
+Team: Cornell, Won: 333, Lost: 138, Tied: 29, Total: 500, Percent: 0.666000
+Team: Hofstra, Won: 138, Lost: 333, Tied: 29, Total: 500, Percent: 0.276000
+INCORRECT
+#
+Team: Cornell, Won: 392, Lost: 86, Tied: 22, Total: 500, Percent: 0.784000
+Team: Brown, Won: 86, Lost: 392, Tied: 22, Total: 500, Percent: 0.172000
+CORRECT
+#
+Team: Cornell, Won: 381, Lost: 79, Tied: 40, Total: 500, Percent: 0.762000
+Team: Princeton, Won: 79, Lost: 381, Tied: 40, Total: 500, Percent: 0.158000
+CORRECT
+#
+Team: Cornell, Won: 386, Lost: 88, Tied: 26, Total: 500, Percent: 0.772000
+Team: Penn, Won: 88, Lost: 386, Tied: 26, Total: 500, Percent: 0.176000
+INCORRECT
+#
+Team: Cornell, Won: 355, Lost: 108, Tied: 37, Total: 500, Percent: 0.710000
+Team: Maryland, Won: 108, Lost: 355, Tied: 37, Total: 500, Percent: 0.216000
+INCORRECT
+#
+Team: Wagner, Won: 0, Lost: 497, Tied: 3, Total: 500, Percent: 0.000000
+Team: Rutgers, Won: 497, Lost: 0, Tied: 3, Total: 500, Percent: 0.994000
+CORRECT
+#
+Team: Wagner, Won: 16, Lost: 477, Tied: 7, Total: 500, Percent: 0.032000
+Team: Monmouth, Won: 477, Lost: 16, Tied: 7, Total: 500, Percent: 0.954000
+INCORRECT
+#
+Team: Wagner, Won: 30, Lost: 455, Tied: 15, Total: 500, Percent: 0.060000
+Team: Saint Joseph's, Won: 455, Lost: 30, Tied: 15, Total: 500, Percent: 0.910000
+CORRECT
+#
+Team: Wagner, Won: 50, Lost: 426, Tied: 24, Total: 500, Percent: 0.100000
+Team: Detroit, Won: 426, Lost: 50, Tied: 24, Total: 500, Percent: 0.852000
+CORRECT
+#
+Team: Wagner, Won: 78, Lost: 389, Tied: 33, Total: 500, Percent: 0.156000
+Team: Vermont, Won: 389, Lost: 78, Tied: 33, Total: 500, Percent: 0.778000
+CORRECT
+#
+Team: Wagner, Won: 92, Lost: 371, Tied: 37, Total: 500, Percent: 0.184000
+Team: VMI, Won: 371, Lost: 92, Tied: 37, Total: 500, Percent: 0.742000
+INCORRECT
+#
+Team: Wagner, Won: 81, Lost: 374, Tied: 45, Total: 500, Percent: 0.162000
+Team: Richmond, Won: 374, Lost: 81, Tied: 45, Total: 500, Percent: 0.748000
+CORRECT
+#
+Team: Wagner, Won: 78, Lost: 398, Tied: 24, Total: 500, Percent: 0.156000
+Team: Mercer, Won: 398, Lost: 78, Tied: 24, Total: 500, Percent: 0.796000
+CORRECT
+#
+Team: Wagner, Won: 75, Lost: 398, Tied: 27, Total: 500, Percent: 0.150000
+Team: Robert Morris, Won: 398, Lost: 75, Tied: 27, Total: 500, Percent: 0.796000
+CORRECT
+#
+Team: Wagner, Won: 35, Lost: 441, Tied: 24, Total: 500, Percent: 0.070000
+Team: Hobart, Won: 441, Lost: 35, Tied: 24, Total: 500, Percent: 0.882000
+CORRECT
+#
+Team: Wagner, Won: 40, Lost: 446, Tied: 14, Total: 500, Percent: 0.080000
+Team: Sacred Heart, Won: 446, Lost: 40, Tied: 14, Total: 500, Percent: 0.892000
+CORRECT
+#
+Team: Wagner, Won: 21, Lost: 464, Tied: 15, Total: 500, Percent: 0.042000
+Team: Mt. St. Mary's, Won: 464, Lost: 21, Tied: 15, Total: 500, Percent: 0.928000
+CORRECT
+#
+Team: Wagner, Won: 48, Lost: 416, Tied: 36, Total: 500, Percent: 0.096000
+Team: Bryant, Won: 416, Lost: 48, Tied: 36, Total: 500, Percent: 0.832000
+CORRECT
+#
+Team: Marist, Won: 128, Lost: 335, Tied: 37, Total: 500, Percent: 0.256000
+Team: Stony Brook, Won: 335, Lost: 128, Tied: 37, Total: 500, Percent: 0.670000
+INCORRECT
+#
+Team: Marist, Won: 23, Lost: 470, Tied: 7, Total: 500, Percent: 0.046000
+Team: Denver, Won: 470, Lost: 23, Tied: 7, Total: 500, Percent: 0.940000
+CORRECT
+#
+Team: Marist, Won: 55, Lost: 430, Tied: 15, Total: 500, Percent: 0.110000
+Team: Air Force, Won: 430, Lost: 55, Tied: 15, Total: 500, Percent: 0.860000
+CORRECT
+#
+Team: Marist, Won: 57, Lost: 430, Tied: 13, Total: 500, Percent: 0.114000
+Team: Marquette, Won: 430, Lost: 57, Tied: 13, Total: 500, Percent: 0.860000
+INCORRECT
+#
+Team: Marist, Won: 122, Lost: 353, Tied: 25, Total: 500, Percent: 0.244000
+Team: Towson, Won: 353, Lost: 122, Tied: 25, Total: 500, Percent: 0.706000
+CORRECT
+#
+Team: Marist, Won: 130, Lost: 330, Tied: 40, Total: 500, Percent: 0.260000
+Team: Siena, Won: 330, Lost: 130, Tied: 40, Total: 500, Percent: 0.660000
+CORRECT
+#
+Team: Marist, Won: 150, Lost: 317, Tied: 33, Total: 500, Percent: 0.300000
+Team: Quinnipiac, Won: 317, Lost: 150, Tied: 33, Total: 500, Percent: 0.634000
+INCORRECT
+#
+Team: Marist, Won: 160, Lost: 307, Tied: 33, Total: 500, Percent: 0.320000
+Team: Brown, Won: 307, Lost: 160, Tied: 33, Total: 500, Percent: 0.614000
+CORRECT
+#
+Team: Marist, Won: 53, Lost: 419, Tied: 28, Total: 500, Percent: 0.106000
+Team: Manhattan, Won: 419, Lost: 53, Tied: 28, Total: 500, Percent: 0.838000
+CORRECT
+#
+Team: Marist, Won: 104, Lost: 374, Tied: 22, Total: 500, Percent: 0.208000
+Team: Detroit, Won: 374, Lost: 104, Tied: 22, Total: 500, Percent: 0.748000
+CORRECT
+#
+Team: Marist, Won: 109, Lost: 362, Tied: 29, Total: 500, Percent: 0.218000
+Team: Hofstra, Won: 362, Lost: 109, Tied: 29, Total: 500, Percent: 0.724000
+CORRECT
+#
+Team: Marist, Won: 50, Lost: 426, Tied: 24, Total: 500, Percent: 0.100000
+Team: Monmouth, Won: 426, Lost: 50, Tied: 24, Total: 500, Percent: 0.852000
+INCORRECT
+#
+Team: Marist, Won: 91, Lost: 372, Tied: 37, Total: 500, Percent: 0.182000
+Team: Canisius, Won: 372, Lost: 91, Tied: 37, Total: 500, Percent: 0.744000
+INCORRECT
+#
+Team: Marist, Won: 112, Lost: 351, Tied: 37, Total: 500, Percent: 0.224000
+Team: Detroit, Won: 351, Lost: 112, Tied: 37, Total: 500, Percent: 0.702000
+INCORRECT
+#
+Team: Marist, Won: 178, Lost: 272, Tied: 50, Total: 500, Percent: 0.356000
+Team: Siena, Won: 272, Lost: 178, Tied: 50, Total: 500, Percent: 0.544000
+CORRECT
+#
+Team: Delaware, Won: 269, Lost: 177, Tied: 54, Total: 500, Percent: 0.538000
+Team: High Point, Won: 177, Lost: 269, Tied: 54, Total: 500, Percent: 0.354000
+CORRECT
+#
+Team: Delaware, Won: 319, Lost: 146, Tied: 35, Total: 500, Percent: 0.638000
+Team: Bucknell, Won: 146, Lost: 319, Tied: 35, Total: 500, Percent: 0.292000
+INCORRECT
+#
+Team: Delaware, Won: 396, Lost: 74, Tied: 30, Total: 500, Percent: 0.792000
+Team: Fairfield, Won: 74, Lost: 396, Tied: 30, Total: 500, Percent: 0.148000
+INCORRECT
+#
+Team: Delaware, Won: 207, Lost: 244, Tied: 49, Total: 500, Percent: 0.414000
+Team: Mt. St. Mary's, Won: 244, Lost: 207, Tied: 49, Total: 500, Percent: 0.488000
+INCORRECT
+#
+Team: Delaware, Won: 345, Lost: 117, Tied: 38, Total: 500, Percent: 0.690000
+Team: Villanova, Won: 117, Lost: 345, Tied: 38, Total: 500, Percent: 0.234000
+CORRECT
+#
+Team: Delaware, Won: 270, Lost: 193, Tied: 37, Total: 500, Percent: 0.540000
+Team: Lafayette, Won: 193, Lost: 270, Tied: 37, Total: 500, Percent: 0.386000
+CORRECT
+#
+Team: Delaware, Won: 367, Lost: 103, Tied: 30, Total: 500, Percent: 0.734000
+Team: Binghamton, Won: 103, Lost: 367, Tied: 30, Total: 500, Percent: 0.206000
+CORRECT
+#
+Team: Delaware, Won: 281, Lost: 168, Tied: 51, Total: 500, Percent: 0.562000
+Team: Hofstra, Won: 168, Lost: 281, Tied: 51, Total: 500, Percent: 0.336000
+INCORRECT
+#
+Team: Delaware, Won: 306, Lost: 141, Tied: 53, Total: 500, Percent: 0.612000
+Team: Towson, Won: 141, Lost: 306, Tied: 53, Total: 500, Percent: 0.282000
+INCORRECT
+#
+Team: Delaware, Won: 374, Lost: 101, Tied: 25, Total: 500, Percent: 0.748000
+Team: Drexel, Won: 101, Lost: 374, Tied: 25, Total: 500, Percent: 0.202000
+INCORRECT
+#
+Team: Delaware, Won: 176, Lost: 277, Tied: 47, Total: 500, Percent: 0.352000
+Team: Manhattan, Won: 277, Lost: 176, Tied: 47, Total: 500, Percent: 0.554000
+INCORRECT
+#
+Team: Delaware, Won: 273, Lost: 180, Tied: 47, Total: 500, Percent: 0.546000
+Team: Ohio St., Won: 180, Lost: 273, Tied: 47, Total: 500, Percent: 0.360000
+INCORRECT
+#
+Team: Delaware, Won: 263, Lost: 190, Tied: 47, Total: 500, Percent: 0.526000
+Team: Saint Joseph's, Won: 190, Lost: 263, Tied: 47, Total: 500, Percent: 0.380000
+INCORRECT
+#
+Team: Delaware, Won: 302, Lost: 149, Tied: 49, Total: 500, Percent: 0.604000
+Team: Penn St., Won: 149, Lost: 302, Tied: 49, Total: 500, Percent: 0.298000
+INCORRECT
+#
+Team: Delaware, Won: 247, Lost: 206, Tied: 47, Total: 500, Percent: 0.494000
+Team: Massachusetts, Won: 206, Lost: 247, Tied: 47, Total: 500, Percent: 0.412000
+CORRECT
+#
+Team: Delaware, Won: 248, Lost: 202, Tied: 50, Total: 500, Percent: 0.496000
+Team: Hofstra, Won: 202, Lost: 248, Tied: 50, Total: 500, Percent: 0.404000
+INCORRECT
+#
+Team: Denver, Won: 426, Lost: 52, Tied: 22, Total: 500, Percent: 0.852000
+Team: Air Force, Won: 52, Lost: 426, Tied: 22, Total: 500, Percent: 0.104000
+CORRECT
+#
+Team: Denver, Won: 480, Lost: 12, Tied: 8, Total: 500, Percent: 0.960000
+Team: Duke, Won: 12, Lost: 480, Tied: 8, Total: 500, Percent: 0.024000
+INCORRECT
+#
+Team: Denver, Won: 436, Lost: 41, Tied: 23, Total: 500, Percent: 0.872000
+Team: Marist, Won: 41, Lost: 436, Tied: 23, Total: 500, Percent: 0.082000
+CORRECT
+#
+Team: Denver, Won: 421, Lost: 60, Tied: 19, Total: 500, Percent: 0.842000
+Team: Canisius, Won: 60, Lost: 421, Tied: 19, Total: 500, Percent: 0.120000
+CORRECT
+#
+Team: Denver, Won: 382, Lost: 92, Tied: 26, Total: 500, Percent: 0.764000
+Team: Penn, Won: 92, Lost: 382, Tied: 26, Total: 500, Percent: 0.184000
+INCORRECT
+#
+Team: Denver, Won: 398, Lost: 75, Tied: 27, Total: 500, Percent: 0.796000
+Team: Notre Dame, Won: 75, Lost: 398, Tied: 27, Total: 500, Percent: 0.150000
+CORRECT
+#
+Team: Denver, Won: 431, Lost: 49, Tied: 20, Total: 500, Percent: 0.862000
+Team: Penn St., Won: 49, Lost: 431, Tied: 20, Total: 500, Percent: 0.098000
+CORRECT
+#
+Team: Denver, Won: 351, Lost: 121, Tied: 28, Total: 500, Percent: 0.702000
+Team: Ohio St., Won: 121, Lost: 351, Tied: 28, Total: 500, Percent: 0.242000
+CORRECT
+#
+Team: Denver, Won: 444, Lost: 40, Tied: 16, Total: 500, Percent: 0.888000
+Team: Rutgers, Won: 40, Lost: 444, Tied: 16, Total: 500, Percent: 0.080000
+CORRECT
+#
+Team: Denver, Won: 429, Lost: 45, Tied: 26, Total: 500, Percent: 0.858000
+Team: Georgetown, Won: 45, Lost: 429, Tied: 26, Total: 500, Percent: 0.090000
+CORRECT
+#
+Team: Denver, Won: 382, Lost: 91, Tied: 27, Total: 500, Percent: 0.764000
+Team: Villanova, Won: 91, Lost: 382, Tied: 27, Total: 500, Percent: 0.182000
+CORRECT
+#
+Team: Denver, Won: 394, Lost: 78, Tied: 28, Total: 500, Percent: 0.788000
+Team: St. John's (NY), Won: 78, Lost: 394, Tied: 28, Total: 500, Percent: 0.156000
+CORRECT
+#
+Team: Denver, Won: 407, Lost: 69, Tied: 24, Total: 500, Percent: 0.814000
+Team: Providence, Won: 69, Lost: 407, Tied: 24, Total: 500, Percent: 0.138000
+CORRECT
+#
+Team: Denver, Won: 397, Lost: 69, Tied: 34, Total: 500, Percent: 0.794000
+Team: Marquette, Won: 69, Lost: 397, Tied: 34, Total: 500, Percent: 0.138000
+CORRECT
+#
+Team: Denver, Won: 469, Lost: 18, Tied: 13, Total: 500, Percent: 0.938000
+Team: Rutgers, Won: 18, Lost: 469, Tied: 13, Total: 500, Percent: 0.036000
+CORRECT
+#
+Team: Denver, Won: 436, Lost: 43, Tied: 21, Total: 500, Percent: 0.872000
+Team: Villanova, Won: 43, Lost: 436, Tied: 21, Total: 500, Percent: 0.086000
+CORRECT
+#
+Team: Denver, Won: 456, Lost: 32, Tied: 12, Total: 500, Percent: 0.912000
+Team: North Carolina, Won: 32, Lost: 456, Tied: 12, Total: 500, Percent: 0.064000
+CORRECT
+#
+Team: Denver, Won: 470, Lost: 15, Tied: 15, Total: 500, Percent: 0.940000
+Team: Drexel, Won: 15, Lost: 470, Tied: 15, Total: 500, Percent: 0.030000
+CORRECT
+#
+Team: Denver, Won: 483, Lost: 8, Tied: 9, Total: 500, Percent: 0.966000
+Team: Duke, Won: 8, Lost: 483, Tied: 9, Total: 500, Percent: 0.016000
+INCORRECT
+#
+Team: Fairfield, Won: 500, Lost: 0, Tied: 0, Total: 500, Percent: 1.000000
+Team: Delaware, Won: 0, Lost: 500, Tied: 0, Total: 500, Percent: 0.000000
+CORRECT
+#
+Team: Fairfield, Won: 500, Lost: 0, Tied: 0, Total: 500, Percent: 1.000000
+Team: Manhattan, Won: 0, Lost: 500, Tied: 0, Total: 500, Percent: 0.000000
+CORRECT
+#
+Team: Fairfield, Won: 485, Lost: 9, Tied: 6, Total: 500, Percent: 0.970000
+Team: Hofstra, Won: 9, Lost: 485, Tied: 6, Total: 500, Percent: 0.018000
+INCORRECT
+#
+Team: Fairfield, Won: 425, Lost: 53, Tied: 22, Total: 500, Percent: 0.850000
+Team: Providence, Won: 53, Lost: 425, Tied: 22, Total: 500, Percent: 0.106000
+INCORRECT
+#
+Team: Fairfield, Won: 425, Lost: 48, Tied: 27, Total: 500, Percent: 0.850000
+Team: Yale, Won: 48, Lost: 425, Tied: 27, Total: 500, Percent: 0.096000
+CORRECT
+#
+Team: Fairfield, Won: 444, Lost: 35, Tied: 21, Total: 500, Percent: 0.888000
+Team: Stony Brook, Won: 35, Lost: 444, Tied: 21, Total: 500, Percent: 0.070000
+CORRECT
+#
+Team: Fairfield, Won: 377, Lost: 94, Tied: 29, Total: 500, Percent: 0.754000
+Team: Massachusetts, Won: 94, Lost: 377, Tied: 29, Total: 500, Percent: 0.188000
+CORRECT
+#
+Team: Fairfield, Won: 367, Lost: 102, Tied: 31, Total: 500, Percent: 0.734000
+Team: Holy Cross, Won: 102, Lost: 367, Tied: 31, Total: 500, Percent: 0.204000
+CORRECT
+#
+Team: Fairfield, Won: 378, Lost: 88, Tied: 34, Total: 500, Percent: 0.756000
+Team: Bellarmine, Won: 88, Lost: 378, Tied: 34, Total: 500, Percent: 0.176000
+CORRECT
+#
+Team: Fairfield, Won: 347, Lost: 121, Tied: 32, Total: 500, Percent: 0.694000
+Team: Bucknell, Won: 121, Lost: 347, Tied: 32, Total: 500, Percent: 0.242000
+CORRECT
+#
+Team: Fairfield, Won: 433, Lost: 45, Tied: 22, Total: 500, Percent: 0.866000
+Team: Michigan, Won: 45, Lost: 433, Tied: 22, Total: 500, Percent: 0.090000
+CORRECT
+#
+Team: Fairfield, Won: 340, Lost: 132, Tied: 28, Total: 500, Percent: 0.680000
+Team: Air Force, Won: 132, Lost: 340, Tied: 28, Total: 500, Percent: 0.264000
+INCORRECT
+#
+Team: Fairfield, Won: 362, Lost: 103, Tied: 35, Total: 500, Percent: 0.724000
+Team: Quinnipiac, Won: 103, Lost: 362, Tied: 35, Total: 500, Percent: 0.206000
+CORRECT
+#
+Team: Fairfield, Won: 339, Lost: 126, Tied: 35, Total: 500, Percent: 0.678000
+Team: Ohio St., Won: 126, Lost: 339, Tied: 35, Total: 500, Percent: 0.252000
+CORRECT
+#
+Team: Fairfield, Won: 404, Lost: 64, Tied: 32, Total: 500, Percent: 0.808000
+Team: Michigan, Won: 64, Lost: 404, Tied: 32, Total: 500, Percent: 0.128000
+CORRECT
+#
+Team: Fairfield, Won: 355, Lost: 103, Tied: 42, Total: 500, Percent: 0.710000
+Team: Air Force, Won: 103, Lost: 355, Tied: 42, Total: 500, Percent: 0.206000
+INCORRECT
+#
+Team: Richmond, Won: 87, Lost: 394, Tied: 19, Total: 500, Percent: 0.174000
+Team: Virginia, Won: 394, Lost: 87, Tied: 19, Total: 500, Percent: 0.788000
+CORRECT
+#
+Team: Richmond, Won: 81, Lost: 398, Tied: 21, Total: 500, Percent: 0.162000
+Team: Hartford, Won: 398, Lost: 81, Tied: 21, Total: 500, Percent: 0.796000
+CORRECT
+#
+Team: Richmond, Won: 97, Lost: 371, Tied: 32, Total: 500, Percent: 0.194000
+Team: Mercer, Won: 371, Lost: 97, Tied: 32, Total: 500, Percent: 0.742000
+CORRECT
+#
+Team: Richmond, Won: 18, Lost: 475, Tied: 7, Total: 500, Percent: 0.036000
+Team: UMBC, Won: 475, Lost: 18, Tied: 7, Total: 500, Percent: 0.950000
+CORRECT
+#
+Team: Richmond, Won: 80, Lost: 393, Tied: 27, Total: 500, Percent: 0.160000
+Team: Holy Cross, Won: 393, Lost: 80, Tied: 27, Total: 500, Percent: 0.786000
+CORRECT
+#
+Team: Richmond, Won: 114, Lost: 345, Tied: 41, Total: 500, Percent: 0.228000
+Team: Vermont, Won: 345, Lost: 114, Tied: 41, Total: 500, Percent: 0.690000
+INCORRECT
+#
+Team: Richmond, Won: 88, Lost: 380, Tied: 32, Total: 500, Percent: 0.176000
+Team: Saint Joseph's, Won: 380, Lost: 88, Tied: 32, Total: 500, Percent: 0.760000
+CORRECT
+#
+Team: Richmond, Won: 195, Lost: 258, Tied: 47, Total: 500, Percent: 0.390000
+Team: Rutgers, Won: 258, Lost: 195, Tied: 47, Total: 500, Percent: 0.516000
+CORRECT
+#
+Team: Richmond, Won: 107, Lost: 364, Tied: 29, Total: 500, Percent: 0.214000
+Team: Wagner, Won: 364, Lost: 107, Tied: 29, Total: 500, Percent: 0.728000
+INCORRECT
+#
+Team: Richmond, Won: 161, Lost: 306, Tied: 33, Total: 500, Percent: 0.322000
+Team: Bryant, Won: 306, Lost: 161, Tied: 33, Total: 500, Percent: 0.612000
+CORRECT
+#
+Team: Richmond, Won: 114, Lost: 342, Tied: 44, Total: 500, Percent: 0.228000
+Team: Furman, Won: 342, Lost: 114, Tied: 44, Total: 500, Percent: 0.684000
+INCORRECT
+#
+Team: Richmond, Won: 108, Lost: 363, Tied: 29, Total: 500, Percent: 0.216000
+Team: High Point, Won: 363, Lost: 108, Tied: 29, Total: 500, Percent: 0.726000
+CORRECT
+#
+Team: Richmond, Won: 110, Lost: 345, Tied: 45, Total: 500, Percent: 0.220000
+Team: Jacksonville, Won: 345, Lost: 110, Tied: 45, Total: 500, Percent: 0.690000
+INCORRECT
+#
+Team: Richmond, Won: 118, Lost: 345, Tied: 37, Total: 500, Percent: 0.236000
+Team: VMI, Won: 345, Lost: 118, Tied: 37, Total: 500, Percent: 0.690000
+CORRECT
+#
+Team: Richmond, Won: 157, Lost: 300, Tied: 43, Total: 500, Percent: 0.314000
+Team: Mercer, Won: 300, Lost: 157, Tied: 43, Total: 500, Percent: 0.600000
+INCORRECT
+#
+Team: Richmond, Won: 144, Lost: 316, Tied: 40, Total: 500, Percent: 0.288000
+Team: High Point, Won: 316, Lost: 144, Tied: 40, Total: 500, Percent: 0.632000
+INCORRECT
+#
+Team: Richmond, Won: 119, Lost: 344, Tied: 37, Total: 500, Percent: 0.238000
+Team: Air Force, Won: 344, Lost: 119, Tied: 37, Total: 500, Percent: 0.688000
+CORRECT
+#
+Team: Boston U., Won: 32, Lost: 439, Tied: 29, Total: 500, Percent: 0.064000
+Team: Mercer, Won: 439, Lost: 32, Tied: 29, Total: 500, Percent: 0.878000
+CORRECT
+#
+Team: Boston U., Won: 27, Lost: 462, Tied: 11, Total: 500, Percent: 0.054000
+Team: Canisius, Won: 462, Lost: 27, Tied: 11, Total: 500, Percent: 0.924000
+CORRECT
+#
+Team: Boston U., Won: 78, Lost: 387, Tied: 35, Total: 500, Percent: 0.156000
+Team: Lehigh, Won: 387, Lost: 78, Tied: 35, Total: 500, Percent: 0.774000
+CORRECT
+#
+Team: Boston U., Won: 72, Lost: 398, Tied: 30, Total: 500, Percent: 0.144000
+Team: Providence, Won: 398, Lost: 72, Tied: 30, Total: 500, Percent: 0.796000
+CORRECT
+#
+Team: Boston U., Won: 64, Lost: 410, Tied: 26, Total: 500, Percent: 0.128000
+Team: Vermont, Won: 410, Lost: 64, Tied: 26, Total: 500, Percent: 0.820000
+CORRECT
+#
+Team: Boston U., Won: 87, Lost: 381, Tied: 32, Total: 500, Percent: 0.174000
+Team: Colgate, Won: 381, Lost: 87, Tied: 32, Total: 500, Percent: 0.762000
+CORRECT
+#
+Team: Boston U., Won: 66, Lost: 406, Tied: 28, Total: 500, Percent: 0.132000
+Team: Lafayette, Won: 406, Lost: 66, Tied: 28, Total: 500, Percent: 0.812000
+INCORRECT
+#
+Team: Boston U., Won: 78, Lost: 383, Tied: 39, Total: 500, Percent: 0.156000
+Team: Bucknell, Won: 383, Lost: 78, Tied: 39, Total: 500, Percent: 0.766000
+CORRECT
+#
+Team: Boston U., Won: 94, Lost: 377, Tied: 29, Total: 500, Percent: 0.188000
+Team: Navy, Won: 377, Lost: 94, Tied: 29, Total: 500, Percent: 0.754000
+CORRECT
+#
+Team: Boston U., Won: 101, Lost: 362, Tied: 37, Total: 500, Percent: 0.202000
+Team: Army West Point, Won: 362, Lost: 101, Tied: 37, Total: 500, Percent: 0.724000
+CORRECT
+#
+Team: Boston U., Won: 132, Lost: 329, Tied: 39, Total: 500, Percent: 0.264000
+Team: Harvard, Won: 329, Lost: 132, Tied: 39, Total: 500, Percent: 0.658000
+CORRECT
+#
+Team: Boston U., Won: 128, Lost: 341, Tied: 31, Total: 500, Percent: 0.256000
+Team: Loyola Maryland, Won: 341, Lost: 128, Tied: 31, Total: 500, Percent: 0.682000
+CORRECT
+#
+Team: Boston U., Won: 105, Lost: 355, Tied: 40, Total: 500, Percent: 0.210000
+Team: Holy Cross, Won: 355, Lost: 105, Tied: 40, Total: 500, Percent: 0.710000
+INCORRECT
+#
+Team: Boston U., Won: 183, Lost: 274, Tied: 43, Total: 500, Percent: 0.366000
+Team: Duke, Won: 274, Lost: 183, Tied: 43, Total: 500, Percent: 0.548000
+CORRECT
+#
+Team: Hofstra, Won: 47, Lost: 425, Tied: 28, Total: 500, Percent: 0.094000
+Team: Marquette, Won: 425, Lost: 47, Tied: 28, Total: 500, Percent: 0.850000
+CORRECT
+#
+Team: Hofstra, Won: 176, Lost: 285, Tied: 39, Total: 500, Percent: 0.352000
+Team: Princeton, Won: 285, Lost: 176, Tied: 39, Total: 500, Percent: 0.570000
+CORRECT
+#
+Team: Hofstra, Won: 234, Lost: 224, Tied: 42, Total: 500, Percent: 0.468000
+Team: Fairfield, Won: 224, Lost: 234, Tied: 42, Total: 500, Percent: 0.448000
+CORRECT
+#
+Team: Hofstra, Won: 216, Lost: 245, Tied: 39, Total: 500, Percent: 0.432000
+Team: Georgetown, Won: 245, Lost: 216, Tied: 39, Total: 500, Percent: 0.490000
+INCORRECT
+#
+Team: Hofstra, Won: 294, Lost: 169, Tied: 37, Total: 500, Percent: 0.588000
+Team: Ohio St., Won: 169, Lost: 294, Tied: 37, Total: 500, Percent: 0.338000
+CORRECT
+#
+Team: Hofstra, Won: 311, Lost: 141, Tied: 48, Total: 500, Percent: 0.622000
+Team: Delaware, Won: 141, Lost: 311, Tied: 48, Total: 500, Percent: 0.282000
+CORRECT
+#
+Team: Hofstra, Won: 275, Lost: 193, Tied: 32, Total: 500, Percent: 0.550000
+Team: St. John's (NY), Won: 193, Lost: 275, Tied: 32, Total: 500, Percent: 0.386000
+INCORRECT
+#
+Team: Hofstra, Won: 365, Lost: 99, Tied: 36, Total: 500, Percent: 0.730000
+Team: Drexel, Won: 99, Lost: 365, Tied: 36, Total: 500, Percent: 0.198000
+CORRECT
+#
+Team: Hofstra, Won: 261, Lost: 198, Tied: 41, Total: 500, Percent: 0.522000
+Team: Towson, Won: 198, Lost: 261, Tied: 41, Total: 500, Percent: 0.396000
+CORRECT
+#
+Team: Hofstra, Won: 330, Lost: 137, Tied: 33, Total: 500, Percent: 0.660000
+Team: Siena, Won: 137, Lost: 330, Tied: 33, Total: 500, Percent: 0.274000
+CORRECT
+#
+Team: Hofstra, Won: 313, Lost: 142, Tied: 45, Total: 500, Percent: 0.626000
+Team: Marist, Won: 142, Lost: 313, Tied: 45, Total: 500, Percent: 0.284000
+CORRECT
+#
+Team: Hofstra, Won: 377, Lost: 87, Tied: 36, Total: 500, Percent: 0.754000
+Team: Cornell, Won: 87, Lost: 377, Tied: 36, Total: 500, Percent: 0.174000
+CORRECT
+#
+Team: Hofstra, Won: 325, Lost: 135, Tied: 40, Total: 500, Percent: 0.650000
+Team: Massachusetts, Won: 135, Lost: 325, Tied: 40, Total: 500, Percent: 0.270000
+CORRECT
+#
+Team: Hofstra, Won: 356, Lost: 104, Tied: 40, Total: 500, Percent: 0.712000
+Team: Penn St., Won: 104, Lost: 356, Tied: 40, Total: 500, Percent: 0.208000
+INCORRECT
+#
+Team: Hofstra, Won: 325, Lost: 128, Tied: 47, Total: 500, Percent: 0.650000
+Team: Delaware, Won: 128, Lost: 325, Tied: 47, Total: 500, Percent: 0.256000
+CORRECT
+#
+Team: Hofstra, Won: 405, Lost: 66, Tied: 29, Total: 500, Percent: 0.810000
+Team: Drexel, Won: 66, Lost: 405, Tied: 29, Total: 500, Percent: 0.132000
+INCORRECT
+#
+Team: High Point, Won: 158, Lost: 305, Tied: 37, Total: 500, Percent: 0.316000
+Team: Delaware, Won: 305, Lost: 158, Tied: 37, Total: 500, Percent: 0.610000
+CORRECT
+#
+Team: High Point, Won: 111, Lost: 351, Tied: 38, Total: 500, Percent: 0.222000
+Team: Towson, Won: 351, Lost: 111, Tied: 38, Total: 500, Percent: 0.702000
+CORRECT
+#
+Team: High Point, Won: 162, Lost: 291, Tied: 47, Total: 500, Percent: 0.324000
+Team: Saint Joseph's, Won: 291, Lost: 162, Tied: 47, Total: 500, Percent: 0.582000
+INCORRECT
+#
+Team: High Point, Won: 52, Lost: 425, Tied: 23, Total: 500, Percent: 0.104000
+Team: Sacred Heart, Won: 425, Lost: 52, Tied: 23, Total: 500, Percent: 0.850000
+INCORRECT
+#
+Team: High Point, Won: 153, Lost: 309, Tied: 38, Total: 500, Percent: 0.306000
+Team: Jacksonville, Won: 309, Lost: 153, Tied: 38, Total: 500, Percent: 0.618000
+INCORRECT
+#
+Team: High Point, Won: 270, Lost: 181, Tied: 49, Total: 500, Percent: 0.540000
+Team: Michigan, Won: 181, Lost: 270, Tied: 49, Total: 500, Percent: 0.362000
+CORRECT
+#
+Team: High Point, Won: 223, Lost: 223, Tied: 54, Total: 500, Percent: 0.446000
+Team: VMI, Won: 223, Lost: 223, Tied: 54, Total: 500, Percent: 0.446000
+INCORRECT
+#
+Team: High Point, Won: 192, Lost: 270, Tied: 38, Total: 500, Percent: 0.384000
+Team: UMBC, Won: 270, Lost: 192, Tied: 38, Total: 500, Percent: 0.540000
+INCORRECT
+#
+Team: High Point, Won: 262, Lost: 199, Tied: 39, Total: 500, Percent: 0.524000
+Team: Mercer, Won: 199, Lost: 262, Tied: 39, Total: 500, Percent: 0.398000
+INCORRECT
+#
+Team: High Point, Won: 267, Lost: 197, Tied: 36, Total: 500, Percent: 0.534000
+Team: Furman, Won: 197, Lost: 267, Tied: 36, Total: 500, Percent: 0.394000
+CORRECT
+#
+Team: High Point, Won: 260, Lost: 197, Tied: 43, Total: 500, Percent: 0.520000
+Team: Bellarmine, Won: 197, Lost: 260, Tied: 43, Total: 500, Percent: 0.394000
+INCORRECT
+#
+Team: High Point, Won: 259, Lost: 198, Tied: 43, Total: 500, Percent: 0.518000
+Team: Richmond, Won: 198, Lost: 259, Tied: 43, Total: 500, Percent: 0.396000
+CORRECT
+#
+Team: High Point, Won: 258, Lost: 192, Tied: 50, Total: 500, Percent: 0.516000
+Team: North Carolina, Won: 192, Lost: 258, Tied: 50, Total: 500, Percent: 0.384000
+INCORRECT
+#
+Team: High Point, Won: 320, Lost: 145, Tied: 35, Total: 500, Percent: 0.640000
+Team: Drexel, Won: 145, Lost: 320, Tied: 35, Total: 500, Percent: 0.290000
+INCORRECT
+#
+Team: High Point, Won: 243, Lost: 211, Tied: 46, Total: 500, Percent: 0.486000
+Team: Jacksonville, Won: 211, Lost: 243, Tied: 46, Total: 500, Percent: 0.422000
+CORRECT
+#
+Team: High Point, Won: 234, Lost: 218, Tied: 48, Total: 500, Percent: 0.468000
+Team: Richmond, Won: 218, Lost: 234, Tied: 48, Total: 500, Percent: 0.436000
+INCORRECT
+#
+Team: Dartmouth, Won: 2, Lost: 497, Tied: 1, Total: 500, Percent: 0.004000
+Team: North Carolina, Won: 497, Lost: 2, Tied: 1, Total: 500, Percent: 0.994000
+CORRECT
+#
+Team: Dartmouth, Won: 56, Lost: 421, Tied: 23, Total: 500, Percent: 0.112000
+Team: Vermont, Won: 421, Lost: 56, Tied: 23, Total: 500, Percent: 0.842000
+CORRECT
+#
+Team: Dartmouth, Won: 17, Lost: 475, Tied: 8, Total: 500, Percent: 0.034000
+Team: Sacred Heart, Won: 475, Lost: 17, Tied: 8, Total: 500, Percent: 0.950000
+INCORRECT
+#
+Team: Dartmouth, Won: 45, Lost: 432, Tied: 23, Total: 500, Percent: 0.090000
+Team: Penn St., Won: 432, Lost: 45, Tied: 23, Total: 500, Percent: 0.864000
+CORRECT
+#
+Team: Dartmouth, Won: 30, Lost: 453, Tied: 17, Total: 500, Percent: 0.060000
+Team: Harvard, Won: 453, Lost: 30, Tied: 17, Total: 500, Percent: 0.906000
+CORRECT
+#
+Team: Dartmouth, Won: 13, Lost: 472, Tied: 15, Total: 500, Percent: 0.026000
+Team: Cornell, Won: 472, Lost: 13, Tied: 15, Total: 500, Percent: 0.944000
+CORRECT
+#
+Team: Dartmouth, Won: 17, Lost: 475, Tied: 8, Total: 500, Percent: 0.034000
+Team: Yale, Won: 475, Lost: 17, Tied: 8, Total: 500, Percent: 0.950000
+CORRECT
+#
+Team: Dartmouth, Won: 19, Lost: 467, Tied: 14, Total: 500, Percent: 0.038000
+Team: Hartford, Won: 467, Lost: 19, Tied: 14, Total: 500, Percent: 0.934000
+CORRECT
+#
+Team: Dartmouth, Won: 16, Lost: 476, Tied: 8, Total: 500, Percent: 0.032000
+Team: Princeton, Won: 476, Lost: 16, Tied: 8, Total: 500, Percent: 0.952000
+CORRECT
+#
+Team: Dartmouth, Won: 20, Lost: 471, Tied: 9, Total: 500, Percent: 0.040000
+Team: Penn, Won: 471, Lost: 20, Tied: 9, Total: 500, Percent: 0.942000
+CORRECT
+#
+Team: Dartmouth, Won: 26, Lost: 449, Tied: 25, Total: 500, Percent: 0.052000
+Team: Brown, Won: 449, Lost: 26, Tied: 25, Total: 500, Percent: 0.898000
+CORRECT
+#
+Team: Dartmouth, Won: 36, Lost: 457, Tied: 7, Total: 500, Percent: 0.072000
+Team: Holy Cross, Won: 457, Lost: 36, Tied: 7, Total: 500, Percent: 0.914000
+INCORRECT
+#
+Team: Penn, Won: 264, Lost: 188, Tied: 48, Total: 500, Percent: 0.528000
+Team: Duke, Won: 188, Lost: 264, Tied: 48, Total: 500, Percent: 0.376000
+INCORRECT
+#
+Team: Penn, Won: 422, Lost: 50, Tied: 28, Total: 500, Percent: 0.844000
+Team: Saint Joseph's, Won: 50, Lost: 422, Tied: 28, Total: 500, Percent: 0.100000
+CORRECT
+#
+Team: Penn, Won: 382, Lost: 93, Tied: 25, Total: 500, Percent: 0.764000
+Team: Denver, Won: 93, Lost: 382, Tied: 25, Total: 500, Percent: 0.186000
+CORRECT
+#
+Team: Penn, Won: 358, Lost: 101, Tied: 41, Total: 500, Percent: 0.716000
+Team: Villanova, Won: 101, Lost: 358, Tied: 41, Total: 500, Percent: 0.202000
+CORRECT
+#
+Team: Penn, Won: 357, Lost: 120, Tied: 23, Total: 500, Percent: 0.714000
+Team: Princeton, Won: 120, Lost: 357, Tied: 23, Total: 500, Percent: 0.240000
+INCORRECT
+#
+Team: Penn, Won: 267, Lost: 191, Tied: 42, Total: 500, Percent: 0.534000
+Team: Cornell, Won: 191, Lost: 267, Tied: 42, Total: 500, Percent: 0.382000
+INCORRECT
+#
+Team: Penn, Won: 239, Lost: 224, Tied: 37, Total: 500, Percent: 0.478000
+Team: Yale, Won: 224, Lost: 239, Tied: 37, Total: 500, Percent: 0.448000
+CORRECT
+#
+Team: Penn, Won: 265, Lost: 199, Tied: 36, Total: 500, Percent: 0.530000
+Team: Brown, Won: 199, Lost: 265, Tied: 36, Total: 500, Percent: 0.398000
+CORRECT
+#
+Team: Penn, Won: 240, Lost: 220, Tied: 40, Total: 500, Percent: 0.480000
+Team: Harvard, Won: 220, Lost: 240, Tied: 40, Total: 500, Percent: 0.440000
+CORRECT
+#
+Team: Penn, Won: 236, Lost: 226, Tied: 38, Total: 500, Percent: 0.472000
+Team: Dartmouth, Won: 226, Lost: 236, Tied: 38, Total: 500, Percent: 0.452000
+CORRECT
+#
+Team: Penn, Won: 206, Lost: 238, Tied: 56, Total: 500, Percent: 0.412000
+Team: Towson, Won: 238, Lost: 206, Tied: 56, Total: 500, Percent: 0.476000
+INCORRECT
+#
+Team: Penn, Won: 275, Lost: 192, Tied: 33, Total: 500, Percent: 0.550000
+Team: St. John's (NY), Won: 192, Lost: 275, Tied: 33, Total: 500, Percent: 0.384000
+CORRECT
+#
+Team: Penn, Won: 339, Lost: 116, Tied: 45, Total: 500, Percent: 0.678000
+Team: Cornell, Won: 116, Lost: 339, Tied: 45, Total: 500, Percent: 0.232000
+CORRECT
+#
+Team: Penn, Won: 310, Lost: 151, Tied: 39, Total: 500, Percent: 0.620000
+Team: Harvard, Won: 151, Lost: 310, Tied: 39, Total: 500, Percent: 0.302000
+CORRECT
+#
+Team: Penn, Won: 349, Lost: 107, Tied: 44, Total: 500, Percent: 0.698000
+Team: Drexel, Won: 107, Lost: 349, Tied: 44, Total: 500, Percent: 0.214000
+INCORRECT
+#
+Team: Maryland, Won: 490, Lost: 5, Tied: 5, Total: 500, Percent: 0.980000
+Team: Mt. St. Mary's, Won: 5, Lost: 490, Tied: 5, Total: 500, Percent: 0.010000
+CORRECT
+#
+Team: Maryland, Won: 489, Lost: 6, Tied: 5, Total: 500, Percent: 0.978000
+Team: UMBC, Won: 6, Lost: 489, Tied: 5, Total: 500, Percent: 0.012000
+CORRECT
+#
+Team: Maryland, Won: 500, Lost: 0, Tied: 0, Total: 500, Percent: 1.000000
+Team: Syracuse, Won: 0, Lost: 500, Tied: 0, Total: 500, Percent: 0.000000
+CORRECT
+#
+Team: Maryland, Won: 500, Lost: 0, Tied: 0, Total: 500, Percent: 1.000000
+Team: Duke, Won: 0, Lost: 500, Tied: 0, Total: 500, Percent: 0.000000
+CORRECT
+#
+Team: Maryland, Won: 497, Lost: 0, Tied: 3, Total: 500, Percent: 0.994000
+Team: Stony Brook, Won: 0, Lost: 497, Tied: 3, Total: 500, Percent: 0.000000
+CORRECT
+#
+Team: Maryland, Won: 488, Lost: 9, Tied: 3, Total: 500, Percent: 0.976000
+Team: Villanova, Won: 9, Lost: 488, Tied: 3, Total: 500, Percent: 0.018000
+CORRECT
+#
+Team: Maryland, Won: 481, Lost: 10, Tied: 9, Total: 500, Percent: 0.962000
+Team: Michigan, Won: 10, Lost: 481, Tied: 9, Total: 500, Percent: 0.020000
+CORRECT
+#
+Team: Maryland, Won: 472, Lost: 15, Tied: 13, Total: 500, Percent: 0.944000
+Team: North Carolina, Won: 15, Lost: 472, Tied: 13, Total: 500, Percent: 0.030000
+INCORRECT
+#
+Team: Maryland, Won: 471, Lost: 18, Tied: 11, Total: 500, Percent: 0.942000
+Team: Virginia, Won: 18, Lost: 471, Tied: 11, Total: 500, Percent: 0.036000
+CORRECT
+#
+Team: Maryland, Won: 469, Lost: 19, Tied: 12, Total: 500, Percent: 0.938000
+Team: Robert Morris, Won: 19, Lost: 469, Tied: 12, Total: 500, Percent: 0.038000
+CORRECT
+#
+Team: Maryland, Won: 464, Lost: 22, Tied: 14, Total: 500, Percent: 0.928000
+Team: Johns Hopkins, Won: 22, Lost: 464, Tied: 14, Total: 500, Percent: 0.044000
+INCORRECT
+#
+Team: Maryland, Won: 467, Lost: 17, Tied: 16, Total: 500, Percent: 0.934000
+Team: Notre Dame, Won: 17, Lost: 467, Tied: 16, Total: 500, Percent: 0.034000
+CORRECT
+#
+Team: Maryland, Won: 440, Lost: 36, Tied: 24, Total: 500, Percent: 0.880000
+Team: Notre Dame, Won: 36, Lost: 440, Tied: 24, Total: 500, Percent: 0.072000
+INCORRECT
+#
+Team: Maryland, Won: 441, Lost: 38, Tied: 21, Total: 500, Percent: 0.882000
+Team: Navy, Won: 38, Lost: 441, Tied: 21, Total: 500, Percent: 0.076000
+CORRECT
+#
+Team: Maryland, Won: 461, Lost: 21, Tied: 18, Total: 500, Percent: 0.922000
+Team: Cornell, Won: 21, Lost: 461, Tied: 18, Total: 500, Percent: 0.042000
+CORRECT
+#
+Team: Maryland, Won: 470, Lost: 21, Tied: 9, Total: 500, Percent: 0.940000
+Team: Bryant, Won: 21, Lost: 470, Tied: 9, Total: 500, Percent: 0.042000
+CORRECT
+#
+Team: Maryland, Won: 440, Lost: 45, Tied: 15, Total: 500, Percent: 0.880000
+Team: Notre Dame, Won: 45, Lost: 440, Tied: 15, Total: 500, Percent: 0.090000
+INCORRECT
+#
+Team: Manhattan, Won: 1, Lost: 499, Tied: 0, Total: 500, Percent: 0.002000
+Team: Rutgers, Won: 499, Lost: 1, Tied: 0, Total: 500, Percent: 0.998000
+CORRECT
+#
+Team: Manhattan, Won: 1, Lost: 499, Tied: 0, Total: 500, Percent: 0.002000
+Team: North Carolina, Won: 499, Lost: 1, Tied: 0, Total: 500, Percent: 0.998000
+CORRECT
+#
+Team: Manhattan, Won: 0, Lost: 500, Tied: 0, Total: 500, Percent: 0.000000
+Team: Fairfield, Won: 500, Lost: 0, Tied: 0, Total: 500, Percent: 1.000000
+CORRECT
+#
+Team: Manhattan, Won: 5, Lost: 492, Tied: 3, Total: 500, Percent: 0.010000
+Team: Princeton, Won: 492, Lost: 5, Tied: 3, Total: 500, Percent: 0.984000
+CORRECT
+#
+Team: Manhattan, Won: 0, Lost: 498, Tied: 2, Total: 500, Percent: 0.000000
+Team: Hartford, Won: 498, Lost: 0, Tied: 2, Total: 500, Percent: 0.996000
+CORRECT
+#
+Team: Manhattan, Won: 1, Lost: 499, Tied: 0, Total: 500, Percent: 0.002000
+Team: Mt. St. Mary's, Won: 499, Lost: 1, Tied: 0, Total: 500, Percent: 0.998000
+INCORRECT
+#
+Team: Manhattan, Won: 8, Lost: 485, Tied: 7, Total: 500, Percent: 0.016000
+Team: Quinnipiac, Won: 485, Lost: 8, Tied: 7, Total: 500, Percent: 0.970000
+CORRECT
+#
+Team: Manhattan, Won: 20, Lost: 471, Tied: 9, Total: 500, Percent: 0.040000
+Team: Stony Brook, Won: 471, Lost: 20, Tied: 9, Total: 500, Percent: 0.942000
+CORRECT
+#
+Team: Manhattan, Won: 13, Lost: 476, Tied: 11, Total: 500, Percent: 0.026000
+Team: Marist, Won: 476, Lost: 13, Tied: 11, Total: 500, Percent: 0.952000
+INCORRECT
+#
+Team: Manhattan, Won: 22, Lost: 463, Tied: 15, Total: 500, Percent: 0.044000
+Team: Delaware, Won: 463, Lost: 22, Tied: 15, Total: 500, Percent: 0.926000
+CORRECT
+#
+Team: Manhattan, Won: 15, Lost: 471, Tied: 14, Total: 500, Percent: 0.030000
+Team: Canisius, Won: 471, Lost: 15, Tied: 14, Total: 500, Percent: 0.942000
+CORRECT
+#
+Team: Manhattan, Won: 23, Lost: 464, Tied: 13, Total: 500, Percent: 0.046000
+Team: Lafayette, Won: 464, Lost: 23, Tied: 13, Total: 500, Percent: 0.928000
+INCORRECT
+#
+Team: Manhattan, Won: 17, Lost: 473, Tied: 10, Total: 500, Percent: 0.034000
+Team: Monmouth, Won: 473, Lost: 17, Tied: 10, Total: 500, Percent: 0.946000
+INCORRECT
+#
+Team: Manhattan, Won: 53, Lost: 420, Tied: 27, Total: 500, Percent: 0.106000
+Team: Detroit, Won: 420, Lost: 53, Tied: 27, Total: 500, Percent: 0.840000
+INCORRECT
+#
+Team: Manhattan, Won: 90, Lost: 382, Tied: 28, Total: 500, Percent: 0.180000
+Team: Siena, Won: 382, Lost: 90, Tied: 28, Total: 500, Percent: 0.764000
+CORRECT
+#
+Team: Bucknell, Won: 212, Lost: 229, Tied: 59, Total: 500, Percent: 0.424000
+Team: Delaware, Won: 229, Lost: 212, Tied: 59, Total: 500, Percent: 0.458000
+INCORRECT
+#
+Team: Bucknell, Won: 216, Lost: 235, Tied: 49, Total: 500, Percent: 0.432000
+Team: Bryant, Won: 235, Lost: 216, Tied: 49, Total: 500, Percent: 0.470000
+CORRECT
+#
+Team: Bucknell, Won: 227, Lost: 222, Tied: 51, Total: 500, Percent: 0.454000
+Team: Navy, Won: 222, Lost: 227, Tied: 51, Total: 500, Percent: 0.444000
+CORRECT
+#
+Team: Bucknell, Won: 323, Lost: 146, Tied: 31, Total: 500, Percent: 0.646000
+Team: Colgate, Won: 146, Lost: 323, Tied: 31, Total: 500, Percent: 0.292000
+INCORRECT
+#
+Team: Bucknell, Won: 233, Lost: 216, Tied: 51, Total: 500, Percent: 0.466000
+Team: Lehigh, Won: 216, Lost: 233, Tied: 51, Total: 500, Percent: 0.432000
+INCORRECT
+#
+Team: Bucknell, Won: 164, Lost: 287, Tied: 49, Total: 500, Percent: 0.328000
+Team: North Carolina, Won: 287, Lost: 164, Tied: 49, Total: 500, Percent: 0.574000
+CORRECT
+#
+Team: Bucknell, Won: 135, Lost: 338, Tied: 27, Total: 500, Percent: 0.270000
+Team: Holy Cross, Won: 338, Lost: 135, Tied: 27, Total: 500, Percent: 0.676000
+INCORRECT
+#
+Team: Bucknell, Won: 200, Lost: 254, Tied: 46, Total: 500, Percent: 0.400000
+Team: Brown, Won: 254, Lost: 200, Tied: 46, Total: 500, Percent: 0.508000
+INCORRECT
+#
+Team: Bucknell, Won: 137, Lost: 324, Tied: 39, Total: 500, Percent: 0.274000
+Team: Boston U., Won: 324, Lost: 137, Tied: 39, Total: 500, Percent: 0.648000
+INCORRECT
+#
+Team: Bucknell, Won: 140, Lost: 321, Tied: 39, Total: 500, Percent: 0.280000
+Team: Army West Point, Won: 321, Lost: 140, Tied: 39, Total: 500, Percent: 0.642000
+CORRECT
+#
+Team: Bucknell, Won: 191, Lost: 262, Tied: 47, Total: 500, Percent: 0.382000
+Team: Fairfield, Won: 262, Lost: 191, Tied: 47, Total: 500, Percent: 0.524000
+CORRECT
+#
+Team: Bucknell, Won: 124, Lost: 326, Tied: 50, Total: 500, Percent: 0.248000
+Team: Mt. St. Mary's, Won: 326, Lost: 124, Tied: 50, Total: 500, Percent: 0.652000
+INCORRECT
+#
+Team: Bucknell, Won: 131, Lost: 333, Tied: 36, Total: 500, Percent: 0.262000
+Team: Lafayette, Won: 333, Lost: 131, Tied: 36, Total: 500, Percent: 0.666000
+INCORRECT
+#
+Team: Bucknell, Won: 235, Lost: 220, Tied: 45, Total: 500, Percent: 0.470000
+Team: Loyola Maryland, Won: 220, Lost: 235, Tied: 45, Total: 500, Percent: 0.440000
+INCORRECT
+#
+Team: Bucknell, Won: 238, Lost: 204, Tied: 58, Total: 500, Percent: 0.476000
+Team: Colgate, Won: 204, Lost: 238, Tied: 58, Total: 500, Percent: 0.408000
+INCORRECT
+#
+Team: Stony Brook, Won: 283, Lost: 174, Tied: 43, Total: 500, Percent: 0.566000
+Team: Marist, Won: 174, Lost: 283, Tied: 43, Total: 500, Percent: 0.348000
+INCORRECT
+#
+Team: Stony Brook, Won: 230, Lost: 221, Tied: 49, Total: 500, Percent: 0.460000
+Team: Lafayette, Won: 221, Lost: 230, Tied: 49, Total: 500, Percent: 0.442000
+CORRECT
+#
+Team: Stony Brook, Won: 415, Lost: 69, Tied: 16, Total: 500, Percent: 0.830000
+Team: Duke, Won: 69, Lost: 415, Tied: 16, Total: 500, Percent: 0.138000
+INCORRECT
+#
+Team: Stony Brook, Won: 383, Lost: 87, Tied: 30, Total: 500, Percent: 0.766000
+Team: Rutgers, Won: 87, Lost: 383, Tied: 30, Total: 500, Percent: 0.174000
+CORRECT
+#
+Team: Stony Brook, Won: 268, Lost: 192, Tied: 40, Total: 500, Percent: 0.536000
+Team: Maryland, Won: 192, Lost: 268, Tied: 40, Total: 500, Percent: 0.384000
+INCORRECT
+#
+Team: Stony Brook, Won: 229, Lost: 234, Tied: 37, Total: 500, Percent: 0.458000
+Team: Sacred Heart, Won: 234, Lost: 229, Tied: 37, Total: 500, Percent: 0.468000
+INCORRECT
+#
+Team: Stony Brook, Won: 285, Lost: 178, Tied: 37, Total: 500, Percent: 0.570000
+Team: Fairfield, Won: 178, Lost: 285, Tied: 37, Total: 500, Percent: 0.356000
+INCORRECT
+#
+Team: Stony Brook, Won: 209, Lost: 255, Tied: 36, Total: 500, Percent: 0.418000
+Team: Manhattan, Won: 255, Lost: 209, Tied: 36, Total: 500, Percent: 0.510000
+INCORRECT
+#
+Team: Stony Brook, Won: 280, Lost: 166, Tied: 54, Total: 500, Percent: 0.560000
+Team: St. John's (NY), Won: 166, Lost: 280, Tied: 54, Total: 500, Percent: 0.332000
+INCORRECT
+#
+Team: Stony Brook, Won: 281, Lost: 184, Tied: 35, Total: 500, Percent: 0.562000
+Team: UMBC, Won: 184, Lost: 281, Tied: 35, Total: 500, Percent: 0.368000
+INCORRECT
+#
+Team: Stony Brook, Won: 296, Lost: 166, Tied: 38, Total: 500, Percent: 0.592000
+Team: Quinnipiac, Won: 166, Lost: 296, Tied: 38, Total: 500, Percent: 0.332000
+INCORRECT
+#
+Team: Stony Brook, Won: 324, Lost: 125, Tied: 51, Total: 500, Percent: 0.648000
+Team: Vermont, Won: 125, Lost: 324, Tied: 51, Total: 500, Percent: 0.250000
+CORRECT
+#
+Team: Stony Brook, Won: 339, Lost: 134, Tied: 27, Total: 500, Percent: 0.678000
+Team: Albany (NY), Won: 134, Lost: 339, Tied: 27, Total: 500, Percent: 0.268000
+INCORRECT
+#
+Team: Stony Brook, Won: 234, Lost: 225, Tied: 41, Total: 500, Percent: 0.468000
+Team: Binghamton, Won: 225, Lost: 234, Tied: 41, Total: 500, Percent: 0.450000
+INCORRECT
+#
+Team: Stony Brook, Won: 271, Lost: 183, Tied: 46, Total: 500, Percent: 0.542000
+Team: Hartford, Won: 183, Lost: 271, Tied: 46, Total: 500, Percent: 0.366000
+CORRECT
+#
+Team: Stony Brook, Won: 331, Lost: 132, Tied: 37, Total: 500, Percent: 0.662000
+Team: Albany (NY), Won: 132, Lost: 331, Tied: 37, Total: 500, Percent: 0.264000
+INCORRECT
+#
+Team: Penn St., Won: 446, Lost: 30, Tied: 24, Total: 500, Percent: 0.892000
+Team: Michigan, Won: 30, Lost: 446, Tied: 24, Total: 500, Percent: 0.060000
+CORRECT
+#
+Team: Penn St., Won: 433, Lost: 43, Tied: 24, Total: 500, Percent: 0.866000
+Team: Loyola Maryland, Won: 43, Lost: 433, Tied: 24, Total: 500, Percent: 0.086000
+INCORRECT
+#
+Team: Penn St., Won: 451, Lost: 29, Tied: 20, Total: 500, Percent: 0.902000
+Team: Notre Dame, Won: 29, Lost: 451, Tied: 20, Total: 500, Percent: 0.058000
+CORRECT
+#
+Team: Penn St., Won: 373, Lost: 93, Tied: 34, Total: 500, Percent: 0.746000
+Team: Ohio St., Won: 93, Lost: 373, Tied: 34, Total: 500, Percent: 0.186000
+CORRECT
+#
+Team: Penn St., Won: 256, Lost: 203, Tied: 41, Total: 500, Percent: 0.512000
+Team: Denver, Won: 203, Lost: 256, Tied: 41, Total: 500, Percent: 0.406000
+INCORRECT
+#
+Team: Penn St., Won: 289, Lost: 176, Tied: 35, Total: 500, Percent: 0.578000
+Team: Massachusetts, Won: 176, Lost: 289, Tied: 35, Total: 500, Percent: 0.352000
+INCORRECT
+#
+Team: Penn St., Won: 237, Lost: 220, Tied: 43, Total: 500, Percent: 0.474000
+Team: Dartmouth, Won: 220, Lost: 237, Tied: 43, Total: 500, Percent: 0.440000
+CORRECT
+#
+Team: Penn St., Won: 327, Lost: 140, Tied: 33, Total: 500, Percent: 0.654000
+Team: Albany (NY), Won: 140, Lost: 327, Tied: 33, Total: 500, Percent: 0.280000
+INCORRECT
+#
+Team: Penn St., Won: 210, Lost: 245, Tied: 45, Total: 500, Percent: 0.420000
+Team: Villanova, Won: 245, Lost: 210, Tied: 45, Total: 500, Percent: 0.490000
+CORRECT
+#
+Team: Penn St., Won: 334, Lost: 111, Tied: 55, Total: 500, Percent: 0.668000
+Team: Drexel, Won: 111, Lost: 334, Tied: 55, Total: 500, Percent: 0.222000
+INCORRECT
+#
+Team: Penn St., Won: 241, Lost: 221, Tied: 38, Total: 500, Percent: 0.482000
+Team: Towson, Won: 221, Lost: 241, Tied: 38, Total: 500, Percent: 0.442000
+CORRECT
+#
+Team: Penn St., Won: 292, Lost: 161, Tied: 47, Total: 500, Percent: 0.584000
+Team: Delaware, Won: 161, Lost: 292, Tied: 47, Total: 500, Percent: 0.322000
+CORRECT
+#
+Team: Penn St., Won: 274, Lost: 185, Tied: 41, Total: 500, Percent: 0.548000
+Team: Hofstra, Won: 185, Lost: 274, Tied: 41, Total: 500, Percent: 0.370000
+CORRECT
+#
+Team: Georgetown, Won: 279, Lost: 176, Tied: 45, Total: 500, Percent: 0.558000
+Team: Mt. St. Mary's, Won: 176, Lost: 279, Tied: 45, Total: 500, Percent: 0.352000
+CORRECT
+#
+Team: Georgetown, Won: 409, Lost: 64, Tied: 27, Total: 500, Percent: 0.818000
+Team: Navy, Won: 64, Lost: 409, Tied: 27, Total: 500, Percent: 0.128000
+CORRECT
+#
+Team: Georgetown, Won: 383, Lost: 76, Tied: 41, Total: 500, Percent: 0.766000
+Team: Towson, Won: 76, Lost: 383, Tied: 41, Total: 500, Percent: 0.152000
+INCORRECT
+#
+Team: Georgetown, Won: 349, Lost: 125, Tied: 26, Total: 500, Percent: 0.698000
+Team: Hofstra, Won: 125, Lost: 349, Tied: 26, Total: 500, Percent: 0.250000
+INCORRECT
+#
+Team: Georgetown, Won: 251, Lost: 190, Tied: 59, Total: 500, Percent: 0.502000
+Team: Harvard, Won: 190, Lost: 251, Tied: 59, Total: 500, Percent: 0.380000
+INCORRECT
+#
+Team: Georgetown, Won: 176, Lost: 285, Tied: 39, Total: 500, Percent: 0.352000
+Team: Furman, Won: 285, Lost: 176, Tied: 39, Total: 500, Percent: 0.570000
+INCORRECT
+#
+Team: Georgetown, Won: 205, Lost: 253, Tied: 42, Total: 500, Percent: 0.410000
+Team: St. John's (NY), Won: 253, Lost: 205, Tied: 42, Total: 500, Percent: 0.506000
+CORRECT
+#
+Team: Georgetown, Won: 238, Lost: 227, Tied: 35, Total: 500, Percent: 0.476000
+Team: Loyola Maryland, Won: 227, Lost: 238, Tied: 35, Total: 500, Percent: 0.454000
+INCORRECT
+#
+Team: Georgetown, Won: 149, Lost: 311, Tied: 40, Total: 500, Percent: 0.298000
+Team: Villanova, Won: 311, Lost: 149, Tied: 40, Total: 500, Percent: 0.622000
+CORRECT
+#
+Team: Georgetown, Won: 127, Lost: 347, Tied: 26, Total: 500, Percent: 0.254000
+Team: Denver, Won: 347, Lost: 127, Tied: 26, Total: 500, Percent: 0.694000
+CORRECT
+#
+Team: Georgetown, Won: 146, Lost: 316, Tied: 38, Total: 500, Percent: 0.292000
+Team: Providence, Won: 316, Lost: 146, Tied: 38, Total: 500, Percent: 0.632000
+INCORRECT
+#
+Team: Georgetown, Won: 139, Lost: 313, Tied: 48, Total: 500, Percent: 0.278000
+Team: Lehigh, Won: 313, Lost: 139, Tied: 48, Total: 500, Percent: 0.626000
+CORRECT
+#
+Team: Georgetown, Won: 105, Lost: 361, Tied: 34, Total: 500, Percent: 0.210000
+Team: Marquette, Won: 361, Lost: 105, Tied: 34, Total: 500, Percent: 0.722000
+CORRECT
+#
+Team: Georgetown, Won: 190, Lost: 267, Tied: 43, Total: 500, Percent: 0.380000
+Team: Rutgers, Won: 267, Lost: 190, Tied: 43, Total: 500, Percent: 0.534000
+CORRECT
+#
+Team: VMI, Won: 0, Lost: 499, Tied: 1, Total: 500, Percent: 0.000000
+Team: Navy, Won: 499, Lost: 0, Tied: 1, Total: 500, Percent: 0.998000
+CORRECT
+#
+Team: VMI, Won: 1, Lost: 499, Tied: 0, Total: 500, Percent: 0.002000
+Team: Army West Point, Won: 499, Lost: 1, Tied: 0, Total: 500, Percent: 0.998000
+CORRECT
+#
+Team: VMI, Won: 0, Lost: 500, Tied: 0, Total: 500, Percent: 0.000000
+Team: Saint Joseph's, Won: 500, Lost: 0, Tied: 0, Total: 500, Percent: 1.000000
+CORRECT
+#
+Team: VMI, Won: 9, Lost: 476, Tied: 15, Total: 500, Percent: 0.018000
+Team: Detroit, Won: 476, Lost: 9, Tied: 15, Total: 500, Percent: 0.952000
+CORRECT
+#
+Team: VMI, Won: 11, Lost: 481, Tied: 8, Total: 500, Percent: 0.022000
+Team: Air Force, Won: 481, Lost: 11, Tied: 8, Total: 500, Percent: 0.962000
+INCORRECT
+#
+Team: VMI, Won: 20, Lost: 466, Tied: 14, Total: 500, Percent: 0.040000
+Team: Vermont, Won: 466, Lost: 20, Tied: 14, Total: 500, Percent: 0.932000
+CORRECT
+#
+Team: VMI, Won: 5, Lost: 485, Tied: 10, Total: 500, Percent: 0.010000
+Team: High Point, Won: 485, Lost: 5, Tied: 10, Total: 500, Percent: 0.970000
+CORRECT
+#
+Team: VMI, Won: 19, Lost: 472, Tied: 9, Total: 500, Percent: 0.038000
+Team: Mercer, Won: 472, Lost: 19, Tied: 9, Total: 500, Percent: 0.944000
+CORRECT
+#
+Team: VMI, Won: 26, Lost: 465, Tied: 9, Total: 500, Percent: 0.052000
+Team: Wagner, Won: 465, Lost: 26, Tied: 9, Total: 500, Percent: 0.930000
+CORRECT
+#
+Team: VMI, Won: 12, Lost: 473, Tied: 15, Total: 500, Percent: 0.024000
+Team: Virginia, Won: 473, Lost: 12, Tied: 15, Total: 500, Percent: 0.946000
+CORRECT
+#
+Team: VMI, Won: 12, Lost: 480, Tied: 8, Total: 500, Percent: 0.024000
+Team: Jacksonville, Won: 480, Lost: 12, Tied: 8, Total: 500, Percent: 0.960000
+CORRECT
+#
+Team: VMI, Won: 16, Lost: 472, Tied: 12, Total: 500, Percent: 0.032000
+Team: Furman, Won: 472, Lost: 16, Tied: 12, Total: 500, Percent: 0.944000
+CORRECT
+#
+Team: VMI, Won: 6, Lost: 485, Tied: 9, Total: 500, Percent: 0.012000
+Team: Canisius, Won: 485, Lost: 6, Tied: 9, Total: 500, Percent: 0.970000
+CORRECT
+#
+Team: VMI, Won: 15, Lost: 479, Tied: 6, Total: 500, Percent: 0.030000
+Team: Richmond, Won: 479, Lost: 15, Tied: 6, Total: 500, Percent: 0.958000
+INCORRECT
+#
+Team: Michigan, Won: 107, Lost: 371, Tied: 22, Total: 500, Percent: 0.214000
+Team: Penn St., Won: 371, Lost: 107, Tied: 22, Total: 500, Percent: 0.742000
+CORRECT
+#
+Team: Michigan, Won: 121, Lost: 351, Tied: 28, Total: 500, Percent: 0.242000
+Team: Mercer, Won: 351, Lost: 121, Tied: 28, Total: 500, Percent: 0.702000
+INCORRECT
+#
+Team: Michigan, Won: 94, Lost: 381, Tied: 25, Total: 500, Percent: 0.188000
+Team: Detroit, Won: 381, Lost: 94, Tied: 25, Total: 500, Percent: 0.762000
+INCORRECT
+#
+Team: Michigan, Won: 216, Lost: 252, Tied: 32, Total: 500, Percent: 0.432000
+Team: Johns Hopkins, Won: 252, Lost: 216, Tied: 32, Total: 500, Percent: 0.504000
+CORRECT
+#
+Team: Michigan, Won: 181, Lost: 283, Tied: 36, Total: 500, Percent: 0.362000
+Team: Cornell, Won: 283, Lost: 181, Tied: 36, Total: 500, Percent: 0.566000
+CORRECT
+#
+Team: Michigan, Won: 79, Lost: 397, Tied: 24, Total: 500, Percent: 0.158000
+Team: High Point, Won: 397, Lost: 79, Tied: 24, Total: 500, Percent: 0.794000
+CORRECT
+#
+Team: Michigan, Won: 73, Lost: 401, Tied: 26, Total: 500, Percent: 0.146000
+Team: Furman, Won: 401, Lost: 73, Tied: 26, Total: 500, Percent: 0.802000
+INCORRECT
+#
+Team: Michigan, Won: 123, Lost: 336, Tied: 41, Total: 500, Percent: 0.246000
+Team: Bellarmine, Won: 336, Lost: 123, Tied: 41, Total: 500, Percent: 0.672000
+INCORRECT
+#
+Team: Michigan, Won: 86, Lost: 382, Tied: 32, Total: 500, Percent: 0.172000
+Team: Maryland, Won: 382, Lost: 86, Tied: 32, Total: 500, Percent: 0.764000
+CORRECT
+#
+Team: Michigan, Won: 78, Lost: 391, Tied: 31, Total: 500, Percent: 0.156000
+Team: Saint Joseph's, Won: 391, Lost: 78, Tied: 31, Total: 500, Percent: 0.782000
+CORRECT
+#
+Team: Michigan, Won: 73, Lost: 396, Tied: 31, Total: 500, Percent: 0.146000
+Team: Air Force, Won: 396, Lost: 73, Tied: 31, Total: 500, Percent: 0.792000
+CORRECT
+#
+Team: Michigan, Won: 90, Lost: 374, Tied: 36, Total: 500, Percent: 0.180000
+Team: Fairfield, Won: 374, Lost: 90, Tied: 36, Total: 500, Percent: 0.748000
+CORRECT
+#
+Team: Michigan, Won: 85, Lost: 388, Tied: 27, Total: 500, Percent: 0.170000
+Team: Ohio St., Won: 388, Lost: 85, Tied: 27, Total: 500, Percent: 0.776000
+CORRECT
+#
+Team: Michigan, Won: 78, Lost: 394, Tied: 28, Total: 500, Percent: 0.156000
+Team: Yale, Won: 394, Lost: 78, Tied: 28, Total: 500, Percent: 0.788000
+CORRECT
+#
+Team: Michigan, Won: 84, Lost: 390, Tied: 26, Total: 500, Percent: 0.168000
+Team: Robert Morris, Won: 390, Lost: 84, Tied: 26, Total: 500, Percent: 0.780000
+INCORRECT
+#
+Team: Michigan, Won: 82, Lost: 385, Tied: 33, Total: 500, Percent: 0.164000
+Team: Fairfield, Won: 385, Lost: 82, Tied: 33, Total: 500, Percent: 0.770000
+CORRECT
+#
+Team: Quinnipiac, Won: 7, Lost: 481, Tied: 12, Total: 500, Percent: 0.014000
+Team: Brown, Won: 481, Lost: 7, Tied: 12, Total: 500, Percent: 0.962000
+CORRECT
+#
+Team: Quinnipiac, Won: 201, Lost: 241, Tied: 58, Total: 500, Percent: 0.402000
+Team: Providence, Won: 241, Lost: 201, Tied: 58, Total: 500, Percent: 0.482000
+INCORRECT
+#
+Team: Quinnipiac, Won: 160, Lost: 303, Tied: 37, Total: 500, Percent: 0.320000
+Team: Harvard, Won: 303, Lost: 160, Tied: 37, Total: 500, Percent: 0.606000
+CORRECT
+#
+Team: Quinnipiac, Won: 230, Lost: 222, Tied: 48, Total: 500, Percent: 0.460000
+Team: Hartford, Won: 222, Lost: 230, Tied: 48, Total: 500, Percent: 0.444000
+INCORRECT
+#
+Team: Quinnipiac, Won: 121, Lost: 349, Tied: 30, Total: 500, Percent: 0.242000
+Team: Manhattan, Won: 349, Lost: 121, Tied: 30, Total: 500, Percent: 0.698000
+INCORRECT
+#
+Team: Quinnipiac, Won: 148, Lost: 314, Tied: 38, Total: 500, Percent: 0.296000
+Team: Marist, Won: 314, Lost: 148, Tied: 38, Total: 500, Percent: 0.628000
+CORRECT
+#
+Team: Quinnipiac, Won: 161, Lost: 305, Tied: 34, Total: 500, Percent: 0.322000
+Team: Detroit, Won: 305, Lost: 161, Tied: 34, Total: 500, Percent: 0.610000
+INCORRECT
+#
+Team: Quinnipiac, Won: 264, Lost: 197, Tied: 39, Total: 500, Percent: 0.528000
+Team: Stony Brook, Won: 197, Lost: 264, Tied: 39, Total: 500, Percent: 0.394000
+CORRECT
+#
+Team: Quinnipiac, Won: 146, Lost: 310, Tied: 44, Total: 500, Percent: 0.292000
+Team: Monmouth, Won: 310, Lost: 146, Tied: 44, Total: 500, Percent: 0.620000
+INCORRECT
+#
+Team: Quinnipiac, Won: 190, Lost: 260, Tied: 50, Total: 500, Percent: 0.380000
+Team: Canisius, Won: 260, Lost: 190, Tied: 50, Total: 500, Percent: 0.520000
+CORRECT
+#
+Team: Quinnipiac, Won: 177, Lost: 276, Tied: 47, Total: 500, Percent: 0.354000
+Team: Fairfield, Won: 276, Lost: 177, Tied: 47, Total: 500, Percent: 0.552000
+CORRECT
+#
+Team: Quinnipiac, Won: 218, Lost: 232, Tied: 50, Total: 500, Percent: 0.436000
+Team: Siena, Won: 232, Lost: 218, Tied: 50, Total: 500, Percent: 0.464000
+CORRECT
+#
+Team: Quinnipiac, Won: 199, Lost: 253, Tied: 48, Total: 500, Percent: 0.398000
+Team: Yale, Won: 253, Lost: 199, Tied: 48, Total: 500, Percent: 0.506000
+CORRECT
+#
+Team: Quinnipiac, Won: 140, Lost: 326, Tied: 34, Total: 500, Percent: 0.280000
+Team: Air Force, Won: 326, Lost: 140, Tied: 34, Total: 500, Percent: 0.652000
+INCORRECT
+#
+Team: Virginia, Won: 267, Lost: 191, Tied: 42, Total: 500, Percent: 0.534000
+Team: Loyola Maryland, Won: 191, Lost: 267, Tied: 42, Total: 500, Percent: 0.382000
+CORRECT
+#
+Team: Virginia, Won: 257, Lost: 206, Tied: 37, Total: 500, Percent: 0.514000
+Team: Richmond, Won: 206, Lost: 257, Tied: 37, Total: 500, Percent: 0.412000
+CORRECT
+#
+Team: Virginia, Won: 336, Lost: 133, Tied: 31, Total: 500, Percent: 0.672000
+Team: Drexel, Won: 133, Lost: 336, Tied: 31, Total: 500, Percent: 0.266000
+CORRECT
+#
+Team: Virginia, Won: 377, Lost: 101, Tied: 22, Total: 500, Percent: 0.754000
+Team: Rutgers, Won: 101, Lost: 377, Tied: 22, Total: 500, Percent: 0.202000
+CORRECT
+#
+Team: Virginia, Won: 186, Lost: 278, Tied: 36, Total: 500, Percent: 0.372000
+Team: Mt. St. Mary's, Won: 278, Lost: 186, Tied: 36, Total: 500, Percent: 0.556000
+INCORRECT
+#
+Team: Virginia, Won: 371, Lost: 92, Tied: 37, Total: 500, Percent: 0.742000
+Team: Syracuse, Won: 92, Lost: 371, Tied: 37, Total: 500, Percent: 0.184000
+CORRECT
+#
+Team: Virginia, Won: 338, Lost: 129, Tied: 33, Total: 500, Percent: 0.676000
+Team: Cornell, Won: 129, Lost: 338, Tied: 33, Total: 500, Percent: 0.258000
+INCORRECT
+#
+Team: Virginia, Won: 249, Lost: 205, Tied: 46, Total: 500, Percent: 0.498000
+Team: Notre Dame, Won: 205, Lost: 249, Tied: 46, Total: 500, Percent: 0.410000
+INCORRECT
+#
+Team: Virginia, Won: 245, Lost: 226, Tied: 29, Total: 500, Percent: 0.490000
+Team: Johns Hopkins, Won: 226, Lost: 245, Tied: 29, Total: 500, Percent: 0.452000
+CORRECT
+#
+Team: Virginia, Won: 248, Lost: 214, Tied: 38, Total: 500, Percent: 0.496000
+Team: VMI, Won: 214, Lost: 248, Tied: 38, Total: 500, Percent: 0.428000
+CORRECT
+#
+Team: Virginia, Won: 247, Lost: 206, Tied: 47, Total: 500, Percent: 0.494000
+Team: Maryland, Won: 206, Lost: 247, Tied: 47, Total: 500, Percent: 0.412000
+INCORRECT
+#
+Team: Virginia, Won: 237, Lost: 218, Tied: 45, Total: 500, Percent: 0.474000
+Team: North Carolina, Won: 218, Lost: 237, Tied: 45, Total: 500, Percent: 0.436000
+INCORRECT
+#
+Team: Virginia, Won: 313, Lost: 155, Tied: 32, Total: 500, Percent: 0.626000
+Team: Duke, Won: 155, Lost: 313, Tied: 32, Total: 500, Percent: 0.310000
+INCORRECT
+#
+Team: Virginia, Won: 222, Lost: 242, Tied: 36, Total: 500, Percent: 0.444000
+Team: Bellarmine, Won: 242, Lost: 222, Tied: 36, Total: 500, Percent: 0.484000
+INCORRECT
+#
+Team: Virginia, Won: 271, Lost: 194, Tied: 35, Total: 500, Percent: 0.542000
+Team: North Carolina, Won: 194, Lost: 271, Tied: 35, Total: 500, Percent: 0.388000
+CORRECT
+#
+Team: Virginia, Won: 255, Lost: 210, Tied: 35, Total: 500, Percent: 0.510000
+Team: Johns Hopkins, Won: 210, Lost: 255, Tied: 35, Total: 500, Percent: 0.420000
+INCORRECT
+#
+Team: Duke, Won: 323, Lost: 128, Tied: 49, Total: 500, Percent: 0.646000
+Team: Jacksonville, Won: 128, Lost: 323, Tied: 49, Total: 500, Percent: 0.256000
+CORRECT
+#
+Team: Duke, Won: 304, Lost: 151, Tied: 45, Total: 500, Percent: 0.608000
+Team: Denver, Won: 151, Lost: 304, Tied: 45, Total: 500, Percent: 0.302000
+CORRECT
+#
+Team: Duke, Won: 345, Lost: 122, Tied: 33, Total: 500, Percent: 0.690000
+Team: Penn, Won: 122, Lost: 345, Tied: 33, Total: 500, Percent: 0.244000
+CORRECT
+#
+Team: Duke, Won: 399, Lost: 66, Tied: 35, Total: 500, Percent: 0.798000
+Team: Stony Brook, Won: 66, Lost: 399, Tied: 35, Total: 500, Percent: 0.132000
+CORRECT
+#
+Team: Duke, Won: 312, Lost: 151, Tied: 37, Total: 500, Percent: 0.624000
+Team: Maryland, Won: 151, Lost: 312, Tied: 37, Total: 500, Percent: 0.302000
+INCORRECT
+#
+Team: Duke, Won: 257, Lost: 198, Tied: 45, Total: 500, Percent: 0.514000
+Team: Loyola Maryland, Won: 198, Lost: 257, Tied: 45, Total: 500, Percent: 0.396000
+INCORRECT
+#
+Team: Duke, Won: 270, Lost: 180, Tied: 50, Total: 500, Percent: 0.540000
+Team: Marquette, Won: 180, Lost: 270, Tied: 50, Total: 500, Percent: 0.360000
+CORRECT
+#
+Team: Duke, Won: 339, Lost: 127, Tied: 34, Total: 500, Percent: 0.678000
+Team: North Carolina, Won: 127, Lost: 339, Tied: 34, Total: 500, Percent: 0.254000
+CORRECT
+#
+Team: Duke, Won: 381, Lost: 77, Tied: 42, Total: 500, Percent: 0.762000
+Team: Furman, Won: 77, Lost: 381, Tied: 42, Total: 500, Percent: 0.154000
+CORRECT
+#
+Team: Duke, Won: 417, Lost: 63, Tied: 20, Total: 500, Percent: 0.834000
+Team: Syracuse, Won: 63, Lost: 417, Tied: 20, Total: 500, Percent: 0.126000
+CORRECT
+#
+Team: Duke, Won: 417, Lost: 60, Tied: 23, Total: 500, Percent: 0.834000
+Team: Harvard, Won: 60, Lost: 417, Tied: 23, Total: 500, Percent: 0.120000
+CORRECT
+#
+Team: Duke, Won: 416, Lost: 63, Tied: 21, Total: 500, Percent: 0.832000
+Team: Notre Dame, Won: 63, Lost: 416, Tied: 21, Total: 500, Percent: 0.126000
+CORRECT
+#
+Team: Duke, Won: 432, Lost: 54, Tied: 14, Total: 500, Percent: 0.864000
+Team: Virginia, Won: 54, Lost: 432, Tied: 14, Total: 500, Percent: 0.108000
+CORRECT
+#
+Team: Duke, Won: 440, Lost: 37, Tied: 23, Total: 500, Percent: 0.880000
+Team: Rutgers, Won: 37, Lost: 440, Tied: 23, Total: 500, Percent: 0.074000
+CORRECT
+#
+Team: Duke, Won: 424, Lost: 48, Tied: 28, Total: 500, Percent: 0.848000
+Team: Syracuse, Won: 48, Lost: 424, Tied: 28, Total: 500, Percent: 0.096000
+INCORRECT
+#
+Team: Duke, Won: 328, Lost: 141, Tied: 31, Total: 500, Percent: 0.656000
+Team: Boston U., Won: 141, Lost: 328, Tied: 31, Total: 500, Percent: 0.282000
+CORRECT
+#
+Team: Duke, Won: 383, Lost: 86, Tied: 31, Total: 500, Percent: 0.766000
+Team: Air Force, Won: 86, Lost: 383, Tied: 31, Total: 500, Percent: 0.172000
+CORRECT
+#
+Team: Duke, Won: 413, Lost: 65, Tied: 22, Total: 500, Percent: 0.826000
+Team: Johns Hopkins, Won: 65, Lost: 413, Tied: 22, Total: 500, Percent: 0.130000
+CORRECT
+#
+Team: Duke, Won: 365, Lost: 99, Tied: 36, Total: 500, Percent: 0.730000
+Team: Denver, Won: 99, Lost: 365, Tied: 36, Total: 500, Percent: 0.198000
+CORRECT
+#
+Team: Army West Point, Won: 473, Lost: 16, Tied: 11, Total: 500, Percent: 0.946000
+Team: Massachusetts, Won: 16, Lost: 473, Tied: 11, Total: 500, Percent: 0.032000
+INCORRECT
+#
+Team: Army West Point, Won: 488, Lost: 5, Tied: 7, Total: 500, Percent: 0.976000
+Team: VMI, Won: 5, Lost: 488, Tied: 7, Total: 500, Percent: 0.010000
+CORRECT
+#
+Team: Army West Point, Won: 459, Lost: 19, Tied: 22, Total: 500, Percent: 0.918000
+Team: Furman, Won: 19, Lost: 459, Tied: 22, Total: 500, Percent: 0.038000
+CORRECT
+#
+Team: Army West Point, Won: 463, Lost: 25, Tied: 12, Total: 500, Percent: 0.926000
+Team: Lafayette, Won: 25, Lost: 463, Tied: 12, Total: 500, Percent: 0.050000
+CORRECT
+#
+Team: Army West Point, Won: 481, Lost: 10, Tied: 9, Total: 500, Percent: 0.962000
+Team: Rutgers, Won: 10, Lost: 481, Tied: 9, Total: 500, Percent: 0.020000
+INCORRECT
+#
+Team: Army West Point, Won: 470, Lost: 19, Tied: 11, Total: 500, Percent: 0.940000
+Team: Holy Cross, Won: 19, Lost: 470, Tied: 11, Total: 500, Percent: 0.038000
+CORRECT
+#
+Team: Army West Point, Won: 473, Lost: 15, Tied: 12, Total: 500, Percent: 0.946000
+Team: Loyola Maryland, Won: 15, Lost: 473, Tied: 12, Total: 500, Percent: 0.030000
+INCORRECT
+#
+Team: Army West Point, Won: 453, Lost: 36, Tied: 11, Total: 500, Percent: 0.906000
+Team: Lehigh, Won: 36, Lost: 453, Tied: 11, Total: 500, Percent: 0.072000
+CORRECT
+#
+Team: Army West Point, Won: 420, Lost: 49, Tied: 31, Total: 500, Percent: 0.840000
+Team: Bucknell, Won: 49, Lost: 420, Tied: 31, Total: 500, Percent: 0.098000
+CORRECT
+#
+Team: Army West Point, Won: 394, Lost: 69, Tied: 37, Total: 500, Percent: 0.788000
+Team: Boston U., Won: 69, Lost: 394, Tied: 37, Total: 500, Percent: 0.138000
+CORRECT
+#
+Team: Army West Point, Won: 444, Lost: 32, Tied: 24, Total: 500, Percent: 0.888000
+Team: Navy, Won: 32, Lost: 444, Tied: 24, Total: 500, Percent: 0.064000
+CORRECT
+#
+Team: Army West Point, Won: 446, Lost: 29, Tied: 25, Total: 500, Percent: 0.892000
+Team: Colgate, Won: 29, Lost: 446, Tied: 25, Total: 500, Percent: 0.058000
+CORRECT
+#
+Team: Army West Point, Won: 423, Lost: 57, Tied: 20, Total: 500, Percent: 0.846000
+Team: Lehigh, Won: 57, Lost: 423, Tied: 20, Total: 500, Percent: 0.114000
+INCORRECT
+#
+Team: Army West Point, Won: 400, Lost: 75, Tied: 25, Total: 500, Percent: 0.800000
+Team: Notre Dame, Won: 75, Lost: 400, Tied: 25, Total: 500, Percent: 0.150000
+INCORRECT
+#
+Team: Harvard, Won: 190, Lost: 254, Tied: 56, Total: 500, Percent: 0.380000
+Team: Massachusetts, Won: 254, Lost: 190, Tied: 56, Total: 500, Percent: 0.508000
+CORRECT
+#
+Team: Harvard, Won: 200, Lost: 253, Tied: 47, Total: 500, Percent: 0.400000
+Team: Holy Cross, Won: 253, Lost: 200, Tied: 47, Total: 500, Percent: 0.506000
+INCORRECT
+#
+Team: Harvard, Won: 327, Lost: 135, Tied: 38, Total: 500, Percent: 0.654000
+Team: Albany (NY), Won: 135, Lost: 327, Tied: 38, Total: 500, Percent: 0.270000
+INCORRECT
+#
+Team: Harvard, Won: 164, Lost: 299, Tied: 37, Total: 500, Percent: 0.328000
+Team: Quinnipiac, Won: 299, Lost: 164, Tied: 37, Total: 500, Percent: 0.598000
+INCORRECT
+#
+Team: Harvard, Won: 219, Lost: 233, Tied: 48, Total: 500, Percent: 0.438000
+Team: Georgetown, Won: 233, Lost: 219, Tied: 48, Total: 500, Percent: 0.466000
+INCORRECT
+#
+Team: Harvard, Won: 155, Lost: 300, Tied: 45, Total: 500, Percent: 0.310000
+Team: Brown, Won: 300, Lost: 155, Tied: 45, Total: 500, Percent: 0.600000
+INCORRECT
+#
+Team: Harvard, Won: 355, Lost: 117, Tied: 28, Total: 500, Percent: 0.710000
+Team: North Carolina, Won: 117, Lost: 355, Tied: 28, Total: 500, Percent: 0.234000
+INCORRECT
+#
+Team: Harvard, Won: 195, Lost: 259, Tied: 46, Total: 500, Percent: 0.390000
+Team: Dartmouth, Won: 259, Lost: 195, Tied: 46, Total: 500, Percent: 0.518000
+INCORRECT
+#
+Team: Harvard, Won: 363, Lost: 100, Tied: 37, Total: 500, Percent: 0.726000
+Team: Duke, Won: 100, Lost: 363, Tied: 37, Total: 500, Percent: 0.200000
+INCORRECT
+#
+Team: Harvard, Won: 395, Lost: 72, Tied: 33, Total: 500, Percent: 0.790000
+Team: Cornell, Won: 72, Lost: 395, Tied: 33, Total: 500, Percent: 0.144000
+CORRECT
+#
+Team: Harvard, Won: 147, Lost: 313, Tied: 40, Total: 500, Percent: 0.294000
+Team: Boston U., Won: 313, Lost: 147, Tied: 40, Total: 500, Percent: 0.626000
+INCORRECT
+#
+Team: Harvard, Won: 228, Lost: 230, Tied: 42, Total: 500, Percent: 0.456000
+Team: Penn, Won: 230, Lost: 228, Tied: 42, Total: 500, Percent: 0.460000
+CORRECT
+#
+Team: Harvard, Won: 314, Lost: 143, Tied: 43, Total: 500, Percent: 0.628000
+Team: Princeton, Won: 143, Lost: 314, Tied: 43, Total: 500, Percent: 0.286000
+CORRECT
+#
+Team: Harvard, Won: 275, Lost: 184, Tied: 41, Total: 500, Percent: 0.550000
+Team: Yale, Won: 184, Lost: 275, Tied: 41, Total: 500, Percent: 0.368000
+CORRECT
+#
+Team: Harvard, Won: 281, Lost: 183, Tied: 36, Total: 500, Percent: 0.562000
+Team: Yale, Won: 183, Lost: 281, Tied: 36, Total: 500, Percent: 0.366000
+CORRECT
+#
+Team: Harvard, Won: 240, Lost: 212, Tied: 48, Total: 500, Percent: 0.480000
+Team: Penn, Won: 212, Lost: 240, Tied: 48, Total: 500, Percent: 0.424000
+INCORRECT
+#
+Team: Harvard, Won: 326, Lost: 136, Tied: 38, Total: 500, Percent: 0.652000
+Team: Notre Dame, Won: 136, Lost: 326, Tied: 38, Total: 500, Percent: 0.272000
+INCORRECT
+#
+Team: Drexel, Won: 317, Lost: 151, Tied: 32, Total: 500, Percent: 0.634000
+Team: Virginia, Won: 151, Lost: 317, Tied: 32, Total: 500, Percent: 0.302000
+INCORRECT
+#
+Team: Drexel, Won: 326, Lost: 143, Tied: 31, Total: 500, Percent: 0.652000
+Team: Albany (NY), Won: 143, Lost: 326, Tied: 31, Total: 500, Percent: 0.286000
+CORRECT
+#
+Team: Drexel, Won: 310, Lost: 150, Tied: 40, Total: 500, Percent: 0.620000
+Team: Villanova, Won: 150, Lost: 310, Tied: 40, Total: 500, Percent: 0.300000
+INCORRECT
+#
+Team: Drexel, Won: 337, Lost: 124, Tied: 39, Total: 500, Percent: 0.674000
+Team: Robert Morris, Won: 124, Lost: 337, Tied: 39, Total: 500, Percent: 0.248000
+CORRECT
+#
+Team: Drexel, Won: 165, Lost: 289, Tied: 46, Total: 500, Percent: 0.330000
+Team: St. John's (NY), Won: 289, Lost: 165, Tied: 46, Total: 500, Percent: 0.578000
+INCORRECT
+#
+Team: Drexel, Won: 266, Lost: 198, Tied: 36, Total: 500, Percent: 0.532000
+Team: Bryant, Won: 198, Lost: 266, Tied: 36, Total: 500, Percent: 0.396000
+INCORRECT
+#
+Team: Drexel, Won: 177, Lost: 292, Tied: 31, Total: 500, Percent: 0.354000
+Team: Mt. St. Mary's, Won: 292, Lost: 177, Tied: 31, Total: 500, Percent: 0.584000
+INCORRECT
+#
+Team: Drexel, Won: 211, Lost: 248, Tied: 41, Total: 500, Percent: 0.422000
+Team: Hofstra, Won: 248, Lost: 211, Tied: 41, Total: 500, Percent: 0.496000
+CORRECT
+#
+Team: Drexel, Won: 299, Lost: 167, Tied: 34, Total: 500, Percent: 0.598000
+Team: Saint Joseph's, Won: 167, Lost: 299, Tied: 34, Total: 500, Percent: 0.334000
+CORRECT
+#
+Team: Drexel, Won: 266, Lost: 195, Tied: 39, Total: 500, Percent: 0.532000
+Team: Delaware, Won: 195, Lost: 266, Tied: 39, Total: 500, Percent: 0.390000
+CORRECT
+#
+Team: Drexel, Won: 312, Lost: 157, Tied: 31, Total: 500, Percent: 0.624000
+Team: Penn St., Won: 157, Lost: 312, Tied: 31, Total: 500, Percent: 0.314000
+CORRECT
+#
+Team: Drexel, Won: 250, Lost: 206, Tied: 44, Total: 500, Percent: 0.500000
+Team: Massachusetts, Won: 206, Lost: 250, Tied: 44, Total: 500, Percent: 0.412000
+CORRECT
+#
+Team: Drexel, Won: 228, Lost: 224, Tied: 48, Total: 500, Percent: 0.456000
+Team: Towson, Won: 224, Lost: 228, Tied: 48, Total: 500, Percent: 0.448000
+CORRECT
+#
+Team: Drexel, Won: 295, Lost: 168, Tied: 37, Total: 500, Percent: 0.590000
+Team: High Point, Won: 168, Lost: 295, Tied: 37, Total: 500, Percent: 0.336000
+CORRECT
+#
+Team: Drexel, Won: 227, Lost: 225, Tied: 48, Total: 500, Percent: 0.454000
+Team: Towson, Won: 225, Lost: 227, Tied: 48, Total: 500, Percent: 0.450000
+CORRECT
+#
+Team: Drexel, Won: 291, Lost: 174, Tied: 35, Total: 500, Percent: 0.582000
+Team: Hofstra, Won: 174, Lost: 291, Tied: 35, Total: 500, Percent: 0.348000
+CORRECT
+#
+Team: Drexel, Won: 340, Lost: 125, Tied: 35, Total: 500, Percent: 0.680000
+Team: Penn, Won: 125, Lost: 340, Tied: 35, Total: 500, Percent: 0.250000
+CORRECT
+#
+Team: Drexel, Won: 257, Lost: 196, Tied: 47, Total: 500, Percent: 0.514000
+Team: Denver, Won: 196, Lost: 257, Tied: 47, Total: 500, Percent: 0.392000
+INCORRECT
+#
+Team: Massachusetts, Won: 239, Lost: 211, Tied: 50, Total: 500, Percent: 0.478000
+Team: Army West Point, Won: 211, Lost: 239, Tied: 50, Total: 500, Percent: 0.422000
+CORRECT
+#
+Team: Massachusetts, Won: 252, Lost: 200, Tied: 48, Total: 500, Percent: 0.504000
+Team: Ohio St., Won: 200, Lost: 252, Tied: 48, Total: 500, Percent: 0.400000
+CORRECT
+#
+Team: Massachusetts, Won: 291, Lost: 164, Tied: 45, Total: 500, Percent: 0.582000
+Team: Harvard, Won: 164, Lost: 291, Tied: 45, Total: 500, Percent: 0.328000
+CORRECT
+#
+Team: Massachusetts, Won: 200, Lost: 246, Tied: 54, Total: 500, Percent: 0.400000
+Team: Brown, Won: 246, Lost: 200, Tied: 54, Total: 500, Percent: 0.492000
+INCORRECT
+#
+Team: Massachusetts, Won: 341, Lost: 121, Tied: 38, Total: 500, Percent: 0.682000
+Team: Albany (NY), Won: 121, Lost: 341, Tied: 38, Total: 500, Percent: 0.242000
+INCORRECT
+#
+Team: Massachusetts, Won: 297, Lost: 156, Tied: 47, Total: 500, Percent: 0.594000
+Team: Providence, Won: 156, Lost: 297, Tied: 47, Total: 500, Percent: 0.312000
+CORRECT
+#
+Team: Massachusetts, Won: 293, Lost: 163, Tied: 44, Total: 500, Percent: 0.586000
+Team: Penn St., Won: 163, Lost: 293, Tied: 44, Total: 500, Percent: 0.326000
+CORRECT
+#
+Team: Massachusetts, Won: 337, Lost: 114, Tied: 49, Total: 500, Percent: 0.674000
+Team: Fairfield, Won: 114, Lost: 337, Tied: 49, Total: 500, Percent: 0.228000
+INCORRECT
+#
+Team: Massachusetts, Won: 329, Lost: 139, Tied: 32, Total: 500, Percent: 0.658000
+Team: Hartford, Won: 139, Lost: 329, Tied: 32, Total: 500, Percent: 0.278000
+CORRECT
+#
+Team: Massachusetts, Won: 255, Lost: 196, Tied: 49, Total: 500, Percent: 0.510000
+Team: Towson, Won: 196, Lost: 255, Tied: 49, Total: 500, Percent: 0.392000
+INCORRECT
+#
+Team: Massachusetts, Won: 362, Lost: 104, Tied: 34, Total: 500, Percent: 0.724000
+Team: Drexel, Won: 104, Lost: 362, Tied: 34, Total: 500, Percent: 0.208000
+INCORRECT
+#
+Team: Massachusetts, Won: 254, Lost: 208, Tied: 38, Total: 500, Percent: 0.508000
+Team: Hofstra, Won: 208, Lost: 254, Tied: 38, Total: 500, Percent: 0.416000
+INCORRECT
+#
+Team: Massachusetts, Won: 271, Lost: 195, Tied: 34, Total: 500, Percent: 0.542000
+Team: Delaware, Won: 195, Lost: 271, Tied: 34, Total: 500, Percent: 0.390000
+INCORRECT
+#
+Team: Johns Hopkins, Won: 422, Lost: 56, Tied: 22, Total: 500, Percent: 0.844000
+Team: Ohio St., Won: 56, Lost: 422, Tied: 22, Total: 500, Percent: 0.112000
+CORRECT
+#
+Team: Johns Hopkins, Won: 425, Lost: 48, Tied: 27, Total: 500, Percent: 0.850000
+Team: Towson, Won: 48, Lost: 425, Tied: 27, Total: 500, Percent: 0.096000
+CORRECT
+#
+Team: Johns Hopkins, Won: 448, Lost: 38, Tied: 14, Total: 500, Percent: 0.896000
+Team: Michigan, Won: 38, Lost: 448, Tied: 14, Total: 500, Percent: 0.076000
+CORRECT
+#
+Team: Johns Hopkins, Won: 445, Lost: 34, Tied: 21, Total: 500, Percent: 0.890000
+Team: Princeton, Won: 34, Lost: 445, Tied: 21, Total: 500, Percent: 0.068000
+CORRECT
+#
+Team: Johns Hopkins, Won: 409, Lost: 64, Tied: 27, Total: 500, Percent: 0.818000
+Team: UMBC, Won: 64, Lost: 409, Tied: 27, Total: 500, Percent: 0.128000
+CORRECT
+#
+Team: Johns Hopkins, Won: 444, Lost: 38, Tied: 18, Total: 500, Percent: 0.888000
+Team: Syracuse, Won: 38, Lost: 444, Tied: 18, Total: 500, Percent: 0.076000
+INCORRECT
+#
+Team: Johns Hopkins, Won: 466, Lost: 23, Tied: 11, Total: 500, Percent: 0.932000
+Team: Virginia, Won: 23, Lost: 466, Tied: 11, Total: 500, Percent: 0.046000
+INCORRECT
+#
+Team: Johns Hopkins, Won: 421, Lost: 60, Tied: 19, Total: 500, Percent: 0.842000
+Team: North Carolina, Won: 60, Lost: 421, Tied: 19, Total: 500, Percent: 0.120000
+INCORRECT
+#
+Team: Johns Hopkins, Won: 442, Lost: 39, Tied: 19, Total: 500, Percent: 0.884000
+Team: Albany (NY), Won: 39, Lost: 442, Tied: 19, Total: 500, Percent: 0.078000
+CORRECT
+#
+Team: Johns Hopkins, Won: 418, Lost: 69, Tied: 13, Total: 500, Percent: 0.836000
+Team: Maryland, Won: 69, Lost: 418, Tied: 13, Total: 500, Percent: 0.138000
+CORRECT
+#
+Team: Johns Hopkins, Won: 384, Lost: 80, Tied: 36, Total: 500, Percent: 0.768000
+Team: Mt. St. Mary's, Won: 80, Lost: 384, Tied: 36, Total: 500, Percent: 0.160000
+CORRECT
+#
+Team: Johns Hopkins, Won: 426, Lost: 48, Tied: 26, Total: 500, Percent: 0.852000
+Team: Navy, Won: 48, Lost: 426, Tied: 26, Total: 500, Percent: 0.096000
+CORRECT
+#
+Team: Johns Hopkins, Won: 421, Lost: 56, Tied: 23, Total: 500, Percent: 0.842000
+Team: Villanova, Won: 56, Lost: 421, Tied: 23, Total: 500, Percent: 0.112000
+CORRECT
+#
+Team: Johns Hopkins, Won: 456, Lost: 29, Tied: 15, Total: 500, Percent: 0.912000
+Team: Loyola Maryland, Won: 29, Lost: 456, Tied: 15, Total: 500, Percent: 0.058000
+INCORRECT
+#
+Team: Johns Hopkins, Won: 445, Lost: 31, Tied: 24, Total: 500, Percent: 0.890000
+Team: Virginia, Won: 31, Lost: 445, Tied: 24, Total: 500, Percent: 0.062000
+CORRECT
+#
+Team: Johns Hopkins, Won: 450, Lost: 30, Tied: 20, Total: 500, Percent: 0.900000
+Team: Duke, Won: 30, Lost: 450, Tied: 20, Total: 500, Percent: 0.060000
+INCORRECT
+#
+Team: Hobart, Won: 43, Lost: 432, Tied: 25, Total: 500, Percent: 0.086000
+Team: Siena, Won: 432, Lost: 43, Tied: 25, Total: 500, Percent: 0.864000
+CORRECT
+#
+Team: Hobart, Won: 143, Lost: 326, Tied: 31, Total: 500, Percent: 0.286000
+Team: Cornell, Won: 326, Lost: 143, Tied: 31, Total: 500, Percent: 0.652000
+CORRECT
+#
+Team: Hobart, Won: 58, Lost: 419, Tied: 23, Total: 500, Percent: 0.116000
+Team: Binghamton, Won: 419, Lost: 58, Tied: 23, Total: 500, Percent: 0.838000
+CORRECT
+#
+Team: Hobart, Won: 149, Lost: 319, Tied: 32, Total: 500, Percent: 0.298000
+Team: Colgate, Won: 319, Lost: 149, Tied: 32, Total: 500, Percent: 0.638000
+CORRECT
+#
+Team: Hobart, Won: 137, Lost: 323, Tied: 40, Total: 500, Percent: 0.274000
+Team: Brown, Won: 323, Lost: 137, Tied: 40, Total: 500, Percent: 0.646000
+CORRECT
+#
+Team: Hobart, Won: 86, Lost: 382, Tied: 32, Total: 500, Percent: 0.172000
+Team: Canisius, Won: 382, Lost: 86, Tied: 32, Total: 500, Percent: 0.764000
+INCORRECT
+#
+Team: Hobart, Won: 130, Lost: 324, Tied: 46, Total: 500, Percent: 0.260000
+Team: Robert Morris, Won: 324, Lost: 130, Tied: 46, Total: 500, Percent: 0.648000
+INCORRECT
+#
+Team: Hobart, Won: 170, Lost: 294, Tied: 36, Total: 500, Percent: 0.340000
+Team: Bryant, Won: 294, Lost: 170, Tied: 36, Total: 500, Percent: 0.588000
+CORRECT
+#
+Team: Hobart, Won: 81, Lost: 392, Tied: 27, Total: 500, Percent: 0.162000
+Team: Mt. St. Mary's, Won: 392, Lost: 81, Tied: 27, Total: 500, Percent: 0.784000
+INCORRECT
+#
+Team: Hobart, Won: 124, Lost: 347, Tied: 29, Total: 500, Percent: 0.248000
+Team: Sacred Heart, Won: 347, Lost: 124, Tied: 29, Total: 500, Percent: 0.694000
+CORRECT
+#
+Team: Hobart, Won: 152, Lost: 304, Tied: 44, Total: 500, Percent: 0.304000
+Team: Wagner, Won: 304, Lost: 152, Tied: 44, Total: 500, Percent: 0.608000
+INCORRECT
+#
+Team: Hobart, Won: 240, Lost: 219, Tied: 41, Total: 500, Percent: 0.480000
+Team: Syracuse, Won: 219, Lost: 240, Tied: 41, Total: 500, Percent: 0.438000
+INCORRECT
+#
+Team: Hobart, Won: 164, Lost: 293, Tied: 43, Total: 500, Percent: 0.328000
+Team: Saint Joseph's, Won: 293, Lost: 164, Tied: 43, Total: 500, Percent: 0.586000
+CORRECT
+#
+Team: Hobart, Won: 146, Lost: 320, Tied: 34, Total: 500, Percent: 0.292000
+Team: Saint Joseph's, Won: 320, Lost: 146, Tied: 34, Total: 500, Percent: 0.640000
+INCORRECT
+#
+Team: Hobart, Won: 211, Lost: 246, Tied: 43, Total: 500, Percent: 0.422000
+Team: Bryant, Won: 246, Lost: 211, Tied: 43, Total: 500, Percent: 0.492000
+CORRECT
+#
+Team: Hartford, Won: 238, Lost: 203, Tied: 59, Total: 500, Percent: 0.476000
+Team: Richmond, Won: 203, Lost: 238, Tied: 59, Total: 500, Percent: 0.406000
+CORRECT
+#
+Team: Hartford, Won: 248, Lost: 208, Tied: 44, Total: 500, Percent: 0.496000
+Team: Bryant, Won: 208, Lost: 248, Tied: 44, Total: 500, Percent: 0.416000
+INCORRECT
+#
+Team: Hartford, Won: 313, Lost: 142, Tied: 45, Total: 500, Percent: 0.626000
+Team: Manhattan, Won: 142, Lost: 313, Tied: 45, Total: 500, Percent: 0.284000
+CORRECT
+#
+Team: Hartford, Won: 231, Lost: 216, Tied: 53, Total: 500, Percent: 0.462000
+Team: Brown, Won: 216, Lost: 231, Tied: 53, Total: 500, Percent: 0.432000
+INCORRECT
+#
+Team: Hartford, Won: 257, Lost: 199, Tied: 44, Total: 500, Percent: 0.514000
+Team: Siena, Won: 199, Lost: 257, Tied: 44, Total: 500, Percent: 0.398000
+INCORRECT
+#
+Team: Hartford, Won: 272, Lost: 183, Tied: 45, Total: 500, Percent: 0.544000
+Team: Quinnipiac, Won: 183, Lost: 272, Tied: 45, Total: 500, Percent: 0.366000
+CORRECT
+#
+Team: Hartford, Won: 249, Lost: 206, Tied: 45, Total: 500, Percent: 0.498000
+Team: Sacred Heart, Won: 206, Lost: 249, Tied: 45, Total: 500, Percent: 0.412000
+CORRECT
+#
+Team: Hartford, Won: 215, Lost: 249, Tied: 36, Total: 500, Percent: 0.430000
+Team: Massachusetts, Won: 249, Lost: 215, Tied: 36, Total: 500, Percent: 0.498000
+CORRECT
+#
+Team: Hartford, Won: 181, Lost: 269, Tied: 50, Total: 500, Percent: 0.362000
+Team: Holy Cross, Won: 269, Lost: 181, Tied: 50, Total: 500, Percent: 0.538000
+CORRECT
+#
+Team: Hartford, Won: 191, Lost: 268, Tied: 41, Total: 500, Percent: 0.382000
+Team: Binghamton, Won: 268, Lost: 191, Tied: 41, Total: 500, Percent: 0.536000
+CORRECT
+#
+Team: Hartford, Won: 214, Lost: 243, Tied: 43, Total: 500, Percent: 0.428000
+Team: Albany (NY), Won: 243, Lost: 214, Tied: 43, Total: 500, Percent: 0.486000
+CORRECT
+#
+Team: Hartford, Won: 121, Lost: 334, Tied: 45, Total: 500, Percent: 0.242000
+Team: Dartmouth, Won: 334, Lost: 121, Tied: 45, Total: 500, Percent: 0.668000
+INCORRECT
+#
+Team: Hartford, Won: 162, Lost: 309, Tied: 29, Total: 500, Percent: 0.324000
+Team: UMBC, Won: 309, Lost: 162, Tied: 29, Total: 500, Percent: 0.618000
+CORRECT
+#
+Team: Hartford, Won: 212, Lost: 237, Tied: 51, Total: 500, Percent: 0.424000
+Team: Vermont, Won: 237, Lost: 212, Tied: 51, Total: 500, Percent: 0.474000
+INCORRECT
+#
+Team: Hartford, Won: 209, Lost: 243, Tied: 48, Total: 500, Percent: 0.418000
+Team: Stony Brook, Won: 243, Lost: 209, Tied: 48, Total: 500, Percent: 0.486000
+CORRECT
+#
+Team: Jacksonville, Won: 29, Lost: 453, Tied: 18, Total: 500, Percent: 0.058000
+Team: Duke, Won: 453, Lost: 29, Tied: 18, Total: 500, Percent: 0.906000
+CORRECT
+#
+Team: Jacksonville, Won: 21, Lost: 464, Tied: 15, Total: 500, Percent: 0.042000
+Team: Notre Dame, Won: 464, Lost: 21, Tied: 15, Total: 500, Percent: 0.928000
+CORRECT
+#
+Team: Jacksonville, Won: 27, Lost: 464, Tied: 9, Total: 500, Percent: 0.054000
+Team: Bellarmine, Won: 464, Lost: 27, Tied: 9, Total: 500, Percent: 0.928000
+CORRECT
+#
+Team: Jacksonville, Won: 22, Lost: 473, Tied: 5, Total: 500, Percent: 0.044000
+Team: High Point, Won: 473, Lost: 22, Tied: 5, Total: 500, Percent: 0.946000
+CORRECT
+#
+Team: Jacksonville, Won: 19, Lost: 466, Tied: 15, Total: 500, Percent: 0.038000
+Team: Marquette, Won: 466, Lost: 19, Tied: 15, Total: 500, Percent: 0.932000
+INCORRECT
+#
+Team: Jacksonville, Won: 22, Lost: 457, Tied: 21, Total: 500, Percent: 0.044000
+Team: Air Force, Won: 457, Lost: 22, Tied: 21, Total: 500, Percent: 0.914000
+CORRECT
+#
+Team: Jacksonville, Won: 52, Lost: 426, Tied: 22, Total: 500, Percent: 0.104000
+Team: Robert Morris, Won: 426, Lost: 52, Tied: 22, Total: 500, Percent: 0.852000
+CORRECT
+#
+Team: Jacksonville, Won: 30, Lost: 449, Tied: 21, Total: 500, Percent: 0.060000
+Team: Ohio St., Won: 449, Lost: 30, Tied: 21, Total: 500, Percent: 0.898000
+CORRECT
+#
+Team: Jacksonville, Won: 54, Lost: 420, Tied: 26, Total: 500, Percent: 0.108000
+Team: VMI, Won: 420, Lost: 54, Tied: 26, Total: 500, Percent: 0.840000
+INCORRECT
+#
+Team: Jacksonville, Won: 81, Lost: 390, Tied: 29, Total: 500, Percent: 0.162000
+Team: Mercer, Won: 390, Lost: 81, Tied: 29, Total: 500, Percent: 0.780000
+INCORRECT
+#
+Team: Jacksonville, Won: 44, Lost: 422, Tied: 34, Total: 500, Percent: 0.088000
+Team: Richmond, Won: 422, Lost: 44, Tied: 34, Total: 500, Percent: 0.844000
+CORRECT
+#
+Team: Jacksonville, Won: 94, Lost: 374, Tied: 32, Total: 500, Percent: 0.188000
+Team: Furman, Won: 374, Lost: 94, Tied: 32, Total: 500, Percent: 0.748000
+INCORRECT
+#
+Team: Jacksonville, Won: 90, Lost: 384, Tied: 26, Total: 500, Percent: 0.180000
+Team: High Point, Won: 384, Lost: 90, Tied: 26, Total: 500, Percent: 0.768000
+CORRECT
+#
+Team: Bryant, Won: 316, Lost: 141, Tied: 43, Total: 500, Percent: 0.632000
+Team: Colgate, Won: 141, Lost: 316, Tied: 43, Total: 500, Percent: 0.282000
+INCORRECT
+#
+Team: Bryant, Won: 239, Lost: 215, Tied: 46, Total: 500, Percent: 0.478000
+Team: Bucknell, Won: 215, Lost: 239, Tied: 46, Total: 500, Percent: 0.430000
+CORRECT
+#
+Team: Bryant, Won: 275, Lost: 176, Tied: 49, Total: 500, Percent: 0.550000
+Team: Hartford, Won: 176, Lost: 275, Tied: 49, Total: 500, Percent: 0.352000
+CORRECT
+#
+Team: Bryant, Won: 261, Lost: 186, Tied: 53, Total: 500, Percent: 0.522000
+Team: Yale, Won: 186, Lost: 261, Tied: 53, Total: 500, Percent: 0.372000
+INCORRECT
+#
+Team: Bryant, Won: 348, Lost: 105, Tied: 47, Total: 500, Percent: 0.696000
+Team: Drexel, Won: 105, Lost: 348, Tied: 47, Total: 500, Percent: 0.210000
+CORRECT
+#
+Team: Bryant, Won: 236, Lost: 216, Tied: 48, Total: 500, Percent: 0.472000
+Team: Monmouth, Won: 216, Lost: 236, Tied: 48, Total: 500, Percent: 0.432000
+CORRECT
+#
+Team: Bryant, Won: 353, Lost: 95, Tied: 52, Total: 500, Percent: 0.706000
+Team: Albany (NY), Won: 95, Lost: 353, Tied: 52, Total: 500, Percent: 0.190000
+CORRECT
+#
+Team: Bryant, Won: 254, Lost: 192, Tied: 54, Total: 500, Percent: 0.508000
+Team: Hobart, Won: 192, Lost: 254, Tied: 54, Total: 500, Percent: 0.384000
+CORRECT
+#
+Team: Bryant, Won: 328, Lost: 138, Tied: 34, Total: 500, Percent: 0.656000
+Team: Providence, Won: 138, Lost: 328, Tied: 34, Total: 500, Percent: 0.276000
+CORRECT
+#
+Team: Bryant, Won: 311, Lost: 143, Tied: 46, Total: 500, Percent: 0.622000
+Team: Richmond, Won: 143, Lost: 311, Tied: 46, Total: 500, Percent: 0.286000
+CORRECT
+#
+Team: Bryant, Won: 349, Lost: 113, Tied: 38, Total: 500, Percent: 0.698000
+Team: Sacred Heart, Won: 113, Lost: 349, Tied: 38, Total: 500, Percent: 0.226000
+CORRECT
+#
+Team: Bryant, Won: 353, Lost: 105, Tied: 42, Total: 500, Percent: 0.706000
+Team: Saint Joseph's, Won: 105, Lost: 353, Tied: 42, Total: 500, Percent: 0.210000
+INCORRECT
+#
+Team: Bryant, Won: 329, Lost: 128, Tied: 43, Total: 500, Percent: 0.658000
+Team: Mt. St. Mary's, Won: 128, Lost: 329, Tied: 43, Total: 500, Percent: 0.256000
+CORRECT
+#
+Team: Bryant, Won: 390, Lost: 86, Tied: 24, Total: 500, Percent: 0.780000
+Team: Robert Morris, Won: 86, Lost: 390, Tied: 24, Total: 500, Percent: 0.172000
+CORRECT
+#
+Team: Bryant, Won: 436, Lost: 40, Tied: 24, Total: 500, Percent: 0.872000
+Team: Brown, Won: 40, Lost: 436, Tied: 24, Total: 500, Percent: 0.080000
+INCORRECT
+#
+Team: Bryant, Won: 345, Lost: 123, Tied: 32, Total: 500, Percent: 0.690000
+Team: Wagner, Won: 123, Lost: 345, Tied: 32, Total: 500, Percent: 0.246000
+CORRECT
+#
+Team: Bryant, Won: 389, Lost: 78, Tied: 33, Total: 500, Percent: 0.778000
+Team: Sacred Heart, Won: 78, Lost: 389, Tied: 33, Total: 500, Percent: 0.156000
+CORRECT
+#
+Team: Bryant, Won: 379, Lost: 90, Tied: 31, Total: 500, Percent: 0.758000
+Team: Hobart, Won: 90, Lost: 379, Tied: 31, Total: 500, Percent: 0.180000
+CORRECT
+#
+Team: Bryant, Won: 416, Lost: 50, Tied: 34, Total: 500, Percent: 0.832000
+Team: Siena, Won: 50, Lost: 416, Tied: 34, Total: 500, Percent: 0.100000
+CORRECT
+#
+Team: Bryant, Won: 423, Lost: 42, Tied: 35, Total: 500, Percent: 0.846000
+Team: Syracuse, Won: 42, Lost: 423, Tied: 35, Total: 500, Percent: 0.084000
+CORRECT
+#
+Team: Bryant, Won: 385, Lost: 79, Tied: 36, Total: 500, Percent: 0.770000
+Team: Maryland, Won: 79, Lost: 385, Tied: 36, Total: 500, Percent: 0.158000
+INCORRECT
+#
+Team: Syracuse, Won: 205, Lost: 256, Tied: 39, Total: 500, Percent: 0.410000
+Team: Siena, Won: 256, Lost: 205, Tied: 39, Total: 500, Percent: 0.512000
+INCORRECT
+#
+Team: Syracuse, Won: 286, Lost: 168, Tied: 46, Total: 500, Percent: 0.572000
+Team: Albany (NY), Won: 168, Lost: 286, Tied: 46, Total: 500, Percent: 0.336000
+CORRECT
+#
+Team: Syracuse, Won: 265, Lost: 193, Tied: 42, Total: 500, Percent: 0.530000
+Team: Maryland, Won: 193, Lost: 265, Tied: 42, Total: 500, Percent: 0.386000
+INCORRECT
+#
+Team: Syracuse, Won: 254, Lost: 216, Tied: 30, Total: 500, Percent: 0.508000
+Team: Virginia, Won: 216, Lost: 254, Tied: 30, Total: 500, Percent: 0.432000
+INCORRECT
+#
+Team: Syracuse, Won: 120, Lost: 344, Tied: 36, Total: 500, Percent: 0.240000
+Team: St. John's (NY), Won: 344, Lost: 120, Tied: 36, Total: 500, Percent: 0.688000
+INCORRECT
+#
+Team: Syracuse, Won: 266, Lost: 195, Tied: 39, Total: 500, Percent: 0.532000
+Team: Johns Hopkins, Won: 195, Lost: 266, Tied: 39, Total: 500, Percent: 0.390000
+CORRECT
+#
+Team: Syracuse, Won: 152, Lost: 312, Tied: 36, Total: 500, Percent: 0.304000
+Team: Duke, Won: 312, Lost: 152, Tied: 36, Total: 500, Percent: 0.624000
+CORRECT
+#
+Team: Syracuse, Won: 111, Lost: 350, Tied: 39, Total: 500, Percent: 0.222000
+Team: Notre Dame, Won: 350, Lost: 111, Tied: 39, Total: 500, Percent: 0.700000
+INCORRECT
+#
+Team: Syracuse, Won: 123, Lost: 347, Tied: 30, Total: 500, Percent: 0.246000
+Team: Binghamton, Won: 347, Lost: 123, Tied: 30, Total: 500, Percent: 0.694000
+INCORRECT
+#
+Team: Syracuse, Won: 206, Lost: 259, Tied: 35, Total: 500, Percent: 0.412000
+Team: Cornell, Won: 259, Lost: 206, Tied: 35, Total: 500, Percent: 0.518000
+INCORRECT
+#
+Team: Syracuse, Won: 158, Lost: 295, Tied: 47, Total: 500, Percent: 0.316000
+Team: North Carolina, Won: 295, Lost: 158, Tied: 47, Total: 500, Percent: 0.590000
+INCORRECT
+#
+Team: Syracuse, Won: 147, Lost: 313, Tied: 40, Total: 500, Percent: 0.294000
+Team: Hobart, Won: 313, Lost: 147, Tied: 40, Total: 500, Percent: 0.626000
+INCORRECT
+#
+Team: Syracuse, Won: 272, Lost: 193, Tied: 35, Total: 500, Percent: 0.544000
+Team: Duke, Won: 193, Lost: 272, Tied: 35, Total: 500, Percent: 0.386000
+CORRECT
+#
+Team: Syracuse, Won: 137, Lost: 329, Tied: 34, Total: 500, Percent: 0.274000
+Team: Notre Dame, Won: 329, Lost: 137, Tied: 34, Total: 500, Percent: 0.658000
+CORRECT
+#
+Team: Syracuse, Won: 241, Lost: 217, Tied: 42, Total: 500, Percent: 0.482000
+Team: Colgate, Won: 217, Lost: 241, Tied: 42, Total: 500, Percent: 0.434000
+CORRECT
+#
+Team: Syracuse, Won: 236, Lost: 228, Tied: 36, Total: 500, Percent: 0.472000
+Team: Bryant, Won: 228, Lost: 236, Tied: 36, Total: 500, Percent: 0.456000
+INCORRECT
+#
+Team: St. John's (NY), Won: 151, Lost: 299, Tied: 50, Total: 500, Percent: 0.302000
+Team: Holy Cross, Won: 299, Lost: 151, Tied: 50, Total: 500, Percent: 0.598000
+INCORRECT
+#
+Team: St. John's (NY), Won: 222, Lost: 236, Tied: 42, Total: 500, Percent: 0.444000
+Team: Yale, Won: 236, Lost: 222, Tied: 42, Total: 500, Percent: 0.472000
+CORRECT
+#
+Team: St. John's (NY), Won: 205, Lost: 264, Tied: 31, Total: 500, Percent: 0.410000
+Team: Siena, Won: 264, Lost: 205, Tied: 31, Total: 500, Percent: 0.528000
+INCORRECT
+#
+Team: St. John's (NY), Won: 299, Lost: 169, Tied: 32, Total: 500, Percent: 0.598000
+Team: Drexel, Won: 169, Lost: 299, Tied: 32, Total: 500, Percent: 0.338000
+INCORRECT
+#
+Team: St. John's (NY), Won: 314, Lost: 148, Tied: 38, Total: 500, Percent: 0.628000
+Team: Syracuse, Won: 148, Lost: 314, Tied: 38, Total: 500, Percent: 0.296000
+INCORRECT
+#
+Team: St. John's (NY), Won: 189, Lost: 277, Tied: 34, Total: 500, Percent: 0.378000
+Team: Georgetown, Won: 277, Lost: 189, Tied: 34, Total: 500, Percent: 0.554000
+INCORRECT
+#
+Team: St. John's (NY), Won: 168, Lost: 293, Tied: 39, Total: 500, Percent: 0.336000
+Team: Hofstra, Won: 293, Lost: 168, Tied: 39, Total: 500, Percent: 0.586000
+INCORRECT
+#
+Team: St. John's (NY), Won: 290, Lost: 177, Tied: 33, Total: 500, Percent: 0.580000
+Team: Stony Brook, Won: 177, Lost: 290, Tied: 33, Total: 500, Percent: 0.354000
+CORRECT
+#
+Team: St. John's (NY), Won: 220, Lost: 235, Tied: 45, Total: 500, Percent: 0.440000
+Team: Providence, Won: 235, Lost: 220, Tied: 45, Total: 500, Percent: 0.470000
+INCORRECT
+#
+Team: St. John's (NY), Won: 335, Lost: 134, Tied: 31, Total: 500, Percent: 0.670000
+Team: Rutgers, Won: 134, Lost: 335, Tied: 31, Total: 500, Percent: 0.268000
+INCORRECT
+#
+Team: St. John's (NY), Won: 94, Lost: 387, Tied: 19, Total: 500, Percent: 0.188000
+Team: Marquette, Won: 387, Lost: 94, Tied: 19, Total: 500, Percent: 0.774000
+CORRECT
+#
+Team: St. John's (NY), Won: 119, Lost: 347, Tied: 34, Total: 500, Percent: 0.238000
+Team: Denver, Won: 347, Lost: 119, Tied: 34, Total: 500, Percent: 0.694000
+CORRECT
+#
+Team: St. John's (NY), Won: 304, Lost: 155, Tied: 41, Total: 500, Percent: 0.608000
+Team: Villanova, Won: 155, Lost: 304, Tied: 41, Total: 500, Percent: 0.310000
+CORRECT
+#
+Team: St. John's (NY), Won: 188, Lost: 274, Tied: 38, Total: 500, Percent: 0.376000
+Team: Penn, Won: 274, Lost: 188, Tied: 38, Total: 500, Percent: 0.548000
+CORRECT
+#
+Team: Vermont, Won: 31, Lost: 451, Tied: 18, Total: 500, Percent: 0.062000
+Team: Colgate, Won: 451, Lost: 31, Tied: 18, Total: 500, Percent: 0.902000
+CORRECT
+#
+Team: Vermont, Won: 15, Lost: 468, Tied: 17, Total: 500, Percent: 0.030000
+Team: Providence, Won: 468, Lost: 15, Tied: 17, Total: 500, Percent: 0.936000
+CORRECT
+#
+Team: Vermont, Won: 151, Lost: 305, Tied: 44, Total: 500, Percent: 0.302000
+Team: Dartmouth, Won: 305, Lost: 151, Tied: 44, Total: 500, Percent: 0.610000
+INCORRECT
+#
+Team: Vermont, Won: 98, Lost: 366, Tied: 36, Total: 500, Percent: 0.196000
+Team: Boston U., Won: 366, Lost: 98, Tied: 36, Total: 500, Percent: 0.732000
+INCORRECT
+#
+Team: Vermont, Won: 292, Lost: 166, Tied: 42, Total: 500, Percent: 0.584000
+Team: VMI, Won: 166, Lost: 292, Tied: 42, Total: 500, Percent: 0.332000
+CORRECT
+#
+Team: Vermont, Won: 285, Lost: 175, Tied: 40, Total: 500, Percent: 0.570000
+Team: Richmond, Won: 175, Lost: 285, Tied: 40, Total: 500, Percent: 0.350000
+INCORRECT
+#
+Team: Vermont, Won: 274, Lost: 182, Tied: 44, Total: 500, Percent: 0.548000
+Team: Wagner, Won: 182, Lost: 274, Tied: 44, Total: 500, Percent: 0.364000
+CORRECT
+#
+Team: Vermont, Won: 226, Lost: 219, Tied: 55, Total: 500, Percent: 0.452000
+Team: Sacred Heart, Won: 219, Lost: 226, Tied: 55, Total: 500, Percent: 0.438000
+CORRECT
+#
+Team: Vermont, Won: 256, Lost: 217, Tied: 27, Total: 500, Percent: 0.512000
+Team: Albany (NY), Won: 217, Lost: 256, Tied: 27, Total: 500, Percent: 0.434000
+INCORRECT
+#
+Team: Vermont, Won: 241, Lost: 219, Tied: 40, Total: 500, Percent: 0.482000
+Team: Stony Brook, Won: 219, Lost: 241, Tied: 40, Total: 500, Percent: 0.438000
+INCORRECT
+#
+Team: Vermont, Won: 188, Lost: 264, Tied: 48, Total: 500, Percent: 0.376000
+Team: Binghamton, Won: 264, Lost: 188, Tied: 48, Total: 500, Percent: 0.528000
+CORRECT
+#
+Team: Vermont, Won: 192, Lost: 266, Tied: 42, Total: 500, Percent: 0.384000
+Team: Hartford, Won: 266, Lost: 192, Tied: 42, Total: 500, Percent: 0.532000
+CORRECT
+#
+Team: Vermont, Won: 183, Lost: 272, Tied: 45, Total: 500, Percent: 0.366000
+Team: UMBC, Won: 272, Lost: 183, Tied: 45, Total: 500, Percent: 0.544000
+CORRECT
+#
+Team: Princeton, Won: 317, Lost: 145, Tied: 38, Total: 500, Percent: 0.634000
+Team: Hofstra, Won: 145, Lost: 317, Tied: 38, Total: 500, Percent: 0.290000
+CORRECT
+#
+Team: Princeton, Won: 209, Lost: 253, Tied: 38, Total: 500, Percent: 0.418000
+Team: Manhattan, Won: 253, Lost: 209, Tied: 38, Total: 500, Percent: 0.506000
+INCORRECT
+#
+Team: Princeton, Won: 393, Lost: 78, Tied: 29, Total: 500, Percent: 0.786000
+Team: Johns Hopkins, Won: 78, Lost: 393, Tied: 29, Total: 500, Percent: 0.156000
+INCORRECT
+#
+Team: Princeton, Won: 298, Lost: 159, Tied: 43, Total: 500, Percent: 0.596000
+Team: North Carolina, Won: 159, Lost: 298, Tied: 43, Total: 500, Percent: 0.318000
+INCORRECT
+#
+Team: Princeton, Won: 288, Lost: 170, Tied: 42, Total: 500, Percent: 0.576000
+Team: Penn, Won: 170, Lost: 288, Tied: 42, Total: 500, Percent: 0.340000
+CORRECT
+#
+Team: Princeton, Won: 250, Lost: 214, Tied: 36, Total: 500, Percent: 0.500000
+Team: Villanova, Won: 214, Lost: 250, Tied: 36, Total: 500, Percent: 0.428000
+CORRECT
+#
+Team: Princeton, Won: 309, Lost: 142, Tied: 49, Total: 500, Percent: 0.618000
+Team: Yale, Won: 142, Lost: 309, Tied: 49, Total: 500, Percent: 0.284000
+INCORRECT
+#
+Team: Princeton, Won: 310, Lost: 141, Tied: 49, Total: 500, Percent: 0.620000
+Team: Brown, Won: 141, Lost: 310, Tied: 49, Total: 500, Percent: 0.282000
+INCORRECT
+#
+Team: Princeton, Won: 391, Lost: 83, Tied: 26, Total: 500, Percent: 0.782000
+Team: Rutgers, Won: 83, Lost: 391, Tied: 26, Total: 500, Percent: 0.166000
+CORRECT
+#
+Team: Princeton, Won: 309, Lost: 143, Tied: 48, Total: 500, Percent: 0.618000
+Team: Lehigh, Won: 143, Lost: 309, Tied: 48, Total: 500, Percent: 0.286000
+CORRECT
+#
+Team: Princeton, Won: 255, Lost: 201, Tied: 44, Total: 500, Percent: 0.510000
+Team: Dartmouth, Won: 201, Lost: 255, Tied: 44, Total: 500, Percent: 0.402000
+CORRECT
+#
+Team: Princeton, Won: 292, Lost: 163, Tied: 45, Total: 500, Percent: 0.584000
+Team: Harvard, Won: 163, Lost: 292, Tied: 45, Total: 500, Percent: 0.326000
+INCORRECT
+#
+Team: Princeton, Won: 318, Lost: 143, Tied: 39, Total: 500, Percent: 0.636000
+Team: Cornell, Won: 143, Lost: 318, Tied: 39, Total: 500, Percent: 0.286000
+INCORRECT
+#
+Team: Binghamton, Won: 165, Lost: 285, Tied: 50, Total: 500, Percent: 0.330000
+Team: Sacred Heart, Won: 285, Lost: 165, Tied: 50, Total: 500, Percent: 0.570000
+INCORRECT
+#
+Team: Binghamton, Won: 300, Lost: 149, Tied: 51, Total: 500, Percent: 0.600000
+Team: Siena, Won: 149, Lost: 300, Tied: 51, Total: 500, Percent: 0.298000
+INCORRECT
+#
+Team: Binghamton, Won: 281, Lost: 172, Tied: 47, Total: 500, Percent: 0.562000
+Team: Cornell, Won: 172, Lost: 281, Tied: 47, Total: 500, Percent: 0.344000
+INCORRECT
+#
+Team: Binghamton, Won: 159, Lost: 305, Tied: 36, Total: 500, Percent: 0.318000
+Team: Hobart, Won: 305, Lost: 159, Tied: 36, Total: 500, Percent: 0.610000
+INCORRECT
+#
+Team: Binghamton, Won: 184, Lost: 282, Tied: 34, Total: 500, Percent: 0.368000
+Team: Delaware, Won: 282, Lost: 184, Tied: 34, Total: 500, Percent: 0.564000
+CORRECT
+#
+Team: Binghamton, Won: 198, Lost: 256, Tied: 46, Total: 500, Percent: 0.396000
+Team: Colgate, Won: 256, Lost: 198, Tied: 46, Total: 500, Percent: 0.512000
+CORRECT
+#
+Team: Binghamton, Won: 137, Lost: 329, Tied: 34, Total: 500, Percent: 0.274000
+Team: Air Force, Won: 329, Lost: 137, Tied: 34, Total: 500, Percent: 0.658000
+CORRECT
+#
+Team: Binghamton, Won: 203, Lost: 242, Tied: 55, Total: 500, Percent: 0.406000
+Team: Hartford, Won: 242, Lost: 203, Tied: 55, Total: 500, Percent: 0.484000
+INCORRECT
+#
+Team: Binghamton, Won: 241, Lost: 224, Tied: 35, Total: 500, Percent: 0.482000
+Team: Syracuse, Won: 224, Lost: 241, Tied: 35, Total: 500, Percent: 0.448000
+INCORRECT
+#
+Team: Binghamton, Won: 178, Lost: 279, Tied: 43, Total: 500, Percent: 0.356000
+Team: UMBC, Won: 279, Lost: 178, Tied: 43, Total: 500, Percent: 0.558000
+INCORRECT
+#
+Team: Binghamton, Won: 238, Lost: 210, Tied: 52, Total: 500, Percent: 0.476000
+Team: Vermont, Won: 210, Lost: 238, Tied: 52, Total: 500, Percent: 0.420000
+CORRECT
+#
+Team: Binghamton, Won: 226, Lost: 240, Tied: 34, Total: 500, Percent: 0.452000
+Team: Canisius, Won: 240, Lost: 226, Tied: 34, Total: 500, Percent: 0.480000
+INCORRECT
+#
+Team: Binghamton, Won: 296, Lost: 158, Tied: 46, Total: 500, Percent: 0.592000
+Team: Stony Brook, Won: 158, Lost: 296, Tied: 46, Total: 500, Percent: 0.316000
+CORRECT
+#
+Team: Binghamton, Won: 286, Lost: 164, Tied: 50, Total: 500, Percent: 0.572000
+Team: Albany (NY), Won: 164, Lost: 286, Tied: 50, Total: 500, Percent: 0.328000
+INCORRECT
+#
+Team: Binghamton, Won: 235, Lost: 234, Tied: 31, Total: 500, Percent: 0.470000
+Team: UMBC, Won: 234, Lost: 235, Tied: 31, Total: 500, Percent: 0.468000
+INCORRECT
+#
+Team: Detroit, Won: 217, Lost: 224, Tied: 59, Total: 500, Percent: 0.434000
+Team: Mercer, Won: 224, Lost: 217, Tied: 59, Total: 500, Percent: 0.448000
+INCORRECT
+#
+Team: Detroit, Won: 262, Lost: 181, Tied: 57, Total: 500, Percent: 0.524000
+Team: Michigan, Won: 181, Lost: 262, Tied: 57, Total: 500, Percent: 0.362000
+INCORRECT
+#
+Team: Detroit, Won: 252, Lost: 201, Tied: 47, Total: 500, Percent: 0.504000
+Team: Robert Morris, Won: 201, Lost: 252, Tied: 47, Total: 500, Percent: 0.402000
+INCORRECT
+#
+Team: Detroit, Won: 234, Lost: 217, Tied: 49, Total: 500, Percent: 0.468000
+Team: VMI, Won: 217, Lost: 234, Tied: 49, Total: 500, Percent: 0.434000
+CORRECT
+#
+Team: Detroit, Won: 201, Lost: 252, Tied: 47, Total: 500, Percent: 0.402000
+Team: Bellarmine, Won: 252, Lost: 201, Tied: 47, Total: 500, Percent: 0.504000
+CORRECT
+#
+Team: Detroit, Won: 188, Lost: 276, Tied: 36, Total: 500, Percent: 0.376000
+Team: Wagner, Won: 276, Lost: 188, Tied: 36, Total: 500, Percent: 0.552000
+INCORRECT
+#
+Team: Detroit, Won: 153, Lost: 313, Tied: 34, Total: 500, Percent: 0.306000
+Team: Marquette, Won: 313, Lost: 153, Tied: 34, Total: 500, Percent: 0.626000
+CORRECT
+#
+Team: Detroit, Won: 143, Lost: 315, Tied: 42, Total: 500, Percent: 0.286000
+Team: Canisius, Won: 315, Lost: 143, Tied: 42, Total: 500, Percent: 0.630000
+INCORRECT
+#
+Team: Detroit, Won: 238, Lost: 223, Tied: 39, Total: 500, Percent: 0.476000
+Team: Quinnipiac, Won: 223, Lost: 238, Tied: 39, Total: 500, Percent: 0.446000
+INCORRECT
+#
+Team: Detroit, Won: 269, Lost: 186, Tied: 45, Total: 500, Percent: 0.538000
+Team: Marist, Won: 186, Lost: 269, Tied: 45, Total: 500, Percent: 0.372000
+CORRECT
+#
+Team: Detroit, Won: 241, Lost: 218, Tied: 41, Total: 500, Percent: 0.482000
+Team: Siena, Won: 218, Lost: 241, Tied: 41, Total: 500, Percent: 0.436000
+INCORRECT
+#
+Team: Detroit, Won: 150, Lost: 315, Tied: 35, Total: 500, Percent: 0.300000
+Team: Manhattan, Won: 315, Lost: 150, Tied: 35, Total: 500, Percent: 0.630000
+CORRECT
+#
+Team: Detroit, Won: 149, Lost: 300, Tied: 51, Total: 500, Percent: 0.298000
+Team: Monmouth, Won: 300, Lost: 149, Tied: 51, Total: 500, Percent: 0.600000
+INCORRECT
+#
+Team: Detroit, Won: 234, Lost: 211, Tied: 55, Total: 500, Percent: 0.468000
+Team: Marist, Won: 211, Lost: 234, Tied: 55, Total: 500, Percent: 0.422000
+INCORRECT
+#
+Team: Saint Joseph's, Won: 389, Lost: 87, Tied: 24, Total: 500, Percent: 0.778000
+Team: High Point, Won: 87, Lost: 389, Tied: 24, Total: 500, Percent: 0.174000
+INCORRECT
+#
+Team: Saint Joseph's, Won: 431, Lost: 42, Tied: 27, Total: 500, Percent: 0.862000
+Team: VMI, Won: 42, Lost: 431, Tied: 27, Total: 500, Percent: 0.084000
+CORRECT
+#
+Team: Saint Joseph's, Won: 268, Lost: 196, Tied: 36, Total: 500, Percent: 0.536000
+Team: Penn, Won: 196, Lost: 268, Tied: 36, Total: 500, Percent: 0.392000
+INCORRECT
+#
+Team: Saint Joseph's, Won: 229, Lost: 214, Tied: 57, Total: 500, Percent: 0.458000
+Team: Wagner, Won: 214, Lost: 229, Tied: 57, Total: 500, Percent: 0.428000
+CORRECT
+#
+Team: Saint Joseph's, Won: 293, Lost: 158, Tied: 49, Total: 500, Percent: 0.586000
+Team: Monmouth, Won: 158, Lost: 293, Tied: 49, Total: 500, Percent: 0.316000
+CORRECT
+#
+Team: Saint Joseph's, Won: 376, Lost: 84, Tied: 40, Total: 500, Percent: 0.752000
+Team: Robert Morris, Won: 84, Lost: 376, Tied: 40, Total: 500, Percent: 0.168000
+CORRECT
+#
+Team: Saint Joseph's, Won: 328, Lost: 135, Tied: 37, Total: 500, Percent: 0.656000
+Team: Richmond, Won: 135, Lost: 328, Tied: 37, Total: 500, Percent: 0.270000
+CORRECT
+#
+Team: Saint Joseph's, Won: 416, Lost: 49, Tied: 35, Total: 500, Percent: 0.832000
+Team: Michigan, Won: 49, Lost: 416, Tied: 35, Total: 500, Percent: 0.098000
+CORRECT
+#
+Team: Saint Joseph's, Won: 401, Lost: 72, Tied: 27, Total: 500, Percent: 0.802000
+Team: Drexel, Won: 72, Lost: 401, Tied: 27, Total: 500, Percent: 0.144000
+INCORRECT
+#
+Team: Saint Joseph's, Won: 286, Lost: 161, Tied: 53, Total: 500, Percent: 0.572000
+Team: Mt. St. Mary's, Won: 161, Lost: 286, Tied: 53, Total: 500, Percent: 0.322000
+CORRECT
+#
+Team: Saint Joseph's, Won: 367, Lost: 84, Tied: 49, Total: 500, Percent: 0.734000
+Team: Bryant, Won: 84, Lost: 367, Tied: 49, Total: 500, Percent: 0.168000
+CORRECT
+#
+Team: Saint Joseph's, Won: 315, Lost: 139, Tied: 46, Total: 500, Percent: 0.630000
+Team: Delaware, Won: 139, Lost: 315, Tied: 46, Total: 500, Percent: 0.278000
+CORRECT
+#
+Team: Saint Joseph's, Won: 361, Lost: 107, Tied: 32, Total: 500, Percent: 0.722000
+Team: Sacred Heart, Won: 107, Lost: 361, Tied: 32, Total: 500, Percent: 0.214000
+CORRECT
+#
+Team: Saint Joseph's, Won: 348, Lost: 124, Tied: 28, Total: 500, Percent: 0.696000
+Team: Hobart, Won: 124, Lost: 348, Tied: 28, Total: 500, Percent: 0.248000
+CORRECT
+#
+Team: Saint Joseph's, Won: 341, Lost: 126, Tied: 33, Total: 500, Percent: 0.682000
+Team: Hobart, Won: 126, Lost: 341, Tied: 33, Total: 500, Percent: 0.252000
+INCORRECT
+#
+Team: Bellarmine, Won: 415, Lost: 61, Tied: 24, Total: 500, Percent: 0.830000
+Team: Robert Morris, Won: 61, Lost: 415, Tied: 24, Total: 500, Percent: 0.122000
+CORRECT
+#
+Team: Bellarmine, Won: 362, Lost: 99, Tied: 39, Total: 500, Percent: 0.724000
+Team: Jacksonville, Won: 99, Lost: 362, Tied: 39, Total: 500, Percent: 0.198000
+CORRECT
+#
+Team: Bellarmine, Won: 315, Lost: 138, Tied: 47, Total: 500, Percent: 0.630000
+Team: Furman, Won: 138, Lost: 315, Tied: 47, Total: 500, Percent: 0.276000
+CORRECT
+#
+Team: Bellarmine, Won: 309, Lost: 149, Tied: 42, Total: 500, Percent: 0.618000
+Team: Detroit, Won: 149, Lost: 309, Tied: 42, Total: 500, Percent: 0.298000
+CORRECT
+#
+Team: Bellarmine, Won: 254, Lost: 201, Tied: 45, Total: 500, Percent: 0.508000
+Team: Air Force, Won: 201, Lost: 254, Tied: 45, Total: 500, Percent: 0.402000
+INCORRECT
+#
+Team: Bellarmine, Won: 357, Lost: 108, Tied: 35, Total: 500, Percent: 0.714000
+Team: Michigan, Won: 108, Lost: 357, Tied: 35, Total: 500, Percent: 0.216000
+INCORRECT
+#
+Team: Bellarmine, Won: 207, Lost: 257, Tied: 36, Total: 500, Percent: 0.414000
+Team: Ohio St., Won: 257, Lost: 207, Tied: 36, Total: 500, Percent: 0.514000
+CORRECT
+#
+Team: Bellarmine, Won: 211, Lost: 242, Tied: 47, Total: 500, Percent: 0.422000
+Team: Fairfield, Won: 242, Lost: 211, Tied: 47, Total: 500, Percent: 0.484000
+CORRECT
+#
+Team: Bellarmine, Won: 200, Lost: 257, Tied: 43, Total: 500, Percent: 0.400000
+Team: Marquette, Won: 257, Lost: 200, Tied: 43, Total: 500, Percent: 0.514000
+INCORRECT
+#
+Team: Bellarmine, Won: 215, Lost: 239, Tied: 46, Total: 500, Percent: 0.430000
+Team: High Point, Won: 239, Lost: 215, Tied: 46, Total: 500, Percent: 0.478000
+INCORRECT
+#
+Team: Bellarmine, Won: 247, Lost: 195, Tied: 58, Total: 500, Percent: 0.494000
+Team: Virginia, Won: 195, Lost: 247, Tied: 58, Total: 500, Percent: 0.390000
+INCORRECT
+#
+Team: Bellarmine, Won: 235, Lost: 205, Tied: 60, Total: 500, Percent: 0.470000
+Team: Mercer, Won: 205, Lost: 235, Tied: 60, Total: 500, Percent: 0.410000
+CORRECT
+#
+Team: Rutgers, Won: 378, Lost: 85, Tied: 37, Total: 500, Percent: 0.756000
+Team: Manhattan, Won: 85, Lost: 378, Tied: 37, Total: 500, Percent: 0.170000
+CORRECT
+#
+Team: Rutgers, Won: 353, Lost: 112, Tied: 35, Total: 500, Percent: 0.706000
+Team: Wagner, Won: 112, Lost: 353, Tied: 35, Total: 500, Percent: 0.224000
+CORRECT
+#
+Team: Rutgers, Won: 454, Lost: 29, Tied: 17, Total: 500, Percent: 0.908000
+Team: Virginia, Won: 29, Lost: 454, Tied: 17, Total: 500, Percent: 0.058000
+INCORRECT
+#
+Team: Rutgers, Won: 434, Lost: 49, Tied: 17, Total: 500, Percent: 0.868000
+Team: Stony Brook, Won: 49, Lost: 434, Tied: 17, Total: 500, Percent: 0.098000
+INCORRECT
+#
+Team: Rutgers, Won: 394, Lost: 70, Tied: 36, Total: 500, Percent: 0.788000
+Team: Army West Point, Won: 70, Lost: 394, Tied: 36, Total: 500, Percent: 0.140000
+CORRECT
+#
+Team: Rutgers, Won: 366, Lost: 93, Tied: 41, Total: 500, Percent: 0.732000
+Team: Monmouth, Won: 93, Lost: 366, Tied: 41, Total: 500, Percent: 0.186000
+CORRECT
+#
+Team: Rutgers, Won: 400, Lost: 70, Tied: 30, Total: 500, Percent: 0.800000
+Team: Providence, Won: 70, Lost: 400, Tied: 30, Total: 500, Percent: 0.140000
+CORRECT
+#
+Team: Rutgers, Won: 346, Lost: 115, Tied: 39, Total: 500, Percent: 0.692000
+Team: Richmond, Won: 115, Lost: 346, Tied: 39, Total: 500, Percent: 0.230000
+CORRECT
+#
+Team: Rutgers, Won: 319, Lost: 139, Tied: 42, Total: 500, Percent: 0.638000
+Team: Denver, Won: 139, Lost: 319, Tied: 42, Total: 500, Percent: 0.278000
+INCORRECT
+#
+Team: Rutgers, Won: 318, Lost: 139, Tied: 43, Total: 500, Percent: 0.636000
+Team: Marquette, Won: 139, Lost: 318, Tied: 43, Total: 500, Percent: 0.278000
+INCORRECT
+#
+Team: Rutgers, Won: 273, Lost: 183, Tied: 44, Total: 500, Percent: 0.546000
+Team: St. John's (NY), Won: 183, Lost: 273, Tied: 44, Total: 500, Percent: 0.366000
+CORRECT
+#
+Team: Rutgers, Won: 326, Lost: 130, Tied: 44, Total: 500, Percent: 0.652000
+Team: Princeton, Won: 130, Lost: 326, Tied: 44, Total: 500, Percent: 0.260000
+INCORRECT
+#
+Team: Rutgers, Won: 233, Lost: 218, Tied: 49, Total: 500, Percent: 0.466000
+Team: Villanova, Won: 218, Lost: 233, Tied: 49, Total: 500, Percent: 0.436000
+INCORRECT
+#
+Team: Rutgers, Won: 322, Lost: 154, Tied: 24, Total: 500, Percent: 0.644000
+Team: Duke, Won: 154, Lost: 322, Tied: 24, Total: 500, Percent: 0.308000
+INCORRECT
+#
+Team: Rutgers, Won: 288, Lost: 171, Tied: 41, Total: 500, Percent: 0.576000
+Team: Georgetown, Won: 171, Lost: 288, Tied: 41, Total: 500, Percent: 0.342000
+CORRECT
+#
+Team: Rutgers, Won: 205, Lost: 254, Tied: 41, Total: 500, Percent: 0.410000
+Team: Denver, Won: 254, Lost: 205, Tied: 41, Total: 500, Percent: 0.508000
+CORRECT
+#
+Team: Lafayette, Won: 91, Lost: 384, Tied: 25, Total: 500, Percent: 0.182000
+Team: Stony Brook, Won: 384, Lost: 91, Tied: 25, Total: 500, Percent: 0.768000
+CORRECT
+#
+Team: Lafayette, Won: 77, Lost: 396, Tied: 27, Total: 500, Percent: 0.154000
+Team: Colgate, Won: 396, Lost: 77, Tied: 27, Total: 500, Percent: 0.792000
+INCORRECT
+#
+Team: Lafayette, Won: 49, Lost: 434, Tied: 17, Total: 500, Percent: 0.098000
+Team: Army West Point, Won: 434, Lost: 49, Tied: 17, Total: 500, Percent: 0.868000
+CORRECT
+#
+Team: Lafayette, Won: 54, Lost: 422, Tied: 24, Total: 500, Percent: 0.108000
+Team: Delaware, Won: 422, Lost: 54, Tied: 24, Total: 500, Percent: 0.844000
+CORRECT
+#
+Team: Lafayette, Won: 80, Lost: 395, Tied: 25, Total: 500, Percent: 0.160000
+Team: Navy, Won: 395, Lost: 80, Tied: 25, Total: 500, Percent: 0.790000
+CORRECT
+#
+Team: Lafayette, Won: 45, Lost: 435, Tied: 20, Total: 500, Percent: 0.090000
+Team: Boston U., Won: 435, Lost: 45, Tied: 20, Total: 500, Percent: 0.870000
+CORRECT
+#
+Team: Lafayette, Won: 28, Lost: 450, Tied: 22, Total: 500, Percent: 0.056000
+Team: Loyola Maryland, Won: 450, Lost: 28, Tied: 22, Total: 500, Percent: 0.900000
+CORRECT
+#
+Team: Lafayette, Won: 35, Lost: 440, Tied: 25, Total: 500, Percent: 0.070000
+Team: Mercer, Won: 440, Lost: 35, Tied: 25, Total: 500, Percent: 0.880000
+CORRECT
+#
+Team: Lafayette, Won: 34, Lost: 445, Tied: 21, Total: 500, Percent: 0.068000
+Team: Monmouth, Won: 445, Lost: 34, Tied: 21, Total: 500, Percent: 0.890000
+INCORRECT
+#
+Team: Lafayette, Won: 57, Lost: 412, Tied: 31, Total: 500, Percent: 0.114000
+Team: Holy Cross, Won: 412, Lost: 57, Tied: 31, Total: 500, Percent: 0.824000
+CORRECT
+#
+Team: Lafayette, Won: 48, Lost: 428, Tied: 24, Total: 500, Percent: 0.096000
+Team: Manhattan, Won: 428, Lost: 48, Tied: 24, Total: 500, Percent: 0.856000
+CORRECT
+#
+Team: Lafayette, Won: 58, Lost: 413, Tied: 29, Total: 500, Percent: 0.116000
+Team: Bucknell, Won: 413, Lost: 58, Tied: 29, Total: 500, Percent: 0.826000
+CORRECT
+#
+Team: Lafayette, Won: 76, Lost: 392, Tied: 32, Total: 500, Percent: 0.152000
+Team: Lehigh, Won: 392, Lost: 76, Tied: 32, Total: 500, Percent: 0.784000
+CORRECT
+#
+Team: Yale, Won: 325, Lost: 129, Tied: 46, Total: 500, Percent: 0.650000
+Team: St. John's (NY), Won: 129, Lost: 325, Tied: 46, Total: 500, Percent: 0.258000
+CORRECT
+#
+Team: Yale, Won: 355, Lost: 109, Tied: 36, Total: 500, Percent: 0.710000
+Team: Bryant, Won: 109, Lost: 355, Tied: 36, Total: 500, Percent: 0.218000
+CORRECT
+#
+Team: Yale, Won: 398, Lost: 66, Tied: 36, Total: 500, Percent: 0.796000
+Team: Fairfield, Won: 66, Lost: 398, Tied: 36, Total: 500, Percent: 0.132000
+INCORRECT
+#
+Team: Yale, Won: 415, Lost: 66, Tied: 19, Total: 500, Percent: 0.830000
+Team: Lehigh, Won: 66, Lost: 415, Tied: 19, Total: 500, Percent: 0.132000
+CORRECT
+#
+Team: Yale, Won: 446, Lost: 30, Tied: 24, Total: 500, Percent: 0.892000
+Team: Cornell, Won: 30, Lost: 446, Tied: 24, Total: 500, Percent: 0.060000
+INCORRECT
+#
+Team: Yale, Won: 399, Lost: 74, Tied: 27, Total: 500, Percent: 0.798000
+Team: Princeton, Won: 74, Lost: 399, Tied: 27, Total: 500, Percent: 0.148000
+CORRECT
+#
+Team: Yale, Won: 321, Lost: 133, Tied: 46, Total: 500, Percent: 0.642000
+Team: Penn, Won: 133, Lost: 321, Tied: 46, Total: 500, Percent: 0.266000
+INCORRECT
+#
+Team: Yale, Won: 365, Lost: 101, Tied: 34, Total: 500, Percent: 0.730000
+Team: Providence, Won: 101, Lost: 365, Tied: 34, Total: 500, Percent: 0.202000
+CORRECT
+#
+Team: Yale, Won: 283, Lost: 175, Tied: 42, Total: 500, Percent: 0.566000
+Team: Dartmouth, Won: 175, Lost: 283, Tied: 42, Total: 500, Percent: 0.350000
+CORRECT
+#
+Team: Yale, Won: 259, Lost: 193, Tied: 48, Total: 500, Percent: 0.518000
+Team: Brown, Won: 193, Lost: 259, Tied: 48, Total: 500, Percent: 0.386000
+CORRECT
+#
+Team: Yale, Won: 398, Lost: 73, Tied: 29, Total: 500, Percent: 0.796000
+Team: Michigan, Won: 73, Lost: 398, Tied: 29, Total: 500, Percent: 0.146000
+CORRECT
+#
+Team: Yale, Won: 282, Lost: 185, Tied: 33, Total: 500, Percent: 0.564000
+Team: Quinnipiac, Won: 185, Lost: 282, Tied: 33, Total: 500, Percent: 0.370000
+CORRECT
+#
+Team: Yale, Won: 355, Lost: 107, Tied: 38, Total: 500, Percent: 0.710000
+Team: Harvard, Won: 107, Lost: 355, Tied: 38, Total: 500, Percent: 0.214000
+INCORRECT
+#
+Team: Yale, Won: 349, Lost: 102, Tied: 49, Total: 500, Percent: 0.698000
+Team: Harvard, Won: 102, Lost: 349, Tied: 49, Total: 500, Percent: 0.204000
+INCORRECT
+#
+Team: Sacred Heart, Won: 196, Lost: 261, Tied: 43, Total: 500, Percent: 0.392000
+Team: Binghamton, Won: 261, Lost: 196, Tied: 43, Total: 500, Percent: 0.522000
+CORRECT
+#
+Team: Sacred Heart, Won: 115, Lost: 344, Tied: 41, Total: 500, Percent: 0.230000
+Team: High Point, Won: 344, Lost: 115, Tied: 41, Total: 500, Percent: 0.688000
+CORRECT
+#
+Team: Sacred Heart, Won: 133, Lost: 325, Tied: 42, Total: 500, Percent: 0.266000
+Team: Dartmouth, Won: 325, Lost: 133, Tied: 42, Total: 500, Percent: 0.650000
+CORRECT
+#
+Team: Sacred Heart, Won: 165, Lost: 298, Tied: 37, Total: 500, Percent: 0.330000
+Team: Providence, Won: 298, Lost: 165, Tied: 37, Total: 500, Percent: 0.596000
+INCORRECT
+#
+Team: Sacred Heart, Won: 248, Lost: 215, Tied: 37, Total: 500, Percent: 0.496000
+Team: Stony Brook, Won: 215, Lost: 248, Tied: 37, Total: 500, Percent: 0.430000
+INCORRECT
+#
+Team: Sacred Heart, Won: 187, Lost: 277, Tied: 36, Total: 500, Percent: 0.374000
+Team: Hartford, Won: 277, Lost: 187, Tied: 36, Total: 500, Percent: 0.554000
+CORRECT
+#
+Team: Sacred Heart, Won: 178, Lost: 278, Tied: 44, Total: 500, Percent: 0.356000
+Team: Vermont, Won: 278, Lost: 178, Tied: 44, Total: 500, Percent: 0.556000
+CORRECT
+#
+Team: Sacred Heart, Won: 182, Lost: 272, Tied: 46, Total: 500, Percent: 0.364000
+Team: Robert Morris, Won: 272, Lost: 182, Tied: 46, Total: 500, Percent: 0.544000
+INCORRECT
+#
+Team: Sacred Heart, Won: 154, Lost: 309, Tied: 37, Total: 500, Percent: 0.308000
+Team: Bryant, Won: 309, Lost: 154, Tied: 37, Total: 500, Percent: 0.618000
+CORRECT
+#
+Team: Sacred Heart, Won: 74, Lost: 394, Tied: 32, Total: 500, Percent: 0.148000
+Team: Hobart, Won: 394, Lost: 74, Tied: 32, Total: 500, Percent: 0.788000
+INCORRECT
+#
+Team: Sacred Heart, Won: 126, Lost: 342, Tied: 32, Total: 500, Percent: 0.252000
+Team: Holy Cross, Won: 342, Lost: 126, Tied: 32, Total: 500, Percent: 0.684000
+INCORRECT
+#
+Team: Sacred Heart, Won: 87, Lost: 382, Tied: 31, Total: 500, Percent: 0.174000
+Team: Wagner, Won: 382, Lost: 87, Tied: 31, Total: 500, Percent: 0.764000
+INCORRECT
+#
+Team: Sacred Heart, Won: 134, Lost: 325, Tied: 41, Total: 500, Percent: 0.268000
+Team: Saint Joseph's, Won: 325, Lost: 134, Tied: 41, Total: 500, Percent: 0.650000
+CORRECT
+#
+Team: Sacred Heart, Won: 80, Lost: 390, Tied: 30, Total: 500, Percent: 0.160000
+Team: Mt. St. Mary's, Won: 390, Lost: 80, Tied: 30, Total: 500, Percent: 0.780000
+INCORRECT
+#
+Team: Sacred Heart, Won: 171, Lost: 287, Tied: 42, Total: 500, Percent: 0.342000
+Team: Bryant, Won: 287, Lost: 171, Tied: 42, Total: 500, Percent: 0.574000
+CORRECT
+#
+Team: Holy Cross, Won: 15, Lost: 478, Tied: 7, Total: 500, Percent: 0.030000
+Team: St. John's (NY), Won: 478, Lost: 15, Tied: 7, Total: 500, Percent: 0.956000
+CORRECT
+#
+Team: Holy Cross, Won: 30, Lost: 455, Tied: 15, Total: 500, Percent: 0.060000
+Team: Loyola Maryland, Won: 455, Lost: 30, Tied: 15, Total: 500, Percent: 0.910000
+CORRECT
+#
+Team: Holy Cross, Won: 3, Lost: 494, Tied: 3, Total: 500, Percent: 0.006000
+Team: Harvard, Won: 494, Lost: 3, Tied: 3, Total: 500, Percent: 0.988000
+CORRECT
+#
+Team: Holy Cross, Won: 18, Lost: 471, Tied: 11, Total: 500, Percent: 0.036000
+Team: Navy, Won: 471, Lost: 18, Tied: 11, Total: 500, Percent: 0.942000
+CORRECT
+#
+Team: Holy Cross, Won: 29, Lost: 454, Tied: 17, Total: 500, Percent: 0.058000
+Team: Richmond, Won: 454, Lost: 29, Tied: 17, Total: 500, Percent: 0.908000
+INCORRECT
+#
+Team: Holy Cross, Won: 18, Lost: 474, Tied: 8, Total: 500, Percent: 0.036000
+Team: Army West Point, Won: 474, Lost: 18, Tied: 8, Total: 500, Percent: 0.948000
+CORRECT
+#
+Team: Holy Cross, Won: 5, Lost: 487, Tied: 8, Total: 500, Percent: 0.010000
+Team: Bucknell, Won: 487, Lost: 5, Tied: 8, Total: 500, Percent: 0.974000
+CORRECT
+#
+Team: Holy Cross, Won: 34, Lost: 453, Tied: 13, Total: 500, Percent: 0.068000
+Team: Fairfield, Won: 453, Lost: 34, Tied: 13, Total: 500, Percent: 0.906000
+CORRECT
+#
+Team: Holy Cross, Won: 47, Lost: 442, Tied: 11, Total: 500, Percent: 0.094000
+Team: Hartford, Won: 442, Lost: 47, Tied: 11, Total: 500, Percent: 0.884000
+INCORRECT
+#
+Team: Holy Cross, Won: 37, Lost: 447, Tied: 16, Total: 500, Percent: 0.074000
+Team: Lehigh, Won: 447, Lost: 37, Tied: 16, Total: 500, Percent: 0.894000
+CORRECT
+#
+Team: Holy Cross, Won: 15, Lost: 478, Tied: 7, Total: 500, Percent: 0.030000
+Team: Lafayette, Won: 478, Lost: 15, Tied: 7, Total: 500, Percent: 0.956000
+INCORRECT
+#
+Team: Holy Cross, Won: 42, Lost: 427, Tied: 31, Total: 500, Percent: 0.084000
+Team: Sacred Heart, Won: 427, Lost: 42, Tied: 31, Total: 500, Percent: 0.854000
+CORRECT
+#
+Team: Holy Cross, Won: 96, Lost: 381, Tied: 23, Total: 500, Percent: 0.192000
+Team: Colgate, Won: 381, Lost: 96, Tied: 23, Total: 500, Percent: 0.762000
+CORRECT
+#
+Team: Holy Cross, Won: 45, Lost: 430, Tied: 25, Total: 500, Percent: 0.090000
+Team: Boston U., Won: 430, Lost: 45, Tied: 25, Total: 500, Percent: 0.860000
+CORRECT
+#
+Team: Holy Cross, Won: 67, Lost: 403, Tied: 30, Total: 500, Percent: 0.134000
+Team: Dartmouth, Won: 403, Lost: 67, Tied: 30, Total: 500, Percent: 0.806000
+CORRECT
+#
+Team: Notre Dame, Won: 424, Lost: 55, Tied: 21, Total: 500, Percent: 0.848000
+Team: Jacksonville, Won: 55, Lost: 424, Tied: 21, Total: 500, Percent: 0.110000
+CORRECT
+#
+Team: Notre Dame, Won: 451, Lost: 31, Tied: 18, Total: 500, Percent: 0.902000
+Team: Penn St., Won: 31, Lost: 451, Tied: 18, Total: 500, Percent: 0.062000
+INCORRECT
+#
+Team: Notre Dame, Won: 474, Lost: 16, Tied: 10, Total: 500, Percent: 0.948000
+Team: North Carolina, Won: 16, Lost: 474, Tied: 10, Total: 500, Percent: 0.032000
+CORRECT
+#
+Team: Notre Dame, Won: 381, Lost: 84, Tied: 35, Total: 500, Percent: 0.762000
+Team: Denver, Won: 84, Lost: 381, Tied: 35, Total: 500, Percent: 0.168000
+INCORRECT
+#
+Team: Notre Dame, Won: 473, Lost: 16, Tied: 11, Total: 500, Percent: 0.946000
+Team: Virginia, Won: 16, Lost: 473, Tied: 11, Total: 500, Percent: 0.032000
+CORRECT
+#
+Team: Notre Dame, Won: 434, Lost: 51, Tied: 15, Total: 500, Percent: 0.868000
+Team: Ohio St., Won: 51, Lost: 434, Tied: 15, Total: 500, Percent: 0.102000
+CORRECT
+#
+Team: Notre Dame, Won: 449, Lost: 26, Tied: 25, Total: 500, Percent: 0.898000
+Team: Syracuse, Won: 26, Lost: 449, Tied: 25, Total: 500, Percent: 0.052000
+INCORRECT
+#
+Team: Notre Dame, Won: 441, Lost: 37, Tied: 22, Total: 500, Percent: 0.882000
+Team: Duke, Won: 37, Lost: 441, Tied: 22, Total: 500, Percent: 0.074000
+INCORRECT
+#
+Team: Notre Dame, Won: 407, Lost: 72, Tied: 21, Total: 500, Percent: 0.814000
+Team: Marquette, Won: 72, Lost: 407, Tied: 21, Total: 500, Percent: 0.144000
+CORRECT
+#
+Team: Notre Dame, Won: 413, Lost: 63, Tied: 24, Total: 500, Percent: 0.826000
+Team: Robert Morris, Won: 63, Lost: 413, Tied: 24, Total: 500, Percent: 0.126000
+CORRECT
+#
+Team: Notre Dame, Won: 409, Lost: 71, Tied: 20, Total: 500, Percent: 0.818000
+Team: Maryland, Won: 71, Lost: 409, Tied: 20, Total: 500, Percent: 0.142000
+INCORRECT
+#
+Team: Notre Dame, Won: 402, Lost: 73, Tied: 25, Total: 500, Percent: 0.804000
+Team: Maryland, Won: 73, Lost: 402, Tied: 25, Total: 500, Percent: 0.146000
+CORRECT
+#
+Team: Notre Dame, Won: 434, Lost: 49, Tied: 17, Total: 500, Percent: 0.868000
+Team: Syracuse, Won: 49, Lost: 434, Tied: 17, Total: 500, Percent: 0.098000
+CORRECT
+#
+Team: Notre Dame, Won: 355, Lost: 118, Tied: 27, Total: 500, Percent: 0.710000
+Team: Army West Point, Won: 118, Lost: 355, Tied: 27, Total: 500, Percent: 0.236000
+CORRECT
+#
+Team: Notre Dame, Won: 390, Lost: 73, Tied: 37, Total: 500, Percent: 0.780000
+Team: Harvard, Won: 73, Lost: 390, Tied: 37, Total: 500, Percent: 0.146000
+CORRECT
+#
+Team: Notre Dame, Won: 438, Lost: 43, Tied: 19, Total: 500, Percent: 0.876000
+Team: Albany (NY), Won: 43, Lost: 438, Tied: 19, Total: 500, Percent: 0.086000
+CORRECT
+#
+Team: Notre Dame, Won: 430, Lost: 55, Tied: 15, Total: 500, Percent: 0.860000
+Team: Maryland, Won: 55, Lost: 430, Tied: 15, Total: 500, Percent: 0.110000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 16, Lost: 477, Tied: 7, Total: 500, Percent: 0.032000
+Team: Maryland, Won: 477, Lost: 16, Tied: 7, Total: 500, Percent: 0.954000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 6, Lost: 486, Tied: 8, Total: 500, Percent: 0.012000
+Team: Georgetown, Won: 486, Lost: 6, Tied: 8, Total: 500, Percent: 0.972000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 8, Lost: 488, Tied: 4, Total: 500, Percent: 0.016000
+Team: Delaware, Won: 488, Lost: 8, Tied: 4, Total: 500, Percent: 0.976000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 12, Lost: 480, Tied: 8, Total: 500, Percent: 0.024000
+Team: Virginia, Won: 480, Lost: 12, Tied: 8, Total: 500, Percent: 0.960000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 4, Lost: 492, Tied: 4, Total: 500, Percent: 0.008000
+Team: Towson, Won: 492, Lost: 4, Tied: 4, Total: 500, Percent: 0.984000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 8, Lost: 488, Tied: 4, Total: 500, Percent: 0.016000
+Team: Manhattan, Won: 488, Lost: 8, Tied: 4, Total: 500, Percent: 0.976000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 43, Lost: 438, Tied: 19, Total: 500, Percent: 0.086000
+Team: Drexel, Won: 438, Lost: 43, Tied: 19, Total: 500, Percent: 0.876000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 14, Lost: 475, Tied: 11, Total: 500, Percent: 0.028000
+Team: UMBC, Won: 475, Lost: 14, Tied: 11, Total: 500, Percent: 0.950000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 23, Lost: 463, Tied: 14, Total: 500, Percent: 0.046000
+Team: Robert Morris, Won: 463, Lost: 23, Tied: 14, Total: 500, Percent: 0.926000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 10, Lost: 482, Tied: 8, Total: 500, Percent: 0.020000
+Team: Hobart, Won: 482, Lost: 10, Tied: 8, Total: 500, Percent: 0.964000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 26, Lost: 461, Tied: 13, Total: 500, Percent: 0.052000
+Team: Saint Joseph's, Won: 461, Lost: 26, Tied: 13, Total: 500, Percent: 0.922000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 22, Lost: 468, Tied: 10, Total: 500, Percent: 0.044000
+Team: Bucknell, Won: 468, Lost: 22, Tied: 10, Total: 500, Percent: 0.936000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 29, Lost: 453, Tied: 18, Total: 500, Percent: 0.058000
+Team: Bryant, Won: 453, Lost: 29, Tied: 18, Total: 500, Percent: 0.906000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 35, Lost: 439, Tied: 26, Total: 500, Percent: 0.070000
+Team: Johns Hopkins, Won: 439, Lost: 35, Tied: 26, Total: 500, Percent: 0.878000
+CORRECT
+#
+Team: Mt. St. Mary's, Won: 16, Lost: 476, Tied: 8, Total: 500, Percent: 0.032000
+Team: Wagner, Won: 476, Lost: 16, Tied: 8, Total: 500, Percent: 0.952000
+INCORRECT
+#
+Team: Mt. St. Mary's, Won: 33, Lost: 451, Tied: 16, Total: 500, Percent: 0.066000
+Team: Sacred Heart, Won: 451, Lost: 33, Tied: 16, Total: 500, Percent: 0.902000
+CORRECT
+#
+Team: Canisius, Won: 148, Lost: 295, Tied: 57, Total: 500, Percent: 0.296000
+Team: Boston U., Won: 295, Lost: 148, Tied: 57, Total: 500, Percent: 0.590000
+INCORRECT
+#
+Team: Canisius, Won: 212, Lost: 232, Tied: 56, Total: 500, Percent: 0.424000
+Team: Air Force, Won: 232, Lost: 212, Tied: 56, Total: 500, Percent: 0.464000
+INCORRECT
+#
+Team: Canisius, Won: 168, Lost: 283, Tied: 49, Total: 500, Percent: 0.336000
+Team: Denver, Won: 283, Lost: 168, Tied: 49, Total: 500, Percent: 0.566000
+CORRECT
+#
+Team: Canisius, Won: 379, Lost: 87, Tied: 34, Total: 500, Percent: 0.758000
+Team: Cornell, Won: 87, Lost: 379, Tied: 34, Total: 500, Percent: 0.174000
+INCORRECT
+#
+Team: Canisius, Won: 187, Lost: 267, Tied: 46, Total: 500, Percent: 0.374000
+Team: Hobart, Won: 267, Lost: 187, Tied: 46, Total: 500, Percent: 0.534000
+CORRECT
+#
+Team: Canisius, Won: 207, Lost: 241, Tied: 52, Total: 500, Percent: 0.414000
+Team: Monmouth, Won: 241, Lost: 207, Tied: 52, Total: 500, Percent: 0.482000
+INCORRECT
+#
+Team: Canisius, Won: 232, Lost: 224, Tied: 44, Total: 500, Percent: 0.464000
+Team: Detroit, Won: 224, Lost: 232, Tied: 44, Total: 500, Percent: 0.448000
+INCORRECT
+#
+Team: Canisius, Won: 300, Lost: 164, Tied: 36, Total: 500, Percent: 0.600000
+Team: Albany (NY), Won: 164, Lost: 300, Tied: 36, Total: 500, Percent: 0.328000
+CORRECT
+#
+Team: Canisius, Won: 256, Lost: 194, Tied: 50, Total: 500, Percent: 0.512000
+Team: Siena, Won: 194, Lost: 256, Tied: 50, Total: 500, Percent: 0.388000
+INCORRECT
+#
+Team: Canisius, Won: 181, Lost: 278, Tied: 41, Total: 500, Percent: 0.362000
+Team: Manhattan, Won: 278, Lost: 181, Tied: 41, Total: 500, Percent: 0.556000
+INCORRECT
+#
+Team: Canisius, Won: 186, Lost: 274, Tied: 40, Total: 500, Percent: 0.372000
+Team: Quinnipiac, Won: 274, Lost: 186, Tied: 40, Total: 500, Percent: 0.548000
+INCORRECT
+#
+Team: Canisius, Won: 250, Lost: 214, Tied: 36, Total: 500, Percent: 0.500000
+Team: Binghamton, Won: 214, Lost: 250, Tied: 36, Total: 500, Percent: 0.428000
+INCORRECT
+#
+Team: Canisius, Won: 232, Lost: 219, Tied: 49, Total: 500, Percent: 0.464000
+Team: VMI, Won: 219, Lost: 232, Tied: 49, Total: 500, Percent: 0.438000
+CORRECT
+#
+Team: Canisius, Won: 198, Lost: 254, Tied: 48, Total: 500, Percent: 0.396000
+Team: Marist, Won: 254, Lost: 198, Tied: 48, Total: 500, Percent: 0.508000
+CORRECT
+#
+Team: Canisius, Won: 257, Lost: 207, Tied: 36, Total: 500, Percent: 0.514000
+Team: Siena, Won: 207, Lost: 257, Tied: 36, Total: 500, Percent: 0.414000
+INCORRECT
+#
+Team: Ohio St., Won: 365, Lost: 103, Tied: 32, Total: 500, Percent: 0.730000
+Team: Johns Hopkins, Won: 103, Lost: 365, Tied: 32, Total: 500, Percent: 0.206000
+INCORRECT
+#
+Team: Ohio St., Won: 245, Lost: 214, Tied: 41, Total: 500, Percent: 0.490000
+Team: Massachusetts, Won: 214, Lost: 245, Tied: 41, Total: 500, Percent: 0.428000
+INCORRECT
+#
+Team: Ohio St., Won: 160, Lost: 302, Tied: 38, Total: 500, Percent: 0.320000
+Team: Marquette, Won: 302, Lost: 160, Tied: 38, Total: 500, Percent: 0.604000
+INCORRECT
+#
+Team: Ohio St., Won: 320, Lost: 134, Tied: 46, Total: 500, Percent: 0.640000
+Team: Penn St., Won: 134, Lost: 320, Tied: 46, Total: 500, Percent: 0.268000
+INCORRECT
+#
+Team: Ohio St., Won: 253, Lost: 206, Tied: 41, Total: 500, Percent: 0.506000
+Team: Hofstra, Won: 206, Lost: 253, Tied: 41, Total: 500, Percent: 0.412000
+INCORRECT
+#
+Team: Ohio St., Won: 213, Lost: 240, Tied: 47, Total: 500, Percent: 0.426000
+Team: Denver, Won: 240, Lost: 213, Tied: 47, Total: 500, Percent: 0.480000
+CORRECT
+#
+Team: Ohio St., Won: 332, Lost: 104, Tied: 64, Total: 500, Percent: 0.664000
+Team: Bellarmine, Won: 104, Lost: 332, Tied: 64, Total: 500, Percent: 0.208000
+CORRECT
+#
+Team: Ohio St., Won: 341, Lost: 129, Tied: 30, Total: 500, Percent: 0.682000
+Team: Notre Dame, Won: 129, Lost: 341, Tied: 30, Total: 500, Percent: 0.258000
+INCORRECT
+#
+Team: Ohio St., Won: 255, Lost: 192, Tied: 53, Total: 500, Percent: 0.510000
+Team: Jacksonville, Won: 192, Lost: 255, Tied: 53, Total: 500, Percent: 0.384000
+CORRECT
+#
+Team: Ohio St., Won: 253, Lost: 192, Tied: 55, Total: 500, Percent: 0.506000
+Team: Delaware, Won: 192, Lost: 253, Tied: 55, Total: 500, Percent: 0.384000
+CORRECT
+#
+Team: Ohio St., Won: 360, Lost: 106, Tied: 34, Total: 500, Percent: 0.720000
+Team: Michigan, Won: 106, Lost: 360, Tied: 34, Total: 500, Percent: 0.212000
+CORRECT
+#
+Team: Ohio St., Won: 253, Lost: 205, Tied: 42, Total: 500, Percent: 0.506000
+Team: Air Force, Won: 205, Lost: 253, Tied: 42, Total: 500, Percent: 0.410000
+CORRECT
+#
+Team: Ohio St., Won: 355, Lost: 104, Tied: 41, Total: 500, Percent: 0.710000
+Team: Fairfield, Won: 104, Lost: 355, Tied: 41, Total: 500, Percent: 0.208000
+INCORRECT
+#
+Team: Ohio St., Won: 240, Lost: 218, Tied: 42, Total: 500, Percent: 0.480000
+Team: Air Force, Won: 218, Lost: 240, Tied: 42, Total: 500, Percent: 0.436000
+INCORRECT
+#
+Team: Brown, Won: 487, Lost: 4, Tied: 9, Total: 500, Percent: 0.974000
+Team: Quinnipiac, Won: 4, Lost: 487, Tied: 9, Total: 500, Percent: 0.008000
+CORRECT
+#
+Team: Brown, Won: 121, Lost: 355, Tied: 24, Total: 500, Percent: 0.242000
+Team: Massachusetts, Won: 355, Lost: 121, Tied: 24, Total: 500, Percent: 0.710000
+CORRECT
+#
+Team: Brown, Won: 290, Lost: 172, Tied: 38, Total: 500, Percent: 0.580000
+Team: Hartford, Won: 172, Lost: 290, Tied: 38, Total: 500, Percent: 0.344000
+CORRECT
+#
+Team: Brown, Won: 170, Lost: 283, Tied: 47, Total: 500, Percent: 0.340000
+Team: Hobart, Won: 283, Lost: 170, Tied: 47, Total: 500, Percent: 0.566000
+INCORRECT
+#
+Team: Brown, Won: 191, Lost: 254, Tied: 55, Total: 500, Percent: 0.382000
+Team: Harvard, Won: 254, Lost: 191, Tied: 55, Total: 500, Percent: 0.508000
+CORRECT
+#
+Team: Brown, Won: 122, Lost: 335, Tied: 43, Total: 500, Percent: 0.244000
+Team: Bucknell, Won: 335, Lost: 122, Tied: 43, Total: 500, Percent: 0.670000
+CORRECT
+#
+Team: Brown, Won: 166, Lost: 294, Tied: 40, Total: 500, Percent: 0.332000
+Team: Providence, Won: 294, Lost: 166, Tied: 40, Total: 500, Percent: 0.588000
+INCORRECT
+#
+Team: Brown, Won: 180, Lost: 273, Tied: 47, Total: 500, Percent: 0.360000
+Team: Marist, Won: 273, Lost: 180, Tied: 47, Total: 500, Percent: 0.546000
+INCORRECT
+#
+Team: Brown, Won: 216, Lost: 246, Tied: 38, Total: 500, Percent: 0.432000
+Team: Princeton, Won: 246, Lost: 216, Tied: 38, Total: 500, Percent: 0.492000
+INCORRECT
+#
+Team: Brown, Won: 176, Lost: 282, Tied: 42, Total: 500, Percent: 0.352000
+Team: Penn, Won: 282, Lost: 176, Tied: 42, Total: 500, Percent: 0.564000
+CORRECT
+#
+Team: Brown, Won: 186, Lost: 270, Tied: 44, Total: 500, Percent: 0.372000
+Team: Yale, Won: 270, Lost: 186, Tied: 44, Total: 500, Percent: 0.540000
+CORRECT
+#
+Team: Brown, Won: 184, Lost: 277, Tied: 39, Total: 500, Percent: 0.368000
+Team: Cornell, Won: 277, Lost: 184, Tied: 39, Total: 500, Percent: 0.554000
+CORRECT
+#
+Team: Brown, Won: 165, Lost: 285, Tied: 50, Total: 500, Percent: 0.330000
+Team: Bryant, Won: 285, Lost: 165, Tied: 50, Total: 500, Percent: 0.570000
+INCORRECT
+#
+Team: Brown, Won: 115, Lost: 355, Tied: 30, Total: 500, Percent: 0.230000
+Team: Dartmouth, Won: 355, Lost: 115, Tied: 30, Total: 500, Percent: 0.710000
+INCORRECT
+#
+Team: Providence, Won: 191, Lost: 244, Tied: 65, Total: 500, Percent: 0.382000
+Team: Vermont, Won: 244, Lost: 191, Tied: 65, Total: 500, Percent: 0.488000
+INCORRECT
+#
+Team: Providence, Won: 87, Lost: 385, Tied: 28, Total: 500, Percent: 0.174000
+Team: Boston U., Won: 385, Lost: 87, Tied: 28, Total: 500, Percent: 0.770000
+INCORRECT
+#
+Team: Providence, Won: 186, Lost: 272, Tied: 42, Total: 500, Percent: 0.372000
+Team: Quinnipiac, Won: 272, Lost: 186, Tied: 42, Total: 500, Percent: 0.544000
+CORRECT
+#
+Team: Providence, Won: 230, Lost: 229, Tied: 41, Total: 500, Percent: 0.460000
+Team: Fairfield, Won: 229, Lost: 230, Tied: 41, Total: 500, Percent: 0.458000
+CORRECT
+#
+Team: Providence, Won: 161, Lost: 303, Tied: 36, Total: 500, Percent: 0.322000
+Team: Sacred Heart, Won: 303, Lost: 161, Tied: 36, Total: 500, Percent: 0.606000
+CORRECT
+#
+Team: Providence, Won: 107, Lost: 351, Tied: 42, Total: 500, Percent: 0.214000
+Team: Massachusetts, Won: 351, Lost: 107, Tied: 42, Total: 500, Percent: 0.702000
+CORRECT
+#
+Team: Providence, Won: 201, Lost: 254, Tied: 45, Total: 500, Percent: 0.402000
+Team: Rutgers, Won: 254, Lost: 201, Tied: 45, Total: 500, Percent: 0.508000
+CORRECT
+#
+Team: Providence, Won: 176, Lost: 277, Tied: 47, Total: 500, Percent: 0.352000
+Team: Brown, Won: 277, Lost: 176, Tied: 47, Total: 500, Percent: 0.554000
+CORRECT
+#
+Team: Providence, Won: 155, Lost: 307, Tied: 38, Total: 500, Percent: 0.310000
+Team: Bryant, Won: 307, Lost: 155, Tied: 38, Total: 500, Percent: 0.614000
+CORRECT
+#
+Team: Providence, Won: 99, Lost: 366, Tied: 35, Total: 500, Percent: 0.198000
+Team: St. John's (NY), Won: 366, Lost: 99, Tied: 35, Total: 500, Percent: 0.732000
+CORRECT
+#
+Team: Providence, Won: 169, Lost: 284, Tied: 47, Total: 500, Percent: 0.338000
+Team: Yale, Won: 284, Lost: 169, Tied: 47, Total: 500, Percent: 0.568000
+CORRECT
+#
+Team: Providence, Won: 161, Lost: 286, Tied: 53, Total: 500, Percent: 0.322000
+Team: Georgetown, Won: 286, Lost: 161, Tied: 53, Total: 500, Percent: 0.572000
+CORRECT
+#
+Team: Providence, Won: 118, Lost: 342, Tied: 40, Total: 500, Percent: 0.236000
+Team: Marquette, Won: 342, Lost: 118, Tied: 40, Total: 500, Percent: 0.684000
+CORRECT
+#
+Team: Providence, Won: 112, Lost: 356, Tied: 32, Total: 500, Percent: 0.224000
+Team: Denver, Won: 356, Lost: 112, Tied: 32, Total: 500, Percent: 0.712000
+CORRECT
+#
+Team: Providence, Won: 103, Lost: 365, Tied: 32, Total: 500, Percent: 0.206000
+Team: Villanova, Won: 365, Lost: 103, Tied: 32, Total: 500, Percent: 0.730000
+INCORRECT
+#
+Team: Albany (NY), Won: 147, Lost: 312, Tied: 41, Total: 500, Percent: 0.294000
+Team: Syracuse, Won: 312, Lost: 147, Tied: 41, Total: 500, Percent: 0.624000
+CORRECT
+#
+Team: Albany (NY), Won: 139, Lost: 334, Tied: 27, Total: 500, Percent: 0.278000
+Team: Drexel, Won: 334, Lost: 139, Tied: 27, Total: 500, Percent: 0.668000
+CORRECT
+#
+Team: Albany (NY), Won: 151, Lost: 304, Tied: 45, Total: 500, Percent: 0.302000
+Team: Harvard, Won: 304, Lost: 151, Tied: 45, Total: 500, Percent: 0.608000
+INCORRECT
+#
+Team: Albany (NY), Won: 322, Lost: 142, Tied: 36, Total: 500, Percent: 0.644000
+Team: Massachusetts, Won: 142, Lost: 322, Tied: 36, Total: 500, Percent: 0.284000
+CORRECT
+#
+Team: Albany (NY), Won: 348, Lost: 128, Tied: 24, Total: 500, Percent: 0.696000
+Team: Bryant, Won: 128, Lost: 348, Tied: 24, Total: 500, Percent: 0.256000
+INCORRECT
+#
+Team: Albany (NY), Won: 353, Lost: 113, Tied: 34, Total: 500, Percent: 0.706000
+Team: Penn St., Won: 113, Lost: 353, Tied: 34, Total: 500, Percent: 0.226000
+CORRECT
+#
+Team: Albany (NY), Won: 213, Lost: 248, Tied: 39, Total: 500, Percent: 0.426000
+Team: Canisius, Won: 248, Lost: 213, Tied: 39, Total: 500, Percent: 0.496000
+CORRECT
+#
+Team: Albany (NY), Won: 359, Lost: 106, Tied: 35, Total: 500, Percent: 0.718000
+Team: Vermont, Won: 106, Lost: 359, Tied: 35, Total: 500, Percent: 0.212000
+CORRECT
+#
+Team: Albany (NY), Won: 352, Lost: 117, Tied: 31, Total: 500, Percent: 0.704000
+Team: Johns Hopkins, Won: 117, Lost: 352, Tied: 31, Total: 500, Percent: 0.234000
+INCORRECT
+#
+Team: Albany (NY), Won: 261, Lost: 205, Tied: 34, Total: 500, Percent: 0.522000
+Team: Hartford, Won: 205, Lost: 261, Tied: 34, Total: 500, Percent: 0.410000
+CORRECT
+#
+Team: Albany (NY), Won: 324, Lost: 140, Tied: 36, Total: 500, Percent: 0.648000
+Team: Stony Brook, Won: 140, Lost: 324, Tied: 36, Total: 500, Percent: 0.280000
+CORRECT
+#
+Team: Albany (NY), Won: 264, Lost: 191, Tied: 45, Total: 500, Percent: 0.528000
+Team: UMBC, Won: 191, Lost: 264, Tied: 45, Total: 500, Percent: 0.382000
+CORRECT
+#
+Team: Albany (NY), Won: 376, Lost: 97, Tied: 27, Total: 500, Percent: 0.752000
+Team: Siena, Won: 97, Lost: 376, Tied: 27, Total: 500, Percent: 0.194000
+CORRECT
+#
+Team: Albany (NY), Won: 315, Lost: 155, Tied: 30, Total: 500, Percent: 0.630000
+Team: Binghamton, Won: 155, Lost: 315, Tied: 30, Total: 500, Percent: 0.310000
+CORRECT
+#
+Team: Albany (NY), Won: 368, Lost: 97, Tied: 35, Total: 500, Percent: 0.736000
+Team: Stony Brook, Won: 97, Lost: 368, Tied: 35, Total: 500, Percent: 0.194000
+CORRECT
+#
+Team: Albany (NY), Won: 359, Lost: 116, Tied: 25, Total: 500, Percent: 0.718000
+Team: UMBC, Won: 116, Lost: 359, Tied: 25, Total: 500, Percent: 0.232000
+CORRECT
+#
+Team: Albany (NY), Won: 370, Lost: 99, Tied: 31, Total: 500, Percent: 0.740000
+Team: Loyola Maryland, Won: 99, Lost: 370, Tied: 31, Total: 500, Percent: 0.198000
+CORRECT
+#
+Team: Albany (NY), Won: 333, Lost: 134, Tied: 33, Total: 500, Percent: 0.666000
+Team: Notre Dame, Won: 134, Lost: 333, Tied: 33, Total: 500, Percent: 0.268000
+INCORRECT
+#
+Team: Monmouth, Won: 47, Lost: 421, Tied: 32, Total: 500, Percent: 0.094000
+Team: UMBC, Won: 421, Lost: 47, Tied: 32, Total: 500, Percent: 0.842000
+CORRECT
+#
+Team: Monmouth, Won: 114, Lost: 333, Tied: 53, Total: 500, Percent: 0.228000
+Team: Wagner, Won: 333, Lost: 114, Tied: 53, Total: 500, Percent: 0.666000
+CORRECT
+#
+Team: Monmouth, Won: 18, Lost: 465, Tied: 17, Total: 500, Percent: 0.036000
+Team: Saint Joseph's, Won: 465, Lost: 18, Tied: 17, Total: 500, Percent: 0.930000
+CORRECT
+#
+Team: Monmouth, Won: 35, Lost: 458, Tied: 7, Total: 500, Percent: 0.070000
+Team: Rutgers, Won: 458, Lost: 35, Tied: 7, Total: 500, Percent: 0.916000
+CORRECT
+#
+Team: Monmouth, Won: 56, Lost: 418, Tied: 26, Total: 500, Percent: 0.112000
+Team: Bryant, Won: 418, Lost: 56, Tied: 26, Total: 500, Percent: 0.836000
+CORRECT
+#
+Team: Monmouth, Won: 23, Lost: 471, Tied: 6, Total: 500, Percent: 0.046000
+Team: Canisius, Won: 471, Lost: 23, Tied: 6, Total: 500, Percent: 0.942000
+CORRECT
+#
+Team: Monmouth, Won: 42, Lost: 427, Tied: 31, Total: 500, Percent: 0.084000
+Team: Siena, Won: 427, Lost: 42, Tied: 31, Total: 500, Percent: 0.854000
+CORRECT
+#
+Team: Monmouth, Won: 51, Lost: 417, Tied: 32, Total: 500, Percent: 0.102000
+Team: Lehigh, Won: 417, Lost: 51, Tied: 32, Total: 500, Percent: 0.834000
+CORRECT
+#
+Team: Monmouth, Won: 20, Lost: 469, Tied: 11, Total: 500, Percent: 0.040000
+Team: Lafayette, Won: 469, Lost: 20, Tied: 11, Total: 500, Percent: 0.938000
+CORRECT
+#
+Team: Monmouth, Won: 39, Lost: 443, Tied: 18, Total: 500, Percent: 0.078000
+Team: Quinnipiac, Won: 443, Lost: 39, Tied: 18, Total: 500, Percent: 0.886000
+CORRECT
+#
+Team: Monmouth, Won: 16, Lost: 473, Tied: 11, Total: 500, Percent: 0.032000
+Team: Manhattan, Won: 473, Lost: 16, Tied: 11, Total: 500, Percent: 0.946000
+CORRECT
+#
+Team: Monmouth, Won: 47, Lost: 427, Tied: 26, Total: 500, Percent: 0.094000
+Team: Marist, Won: 427, Lost: 47, Tied: 26, Total: 500, Percent: 0.854000
+CORRECT
+#
+Team: Monmouth, Won: 38, Lost: 443, Tied: 19, Total: 500, Percent: 0.076000
+Team: Detroit, Won: 443, Lost: 38, Tied: 19, Total: 500, Percent: 0.886000
+CORRECT
+#
+Team: Air Force, Won: 305, Lost: 164, Tied: 31, Total: 500, Percent: 0.610000
+Team: Denver, Won: 164, Lost: 305, Tied: 31, Total: 500, Percent: 0.328000
+INCORRECT
+#
+Team: Air Force, Won: 259, Lost: 207, Tied: 34, Total: 500, Percent: 0.518000
+Team: Furman, Won: 207, Lost: 259, Tied: 34, Total: 500, Percent: 0.414000
+CORRECT
+#
+Team: Air Force, Won: 312, Lost: 148, Tied: 40, Total: 500, Percent: 0.624000
+Team: Canisius, Won: 148, Lost: 312, Tied: 40, Total: 500, Percent: 0.296000
+INCORRECT
+#
+Team: Air Force, Won: 299, Lost: 166, Tied: 35, Total: 500, Percent: 0.598000
+Team: Marist, Won: 166, Lost: 299, Tied: 35, Total: 500, Percent: 0.332000
+CORRECT
+#
+Team: Air Force, Won: 329, Lost: 134, Tied: 37, Total: 500, Percent: 0.658000
+Team: VMI, Won: 134, Lost: 329, Tied: 37, Total: 500, Percent: 0.268000
+INCORRECT
+#
+Team: Air Force, Won: 345, Lost: 113, Tied: 42, Total: 500, Percent: 0.690000
+Team: Bellarmine, Won: 113, Lost: 345, Tied: 42, Total: 500, Percent: 0.226000
+CORRECT
+#
+Team: Air Force, Won: 284, Lost: 177, Tied: 39, Total: 500, Percent: 0.568000
+Team: Jacksonville, Won: 177, Lost: 284, Tied: 39, Total: 500, Percent: 0.354000
+CORRECT
+#
+Team: Air Force, Won: 313, Lost: 148, Tied: 39, Total: 500, Percent: 0.626000
+Team: Binghamton, Won: 148, Lost: 313, Tied: 39, Total: 500, Percent: 0.296000
+CORRECT
+#
+Team: Air Force, Won: 376, Lost: 93, Tied: 31, Total: 500, Percent: 0.752000
+Team: Michigan, Won: 93, Lost: 376, Tied: 31, Total: 500, Percent: 0.186000
+CORRECT
+#
+Team: Air Force, Won: 378, Lost: 85, Tied: 37, Total: 500, Percent: 0.756000
+Team: Mercer, Won: 85, Lost: 378, Tied: 37, Total: 500, Percent: 0.170000
+CORRECT
+#
+Team: Air Force, Won: 384, Lost: 89, Tied: 27, Total: 500, Percent: 0.768000
+Team: Fairfield, Won: 89, Lost: 384, Tied: 27, Total: 500, Percent: 0.178000
+CORRECT
+#
+Team: Air Force, Won: 377, Lost: 87, Tied: 36, Total: 500, Percent: 0.754000
+Team: Ohio St., Won: 87, Lost: 377, Tied: 36, Total: 500, Percent: 0.174000
+INCORRECT
+#
+Team: Air Force, Won: 373, Lost: 92, Tied: 35, Total: 500, Percent: 0.746000
+Team: Quinnipiac, Won: 92, Lost: 373, Tied: 35, Total: 500, Percent: 0.184000
+INCORRECT
+#
+Team: Air Force, Won: 348, Lost: 121, Tied: 31, Total: 500, Percent: 0.696000
+Team: Ohio St., Won: 121, Lost: 348, Tied: 31, Total: 500, Percent: 0.242000
+CORRECT
+#
+Team: Air Force, Won: 365, Lost: 96, Tied: 39, Total: 500, Percent: 0.730000
+Team: Fairfield, Won: 96, Lost: 365, Tied: 39, Total: 500, Percent: 0.192000
+CORRECT
+#
+Team: Air Force, Won: 370, Lost: 90, Tied: 40, Total: 500, Percent: 0.740000
+Team: Richmond, Won: 90, Lost: 370, Tied: 40, Total: 500, Percent: 0.180000
+CORRECT
+#
+Team: Air Force, Won: 427, Lost: 46, Tied: 27, Total: 500, Percent: 0.854000
+Team: Duke, Won: 46, Lost: 427, Tied: 27, Total: 500, Percent: 0.092000
+INCORRECT
+#
+Team: North Carolina, Won: 499, Lost: 1, Tied: 0, Total: 500, Percent: 0.998000
+Team: Furman, Won: 1, Lost: 499, Tied: 0, Total: 500, Percent: 0.002000
+CORRECT
+#
+Team: North Carolina, Won: 500, Lost: 0, Tied: 0, Total: 500, Percent: 1.000000
+Team: Manhattan, Won: 0, Lost: 500, Tied: 0, Total: 500, Percent: 0.000000
+CORRECT
+#
+Team: North Carolina, Won: 499, Lost: 0, Tied: 1, Total: 500, Percent: 0.998000
+Team: Dartmouth, Won: 0, Lost: 499, Tied: 1, Total: 500, Percent: 0.000000
+CORRECT
+#
+Team: North Carolina, Won: 500, Lost: 0, Tied: 0, Total: 500, Percent: 1.000000
+Team: Notre Dame, Won: 0, Lost: 500, Tied: 0, Total: 500, Percent: 0.000000
+INCORRECT
+#
+Team: North Carolina, Won: 499, Lost: 0, Tied: 1, Total: 500, Percent: 0.998000
+Team: Princeton, Won: 0, Lost: 499, Tied: 1, Total: 500, Percent: 0.000000
+CORRECT
+#
+Team: North Carolina, Won: 489, Lost: 8, Tied: 3, Total: 500, Percent: 0.978000
+Team: Bucknell, Won: 8, Lost: 489, Tied: 3, Total: 500, Percent: 0.016000
+CORRECT
+#
+Team: North Carolina, Won: 497, Lost: 1, Tied: 2, Total: 500, Percent: 0.994000
+Team: Duke, Won: 1, Lost: 497, Tied: 2, Total: 500, Percent: 0.002000
+INCORRECT
+#
+Team: North Carolina, Won: 481, Lost: 10, Tied: 9, Total: 500, Percent: 0.962000
+Team: Harvard, Won: 10, Lost: 481, Tied: 9, Total: 500, Percent: 0.020000
+CORRECT
+#
+Team: North Carolina, Won: 481, Lost: 12, Tied: 7, Total: 500, Percent: 0.962000
+Team: Maryland, Won: 12, Lost: 481, Tied: 7, Total: 500, Percent: 0.024000
+CORRECT
+#
+Team: North Carolina, Won: 485, Lost: 10, Tied: 5, Total: 500, Percent: 0.970000
+Team: Johns Hopkins, Won: 10, Lost: 485, Tied: 5, Total: 500, Percent: 0.020000
+CORRECT
+#
+Team: North Carolina, Won: 479, Lost: 12, Tied: 9, Total: 500, Percent: 0.958000
+Team: Virginia, Won: 12, Lost: 479, Tied: 9, Total: 500, Percent: 0.024000
+CORRECT
+#
+Team: North Carolina, Won: 471, Lost: 22, Tied: 7, Total: 500, Percent: 0.942000
+Team: Syracuse, Won: 22, Lost: 471, Tied: 7, Total: 500, Percent: 0.044000
+INCORRECT
+#
+Team: North Carolina, Won: 448, Lost: 30, Tied: 22, Total: 500, Percent: 0.896000
+Team: High Point, Won: 30, Lost: 448, Tied: 22, Total: 500, Percent: 0.060000
+CORRECT
+#
+Team: North Carolina, Won: 460, Lost: 26, Tied: 14, Total: 500, Percent: 0.920000
+Team: Virginia, Won: 26, Lost: 460, Tied: 14, Total: 500, Percent: 0.052000
+INCORRECT
+#
+Team: North Carolina, Won: 421, Lost: 55, Tied: 24, Total: 500, Percent: 0.842000
+Team: Denver, Won: 55, Lost: 421, Tied: 24, Total: 500, Percent: 0.110000
+INCORRECT
+#
+Team: Furman, Won: 10, Lost: 479, Tied: 11, Total: 500, Percent: 0.020000
+Team: Lehigh, Won: 479, Lost: 10, Tied: 11, Total: 500, Percent: 0.958000
+CORRECT
+#
+Team: Furman, Won: 14, Lost: 481, Tied: 5, Total: 500, Percent: 0.028000
+Team: North Carolina, Won: 481, Lost: 14, Tied: 5, Total: 500, Percent: 0.962000
+CORRECT
+#
+Team: Furman, Won: 1, Lost: 498, Tied: 1, Total: 500, Percent: 0.002000
+Team: Air Force, Won: 498, Lost: 1, Tied: 1, Total: 500, Percent: 0.996000
+CORRECT
+#
+Team: Furman, Won: 1, Lost: 499, Tied: 0, Total: 500, Percent: 0.002000
+Team: Army West Point, Won: 499, Lost: 1, Tied: 0, Total: 500, Percent: 0.998000
+CORRECT
+#
+Team: Furman, Won: 17, Lost: 470, Tied: 13, Total: 500, Percent: 0.034000
+Team: Bellarmine, Won: 470, Lost: 17, Tied: 13, Total: 500, Percent: 0.940000
+CORRECT
+#
+Team: Furman, Won: 23, Lost: 460, Tied: 17, Total: 500, Percent: 0.046000
+Team: Michigan, Won: 460, Lost: 23, Tied: 17, Total: 500, Percent: 0.920000
+CORRECT
+#
+Team: Furman, Won: 22, Lost: 462, Tied: 16, Total: 500, Percent: 0.044000
+Team: Georgetown, Won: 462, Lost: 22, Tied: 16, Total: 500, Percent: 0.924000
+CORRECT
+#
+Team: Furman, Won: 13, Lost: 479, Tied: 8, Total: 500, Percent: 0.026000
+Team: Duke, Won: 479, Lost: 13, Tied: 8, Total: 500, Percent: 0.958000
+CORRECT
+#
+Team: Furman, Won: 7, Lost: 489, Tied: 4, Total: 500, Percent: 0.014000
+Team: High Point, Won: 489, Lost: 7, Tied: 4, Total: 500, Percent: 0.978000
+CORRECT
+#
+Team: Furman, Won: 9, Lost: 485, Tied: 6, Total: 500, Percent: 0.018000
+Team: Richmond, Won: 485, Lost: 9, Tied: 6, Total: 500, Percent: 0.970000
+CORRECT
+#
+Team: Furman, Won: 11, Lost: 482, Tied: 7, Total: 500, Percent: 0.022000
+Team: VMI, Won: 482, Lost: 11, Tied: 7, Total: 500, Percent: 0.964000
+INCORRECT
+#
+Team: Furman, Won: 25, Lost: 464, Tied: 11, Total: 500, Percent: 0.050000
+Team: Mercer, Won: 464, Lost: 25, Tied: 11, Total: 500, Percent: 0.928000
+CORRECT
+#
+Team: Furman, Won: 33, Lost: 450, Tied: 17, Total: 500, Percent: 0.066000
+Team: Jacksonville, Won: 450, Lost: 33, Tied: 17, Total: 500, Percent: 0.900000
+CORRECT
+#
+Team: Lehigh, Won: 323, Lost: 123, Tied: 54, Total: 500, Percent: 0.646000
+Team: Furman, Won: 123, Lost: 323, Tied: 54, Total: 500, Percent: 0.246000
+CORRECT
+#
+Team: Lehigh, Won: 303, Lost: 152, Tied: 45, Total: 500, Percent: 0.606000
+Team: Marquette, Won: 152, Lost: 303, Tied: 45, Total: 500, Percent: 0.304000
+CORRECT
+#
+Team: Lehigh, Won: 446, Lost: 35, Tied: 19, Total: 500, Percent: 0.892000
+Team: Villanova, Won: 35, Lost: 446, Tied: 19, Total: 500, Percent: 0.070000
+CORRECT
+#
+Team: Lehigh, Won: 322, Lost: 131, Tied: 47, Total: 500, Percent: 0.644000
+Team: Boston U., Won: 131, Lost: 322, Tied: 47, Total: 500, Percent: 0.262000
+CORRECT
+#
+Team: Lehigh, Won: 278, Lost: 179, Tied: 43, Total: 500, Percent: 0.556000
+Team: Loyola Maryland, Won: 179, Lost: 278, Tied: 43, Total: 500, Percent: 0.358000
+INCORRECT
+#
+Team: Lehigh, Won: 248, Lost: 203, Tied: 49, Total: 500, Percent: 0.496000
+Team: Bucknell, Won: 203, Lost: 248, Tied: 49, Total: 500, Percent: 0.406000
+CORRECT
+#
+Team: Lehigh, Won: 342, Lost: 114, Tied: 44, Total: 500, Percent: 0.684000
+Team: Yale, Won: 114, Lost: 342, Tied: 44, Total: 500, Percent: 0.228000
+INCORRECT
+#
+Team: Lehigh, Won: 346, Lost: 114, Tied: 40, Total: 500, Percent: 0.692000
+Team: Navy, Won: 114, Lost: 346, Tied: 40, Total: 500, Percent: 0.228000
+CORRECT
+#
+Team: Lehigh, Won: 275, Lost: 177, Tied: 48, Total: 500, Percent: 0.550000
+Team: Army West Point, Won: 177, Lost: 275, Tied: 48, Total: 500, Percent: 0.354000
+INCORRECT
+#
+Team: Lehigh, Won: 283, Lost: 157, Tied: 60, Total: 500, Percent: 0.566000
+Team: Monmouth, Won: 157, Lost: 283, Tied: 60, Total: 500, Percent: 0.314000
+CORRECT
+#
+Team: Lehigh, Won: 363, Lost: 109, Tied: 28, Total: 500, Percent: 0.726000
+Team: Holy Cross, Won: 109, Lost: 363, Tied: 28, Total: 500, Percent: 0.218000
+CORRECT
+#
+Team: Lehigh, Won: 411, Lost: 54, Tied: 35, Total: 500, Percent: 0.822000
+Team: Colgate, Won: 54, Lost: 411, Tied: 35, Total: 500, Percent: 0.108000
+CORRECT
+#
+Team: Lehigh, Won: 426, Lost: 53, Tied: 21, Total: 500, Percent: 0.852000
+Team: Princeton, Won: 53, Lost: 426, Tied: 21, Total: 500, Percent: 0.106000
+INCORRECT
+#
+Team: Lehigh, Won: 428, Lost: 52, Tied: 20, Total: 500, Percent: 0.856000
+Team: Georgetown, Won: 52, Lost: 428, Tied: 20, Total: 500, Percent: 0.104000
+CORRECT
+#
+Team: Lehigh, Won: 358, Lost: 96, Tied: 46, Total: 500, Percent: 0.716000
+Team: Lafayette, Won: 96, Lost: 358, Tied: 46, Total: 500, Percent: 0.192000
+CORRECT
+#
+Team: Lehigh, Won: 355, Lost: 117, Tied: 28, Total: 500, Percent: 0.710000
+Team: Navy, Won: 117, Lost: 355, Tied: 28, Total: 500, Percent: 0.234000
+CORRECT
+#
+Team: Lehigh, Won: 347, Lost: 107, Tied: 46, Total: 500, Percent: 0.694000
+Team: Army West Point, Won: 107, Lost: 347, Tied: 46, Total: 500, Percent: 0.214000
+CORRECT
+#
+Team: Lehigh, Won: 418, Lost: 63, Tied: 19, Total: 500, Percent: 0.836000
+Team: Loyola Maryland, Won: 63, Lost: 418, Tied: 19, Total: 500, Percent: 0.126000
+INCORRECT
+#
+Team: Robert Morris, Won: 169, Lost: 280, Tied: 51, Total: 500, Percent: 0.338000
+Team: Bellarmine, Won: 280, Lost: 169, Tied: 51, Total: 500, Percent: 0.560000
+CORRECT
+#
+Team: Robert Morris, Won: 131, Lost: 330, Tied: 39, Total: 500, Percent: 0.262000
+Team: Detroit, Won: 330, Lost: 131, Tied: 39, Total: 500, Percent: 0.660000
+INCORRECT
+#
+Team: Robert Morris, Won: 128, Lost: 335, Tied: 37, Total: 500, Percent: 0.256000
+Team: Drexel, Won: 335, Lost: 128, Tied: 37, Total: 500, Percent: 0.670000
+CORRECT
+#
+Team: Robert Morris, Won: 65, Lost: 412, Tied: 23, Total: 500, Percent: 0.130000
+Team: Saint Joseph's, Won: 412, Lost: 65, Tied: 23, Total: 500, Percent: 0.824000
+CORRECT
+#
+Team: Robert Morris, Won: 135, Lost: 322, Tied: 43, Total: 500, Percent: 0.270000
+Team: Siena, Won: 322, Lost: 135, Tied: 43, Total: 500, Percent: 0.644000
+INCORRECT
+#
+Team: Robert Morris, Won: 86, Lost: 392, Tied: 22, Total: 500, Percent: 0.172000
+Team: Hobart, Won: 392, Lost: 86, Tied: 22, Total: 500, Percent: 0.784000
+CORRECT
+#
+Team: Robert Morris, Won: 137, Lost: 317, Tied: 46, Total: 500, Percent: 0.274000
+Team: Jacksonville, Won: 317, Lost: 137, Tied: 46, Total: 500, Percent: 0.634000
+INCORRECT
+#
+Team: Robert Morris, Won: 101, Lost: 356, Tied: 43, Total: 500, Percent: 0.202000
+Team: Mt. St. Mary's, Won: 356, Lost: 101, Tied: 43, Total: 500, Percent: 0.712000
+INCORRECT
+#
+Team: Robert Morris, Won: 187, Lost: 286, Tied: 27, Total: 500, Percent: 0.374000
+Team: Sacred Heart, Won: 286, Lost: 187, Tied: 27, Total: 500, Percent: 0.572000
+CORRECT
+#
+Team: Robert Morris, Won: 168, Lost: 286, Tied: 46, Total: 500, Percent: 0.336000
+Team: Maryland, Won: 286, Lost: 168, Tied: 46, Total: 500, Percent: 0.572000
+CORRECT
+#
+Team: Robert Morris, Won: 139, Lost: 327, Tied: 34, Total: 500, Percent: 0.278000
+Team: Wagner, Won: 327, Lost: 139, Tied: 34, Total: 500, Percent: 0.654000
+INCORRECT
+#
+Team: Robert Morris, Won: 141, Lost: 325, Tied: 34, Total: 500, Percent: 0.282000
+Team: Notre Dame, Won: 325, Lost: 141, Tied: 34, Total: 500, Percent: 0.650000
+CORRECT
+#
+Team: Robert Morris, Won: 158, Lost: 301, Tied: 41, Total: 500, Percent: 0.316000
+Team: Bryant, Won: 301, Lost: 158, Tied: 41, Total: 500, Percent: 0.602000
+CORRECT
+#
+Team: Robert Morris, Won: 137, Lost: 337, Tied: 26, Total: 500, Percent: 0.274000
+Team: Michigan, Won: 337, Lost: 137, Tied: 26, Total: 500, Percent: 0.674000
+CORRECT
+#
+Team: Navy, Won: 373, Lost: 99, Tied: 28, Total: 500, Percent: 0.746000
+Team: VMI, Won: 99, Lost: 373, Tied: 28, Total: 500, Percent: 0.198000
+CORRECT
+#
+Team: Navy, Won: 333, Lost: 117, Tied: 50, Total: 500, Percent: 0.666000
+Team: Georgetown, Won: 117, Lost: 333, Tied: 50, Total: 500, Percent: 0.234000
+INCORRECT
+#
+Team: Navy, Won: 327, Lost: 123, Tied: 50, Total: 500, Percent: 0.654000
+Team: Bucknell, Won: 123, Lost: 327, Tied: 50, Total: 500, Percent: 0.246000
+INCORRECT
+#
+Team: Navy, Won: 389, Lost: 81, Tied: 30, Total: 500, Percent: 0.778000
+Team: Holy Cross, Won: 81, Lost: 389, Tied: 30, Total: 500, Percent: 0.162000
+CORRECT
+#
+Team: Navy, Won: 349, Lost: 114, Tied: 37, Total: 500, Percent: 0.698000
+Team: Lafayette, Won: 114, Lost: 349, Tied: 37, Total: 500, Percent: 0.228000
+CORRECT
+#
+Team: Navy, Won: 296, Lost: 158, Tied: 46, Total: 500, Percent: 0.592000
+Team: Towson, Won: 158, Lost: 296, Tied: 46, Total: 500, Percent: 0.316000
+INCORRECT
+#
+Team: Navy, Won: 349, Lost: 114, Tied: 37, Total: 500, Percent: 0.698000
+Team: Lehigh, Won: 114, Lost: 349, Tied: 37, Total: 500, Percent: 0.228000
+INCORRECT
+#
+Team: Navy, Won: 346, Lost: 117, Tied: 37, Total: 500, Percent: 0.692000
+Team: Colgate, Won: 117, Lost: 346, Tied: 37, Total: 500, Percent: 0.234000
+INCORRECT
+#
+Team: Navy, Won: 261, Lost: 195, Tied: 44, Total: 500, Percent: 0.522000
+Team: Boston U., Won: 195, Lost: 261, Tied: 44, Total: 500, Percent: 0.390000
+CORRECT
+#
+Team: Navy, Won: 330, Lost: 135, Tied: 35, Total: 500, Percent: 0.660000
+Team: Loyola Maryland, Won: 135, Lost: 330, Tied: 35, Total: 500, Percent: 0.270000
+INCORRECT
+#
+Team: Navy, Won: 210, Lost: 241, Tied: 49, Total: 500, Percent: 0.420000
+Team: Army West Point, Won: 241, Lost: 210, Tied: 49, Total: 500, Percent: 0.482000
+CORRECT
+#
+Team: Navy, Won: 299, Lost: 155, Tied: 46, Total: 500, Percent: 0.598000
+Team: Johns Hopkins, Won: 155, Lost: 299, Tied: 46, Total: 500, Percent: 0.310000
+INCORRECT
+#
+Team: Navy, Won: 274, Lost: 184, Tied: 42, Total: 500, Percent: 0.548000
+Team: Lehigh, Won: 184, Lost: 274, Tied: 42, Total: 500, Percent: 0.368000
+INCORRECT
+#
+Team: Navy, Won: 252, Lost: 206, Tied: 42, Total: 500, Percent: 0.504000
+Team: Maryland, Won: 206, Lost: 252, Tied: 42, Total: 500, Percent: 0.412000
+INCORRECT
+#
+Team: Marquette, Won: 249, Lost: 219, Tied: 32, Total: 500, Percent: 0.498000
+Team: Lehigh, Won: 219, Lost: 249, Tied: 32, Total: 500, Percent: 0.438000
+INCORRECT
+#
+Team: Marquette, Won: 107, Lost: 355, Tied: 38, Total: 500, Percent: 0.214000
+Team: Hofstra, Won: 355, Lost: 107, Tied: 38, Total: 500, Percent: 0.710000
+INCORRECT
+#
+Team: Marquette, Won: 112, Lost: 347, Tied: 41, Total: 500, Percent: 0.224000
+Team: Ohio St., Won: 347, Lost: 112, Tied: 41, Total: 500, Percent: 0.694000
+CORRECT
+#
+Team: Marquette, Won: 133, Lost: 319, Tied: 48, Total: 500, Percent: 0.266000
+Team: Marist, Won: 319, Lost: 133, Tied: 48, Total: 500, Percent: 0.638000
+CORRECT
+#
+Team: Marquette, Won: 146, Lost: 317, Tied: 37, Total: 500, Percent: 0.292000
+Team: Jacksonville, Won: 317, Lost: 146, Tied: 37, Total: 500, Percent: 0.634000
+CORRECT
+#
+Team: Marquette, Won: 215, Lost: 241, Tied: 44, Total: 500, Percent: 0.430000
+Team: Duke, Won: 241, Lost: 215, Tied: 44, Total: 500, Percent: 0.482000
+CORRECT
+#
+Team: Marquette, Won: 122, Lost: 351, Tied: 27, Total: 500, Percent: 0.244000
+Team: Detroit, Won: 351, Lost: 122, Tied: 27, Total: 500, Percent: 0.702000
+INCORRECT
+#
+Team: Marquette, Won: 105, Lost: 347, Tied: 48, Total: 500, Percent: 0.210000
+Team: Villanova, Won: 347, Lost: 105, Tied: 48, Total: 500, Percent: 0.694000
+CORRECT
+#
+Team: Marquette, Won: 238, Lost: 214, Tied: 48, Total: 500, Percent: 0.476000
+Team: Rutgers, Won: 214, Lost: 238, Tied: 48, Total: 500, Percent: 0.428000
+CORRECT
+#
+Team: Marquette, Won: 145, Lost: 321, Tied: 34, Total: 500, Percent: 0.290000
+Team: Bellarmine, Won: 321, Lost: 145, Tied: 34, Total: 500, Percent: 0.642000
+CORRECT
+#
+Team: Marquette, Won: 139, Lost: 327, Tied: 34, Total: 500, Percent: 0.278000
+Team: St. John's (NY), Won: 327, Lost: 139, Tied: 34, Total: 500, Percent: 0.654000
+INCORRECT
+#
+Team: Marquette, Won: 189, Lost: 275, Tied: 36, Total: 500, Percent: 0.378000
+Team: Notre Dame, Won: 275, Lost: 189, Tied: 36, Total: 500, Percent: 0.550000
+CORRECT
+#
+Team: Marquette, Won: 137, Lost: 329, Tied: 34, Total: 500, Percent: 0.274000
+Team: Providence, Won: 329, Lost: 137, Tied: 34, Total: 500, Percent: 0.658000
+INCORRECT
+#
+Team: Marquette, Won: 217, Lost: 240, Tied: 43, Total: 500, Percent: 0.434000
+Team: Georgetown, Won: 240, Lost: 217, Tied: 43, Total: 500, Percent: 0.480000
+INCORRECT
+#
+Team: Marquette, Won: 146, Lost: 318, Tied: 36, Total: 500, Percent: 0.292000
+Team: Denver, Won: 318, Lost: 146, Tied: 36, Total: 500, Percent: 0.636000
+CORRECT
+#
+Team: Marquette, Won: 122, Lost: 345, Tied: 33, Total: 500, Percent: 0.244000
+Team: Villanova, Won: 345, Lost: 122, Tied: 33, Total: 500, Percent: 0.690000
+CORRECT
+#
+Team: Siena, Won: 248, Lost: 223, Tied: 29, Total: 500, Percent: 0.496000
+Team: Syracuse, Won: 223, Lost: 248, Tied: 29, Total: 500, Percent: 0.446000
+INCORRECT
+#
+Team: Siena, Won: 89, Lost: 372, Tied: 39, Total: 500, Percent: 0.178000
+Team: Hobart, Won: 372, Lost: 89, Tied: 39, Total: 500, Percent: 0.744000
+INCORRECT
+#
+Team: Siena, Won: 117, Lost: 334, Tied: 49, Total: 500, Percent: 0.234000
+Team: Binghamton, Won: 334, Lost: 117, Tied: 49, Total: 500, Percent: 0.668000
+INCORRECT
+#
+Team: Siena, Won: 45, Lost: 428, Tied: 27, Total: 500, Percent: 0.090000
+Team: St. John's (NY), Won: 428, Lost: 45, Tied: 27, Total: 500, Percent: 0.856000
+CORRECT
+#
+Team: Siena, Won: 161, Lost: 303, Tied: 36, Total: 500, Percent: 0.322000
+Team: Hartford, Won: 303, Lost: 161, Tied: 36, Total: 500, Percent: 0.606000
+INCORRECT
+#
+Team: Siena, Won: 198, Lost: 256, Tied: 46, Total: 500, Percent: 0.396000
+Team: Robert Morris, Won: 256, Lost: 198, Tied: 46, Total: 500, Percent: 0.512000
+CORRECT
+#
+Team: Siena, Won: 162, Lost: 298, Tied: 40, Total: 500, Percent: 0.324000
+Team: Marist, Won: 298, Lost: 162, Tied: 40, Total: 500, Percent: 0.596000
+INCORRECT
+#
+Team: Siena, Won: 155, Lost: 304, Tied: 41, Total: 500, Percent: 0.310000
+Team: Monmouth, Won: 304, Lost: 155, Tied: 41, Total: 500, Percent: 0.608000
+INCORRECT
+#
+Team: Siena, Won: 198, Lost: 265, Tied: 37, Total: 500, Percent: 0.396000
+Team: Canisius, Won: 265, Lost: 198, Tied: 37, Total: 500, Percent: 0.530000
+INCORRECT
+#
+Team: Siena, Won: 180, Lost: 278, Tied: 42, Total: 500, Percent: 0.360000
+Team: Hofstra, Won: 278, Lost: 180, Tied: 42, Total: 500, Percent: 0.556000
+CORRECT
+#
+Team: Siena, Won: 195, Lost: 254, Tied: 51, Total: 500, Percent: 0.390000
+Team: Detroit, Won: 254, Lost: 195, Tied: 51, Total: 500, Percent: 0.508000
+INCORRECT
+#
+Team: Siena, Won: 244, Lost: 205, Tied: 51, Total: 500, Percent: 0.488000
+Team: Quinnipiac, Won: 205, Lost: 244, Tied: 51, Total: 500, Percent: 0.410000
+CORRECT
+#
+Team: Siena, Won: 270, Lost: 189, Tied: 41, Total: 500, Percent: 0.540000
+Team: Albany (NY), Won: 189, Lost: 270, Tied: 41, Total: 500, Percent: 0.378000
+INCORRECT
+#
+Team: Siena, Won: 128, Lost: 347, Tied: 25, Total: 500, Percent: 0.256000
+Team: Manhattan, Won: 347, Lost: 128, Tied: 25, Total: 500, Percent: 0.694000
+INCORRECT
+#
+Team: Siena, Won: 210, Lost: 251, Tied: 39, Total: 500, Percent: 0.420000
+Team: Canisius, Won: 251, Lost: 210, Tied: 39, Total: 500, Percent: 0.502000
+INCORRECT
+#
+Team: Siena, Won: 237, Lost: 219, Tied: 44, Total: 500, Percent: 0.474000
+Team: Marist, Won: 219, Lost: 237, Tied: 44, Total: 500, Percent: 0.438000
+CORRECT
+#
+Team: Siena, Won: 290, Lost: 162, Tied: 48, Total: 500, Percent: 0.580000
+Team: Bryant, Won: 162, Lost: 290, Tied: 48, Total: 500, Percent: 0.324000
+INCORRECT
+#
+Team: UMBC, Won: 145, Lost: 309, Tied: 46, Total: 500, Percent: 0.290000
+Team: Maryland, Won: 309, Lost: 145, Tied: 46, Total: 500, Percent: 0.618000
+CORRECT
+#
+Team: UMBC, Won: 65, Lost: 412, Tied: 23, Total: 500, Percent: 0.130000
+Team: Monmouth, Won: 412, Lost: 65, Tied: 23, Total: 500, Percent: 0.824000
+INCORRECT
+#
+Team: UMBC, Won: 283, Lost: 170, Tied: 47, Total: 500, Percent: 0.566000
+Team: Richmond, Won: 170, Lost: 283, Tied: 47, Total: 500, Percent: 0.340000
+CORRECT
+#
+Team: UMBC, Won: 266, Lost: 188, Tied: 46, Total: 500, Percent: 0.532000
+Team: Johns Hopkins, Won: 188, Lost: 266, Tied: 46, Total: 500, Percent: 0.376000
+INCORRECT
+#
+Team: UMBC, Won: 249, Lost: 217, Tied: 34, Total: 500, Percent: 0.498000
+Team: Mercer, Won: 217, Lost: 249, Tied: 34, Total: 500, Percent: 0.434000
+CORRECT
+#
+Team: UMBC, Won: 198, Lost: 256, Tied: 46, Total: 500, Percent: 0.396000
+Team: High Point, Won: 256, Lost: 198, Tied: 46, Total: 500, Percent: 0.512000
+CORRECT
+#
+Team: UMBC, Won: 259, Lost: 189, Tied: 52, Total: 500, Percent: 0.518000
+Team: Towson, Won: 189, Lost: 259, Tied: 52, Total: 500, Percent: 0.378000
+INCORRECT
+#
+Team: UMBC, Won: 192, Lost: 267, Tied: 41, Total: 500, Percent: 0.384000
+Team: Mt. St. Mary's, Won: 267, Lost: 192, Tied: 41, Total: 500, Percent: 0.534000
+INCORRECT
+#
+Team: UMBC, Won: 346, Lost: 123, Tied: 31, Total: 500, Percent: 0.692000
+Team: Stony Brook, Won: 123, Lost: 346, Tied: 31, Total: 500, Percent: 0.246000
+CORRECT
+#
+Team: UMBC, Won: 243, Lost: 208, Tied: 49, Total: 500, Percent: 0.486000
+Team: Binghamton, Won: 208, Lost: 243, Tied: 49, Total: 500, Percent: 0.416000
+INCORRECT
+#
+Team: UMBC, Won: 310, Lost: 156, Tied: 34, Total: 500, Percent: 0.620000
+Team: Hartford, Won: 156, Lost: 310, Tied: 34, Total: 500, Percent: 0.312000
+CORRECT
+#
+Team: UMBC, Won: 358, Lost: 110, Tied: 32, Total: 500, Percent: 0.716000
+Team: Albany (NY), Won: 110, Lost: 358, Tied: 32, Total: 500, Percent: 0.220000
+INCORRECT
+#
+Team: UMBC, Won: 292, Lost: 166, Tied: 42, Total: 500, Percent: 0.584000
+Team: Vermont, Won: 166, Lost: 292, Tied: 42, Total: 500, Percent: 0.332000
+CORRECT
+#
+Team: UMBC, Won: 253, Lost: 203, Tied: 44, Total: 500, Percent: 0.506000
+Team: Binghamton, Won: 203, Lost: 253, Tied: 44, Total: 500, Percent: 0.406000
+CORRECT
+#
+Team: UMBC, Won: 340, Lost: 127, Tied: 33, Total: 500, Percent: 0.680000
+Team: Albany (NY), Won: 127, Lost: 340, Tied: 33, Total: 500, Percent: 0.254000
+INCORRECT
+#
+Team: Mercer, Won: 160, Lost: 300, Tied: 40, Total: 500, Percent: 0.320000
+Team: Boston U., Won: 300, Lost: 160, Tied: 40, Total: 500, Percent: 0.600000
+INCORRECT
+#
+Team: Mercer, Won: 327, Lost: 125, Tied: 48, Total: 500, Percent: 0.654000
+Team: Michigan, Won: 125, Lost: 327, Tied: 48, Total: 500, Percent: 0.250000
+INCORRECT
+#
+Team: Mercer, Won: 274, Lost: 196, Tied: 30, Total: 500, Percent: 0.548000
+Team: Detroit, Won: 196, Lost: 274, Tied: 30, Total: 500, Percent: 0.392000
+INCORRECT
+#
+Team: Mercer, Won: 283, Lost: 171, Tied: 46, Total: 500, Percent: 0.566000
+Team: Richmond, Won: 171, Lost: 283, Tied: 46, Total: 500, Percent: 0.342000
+CORRECT
+#
+Team: Mercer, Won: 192, Lost: 278, Tied: 30, Total: 500, Percent: 0.384000
+Team: UMBC, Won: 278, Lost: 192, Tied: 30, Total: 500, Percent: 0.556000
+CORRECT
+#
+Team: Mercer, Won: 243, Lost: 222, Tied: 35, Total: 500, Percent: 0.486000
+Team: VMI, Won: 222, Lost: 243, Tied: 35, Total: 500, Percent: 0.444000
+CORRECT
+#
+Team: Mercer, Won: 191, Lost: 259, Tied: 50, Total: 500, Percent: 0.382000
+Team: High Point, Won: 259, Lost: 191, Tied: 50, Total: 500, Percent: 0.518000
+INCORRECT
+#
+Team: Mercer, Won: 209, Lost: 231, Tied: 60, Total: 500, Percent: 0.418000
+Team: Lafayette, Won: 231, Lost: 209, Tied: 60, Total: 500, Percent: 0.462000
+INCORRECT
+#
+Team: Mercer, Won: 288, Lost: 168, Tied: 44, Total: 500, Percent: 0.576000
+Team: Wagner, Won: 168, Lost: 288, Tied: 44, Total: 500, Percent: 0.336000
+CORRECT
+#
+Team: Mercer, Won: 201, Lost: 253, Tied: 46, Total: 500, Percent: 0.402000
+Team: Air Force, Won: 253, Lost: 201, Tied: 46, Total: 500, Percent: 0.506000
+CORRECT
+#
+Team: Mercer, Won: 199, Lost: 258, Tied: 43, Total: 500, Percent: 0.398000
+Team: Jacksonville, Won: 258, Lost: 199, Tied: 43, Total: 500, Percent: 0.516000
+CORRECT
+#
+Team: Mercer, Won: 222, Lost: 238, Tied: 40, Total: 500, Percent: 0.444000
+Team: Furman, Won: 238, Lost: 222, Tied: 40, Total: 500, Percent: 0.476000
+INCORRECT
+#
+Team: Mercer, Won: 199, Lost: 261, Tied: 40, Total: 500, Percent: 0.398000
+Team: Bellarmine, Won: 261, Lost: 199, Tied: 40, Total: 500, Percent: 0.522000
+CORRECT
+#
+Team: Mercer, Won: 174, Lost: 278, Tied: 48, Total: 500, Percent: 0.348000
+Team: Richmond, Won: 278, Lost: 174, Tied: 48, Total: 500, Percent: 0.556000
+CORRECT
+#
+RESULTS: 636/1020=0.623529
