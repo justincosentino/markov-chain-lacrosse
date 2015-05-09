@@ -1,0 +1,1535 @@
+Team: Air Force
+Team: Denver
+Predicted: Air Force -- INCORRECT
+Team: Air Force
+Team: Furman
+Predicted: Furman -- INCORRECT
+Team: Air Force
+Team: Canisius
+Predicted: Air Force -- INCORRECT
+Team: Air Force
+Team: Marist
+Predicted: Air Force -- CORRECT
+Team: Air Force
+Team: VMI
+Predicted: Air Force -- INCORRECT
+Team: Air Force
+Team: Bellarmine
+Predicted: Air Force -- CORRECT
+Team: Air Force
+Team: Jacksonville
+Predicted: Jacksonville -- INCORRECT
+Team: Air Force
+Team: Binghamton
+Predicted: Air Force -- CORRECT
+Team: Air Force
+Team: Michigan
+Predicted: Air Force -- CORRECT
+Team: Air Force
+Team: Mercer
+Predicted: Air Force -- CORRECT
+Team: Air Force
+Team: Fairfield
+Predicted: Fairfield -- INCORRECT
+Team: Air Force
+Team: Ohio St.
+Predicted: Ohio St. -- CORRECT
+Team: Air Force
+Team: Quinnipiac
+Predicted: Quinnipiac -- CORRECT
+Team: Air Force
+Team: Ohio St.
+Predicted: Ohio St. -- INCORRECT
+Team: Air Force
+Team: Fairfield
+Predicted: Fairfield -- INCORRECT
+Team: Air Force
+Team: Richmond
+Predicted: Air Force -- CORRECT
+Team: Air Force
+Team: Duke
+Predicted: Air Force -- INCORRECT
+Team: Albany (NY)
+Team: Syracuse
+Predicted: Syracuse -- CORRECT
+Team: Albany (NY)
+Team: Drexel
+Predicted: Albany (NY) -- INCORRECT
+Team: Albany (NY)
+Team: Harvard
+Predicted: Harvard -- INCORRECT
+Team: Albany (NY)
+Team: Massachusetts
+Predicted: Massachusetts -- INCORRECT
+Team: Albany (NY)
+Team: Bryant
+Predicted: Albany (NY) -- INCORRECT
+Team: Albany (NY)
+Team: Penn St.
+Predicted: Penn St. -- INCORRECT
+Team: Albany (NY)
+Team: Canisius
+Predicted: Albany (NY) -- INCORRECT
+Team: Albany (NY)
+Team: Vermont
+Predicted: Vermont -- INCORRECT
+Team: Albany (NY)
+Team: Johns Hopkins
+Predicted: Albany (NY) -- INCORRECT
+Team: Albany (NY)
+Team: Hartford
+Predicted: Albany (NY) -- CORRECT
+Team: Albany (NY)
+Team: Stony Brook
+Predicted: Albany (NY) -- CORRECT
+Team: Albany (NY)
+Team: UMBC
+Predicted: Albany (NY) -- CORRECT
+Team: Albany (NY)
+Team: Siena
+Predicted: Albany (NY) -- CORRECT
+Team: Albany (NY)
+Team: Binghamton
+Predicted: Binghamton -- INCORRECT
+Team: Albany (NY)
+Team: Stony Brook
+Predicted: Stony Brook -- INCORRECT
+Team: Albany (NY)
+Team: UMBC
+Predicted: Albany (NY) -- CORRECT
+Team: Albany (NY)
+Team: Loyola Maryland
+Predicted: Albany (NY) -- CORRECT
+Team: Albany (NY)
+Team: Notre Dame
+Predicted: Notre Dame -- CORRECT
+Team: Army West Point
+Team: Massachusetts
+Predicted: Army West Point -- INCORRECT
+Team: Army West Point
+Team: VMI
+Predicted: Army West Point -- CORRECT
+Team: Army West Point
+Team: Furman
+Predicted: Furman -- INCORRECT
+Team: Army West Point
+Team: Lafayette
+Predicted: Army West Point -- CORRECT
+Team: Army West Point
+Team: Rutgers
+Predicted: Army West Point -- INCORRECT
+Team: Army West Point
+Team: Holy Cross
+Predicted: Army West Point -- CORRECT
+Team: Army West Point
+Team: Loyola Maryland
+Predicted: Army West Point -- INCORRECT
+Team: Army West Point
+Team: Lehigh
+Predicted: Lehigh -- INCORRECT
+Team: Army West Point
+Team: Bucknell
+Predicted: Bucknell -- INCORRECT
+Team: Army West Point
+Team: Boston U.
+Predicted: Boston U. -- INCORRECT
+Team: Army West Point
+Team: Navy
+Predicted: Army West Point -- CORRECT
+Team: Army West Point
+Team: Colgate
+Predicted: Army West Point -- CORRECT
+Team: Army West Point
+Team: Lehigh
+Predicted: Army West Point -- INCORRECT
+Team: Army West Point
+Team: Notre Dame
+Predicted: Army West Point -- INCORRECT
+Team: Bellarmine
+Team: Robert Morris
+Predicted: Bellarmine -- CORRECT
+Team: Bellarmine
+Team: Jacksonville
+Predicted: Bellarmine -- CORRECT
+Team: Bellarmine
+Team: Furman
+Predicted: Bellarmine -- CORRECT
+Team: Bellarmine
+Team: Detroit
+Predicted: Bellarmine -- CORRECT
+Team: Bellarmine
+Team: Michigan
+Predicted: Michigan -- CORRECT
+Team: Bellarmine
+Team: Ohio St.
+Predicted: Bellarmine -- INCORRECT
+Team: Bellarmine
+Team: Fairfield
+Predicted: Bellarmine -- INCORRECT
+Team: Bellarmine
+Team: Marquette
+Predicted: Bellarmine -- CORRECT
+Team: Bellarmine
+Team: High Point
+Predicted: Bellarmine -- CORRECT
+Team: Bellarmine
+Team: Virginia
+Predicted: Virginia -- CORRECT
+Team: Bellarmine
+Team: Mercer
+Predicted: Mercer -- INCORRECT
+Team: Binghamton
+Team: Sacred Heart
+Predicted: Sacred Heart -- INCORRECT
+Team: Binghamton
+Team: Siena
+Predicted: Siena -- CORRECT
+Team: Binghamton
+Team: Cornell
+Predicted: Cornell -- CORRECT
+Team: Binghamton
+Team: Hobart
+Predicted: Binghamton -- CORRECT
+Team: Binghamton
+Team: Delaware
+Predicted: Binghamton -- INCORRECT
+Team: Binghamton
+Team: Colgate
+Predicted: Binghamton -- INCORRECT
+Team: Binghamton
+Team: Hartford
+Predicted: Binghamton -- CORRECT
+Team: Binghamton
+Team: Syracuse
+Predicted: Syracuse -- CORRECT
+Team: Binghamton
+Team: UMBC
+Predicted: Binghamton -- CORRECT
+Team: Binghamton
+Team: Vermont
+Predicted: Binghamton -- CORRECT
+Team: Binghamton
+Team: Canisius
+Predicted: Canisius -- INCORRECT
+Team: Binghamton
+Team: Stony Brook
+Predicted: Stony Brook -- INCORRECT
+Team: Binghamton
+Team: UMBC
+Predicted: UMBC -- CORRECT
+Team: Boston U.
+Team: Mercer
+Predicted: Mercer -- CORRECT
+Team: Boston U.
+Team: Canisius
+Predicted: Canisius -- CORRECT
+Team: Boston U.
+Team: Lehigh
+Predicted: Lehigh -- CORRECT
+Team: Boston U.
+Team: Providence
+Predicted: Boston U. -- INCORRECT
+Team: Boston U.
+Team: Vermont
+Predicted: Vermont -- CORRECT
+Team: Boston U.
+Team: Colgate
+Predicted: Colgate -- CORRECT
+Team: Boston U.
+Team: Lafayette
+Predicted: Boston U. -- CORRECT
+Team: Boston U.
+Team: Bucknell
+Predicted: Boston U. -- INCORRECT
+Team: Boston U.
+Team: Navy
+Predicted: Navy -- CORRECT
+Team: Boston U.
+Team: Harvard
+Predicted: Boston U. -- INCORRECT
+Team: Boston U.
+Team: Loyola Maryland
+Predicted: Loyola Maryland -- CORRECT
+Team: Boston U.
+Team: Holy Cross
+Predicted: Holy Cross -- INCORRECT
+Team: Boston U.
+Team: Duke
+Predicted: Boston U. -- INCORRECT
+Team: Brown
+Team: Quinnipiac
+Predicted: Brown -- CORRECT
+Team: Brown
+Team: Massachusetts
+Predicted: Brown -- INCORRECT
+Team: Brown
+Team: Hartford
+Predicted: Hartford -- INCORRECT
+Team: Brown
+Team: Hobart
+Predicted: Brown -- CORRECT
+Team: Brown
+Team: Harvard
+Predicted: Harvard -- CORRECT
+Team: Brown
+Team: Bucknell
+Predicted: Brown -- INCORRECT
+Team: Brown
+Team: Providence
+Predicted: Providence -- INCORRECT
+Team: Brown
+Team: Marist
+Predicted: Marist -- INCORRECT
+Team: Brown
+Team: Princeton
+Predicted: Brown -- CORRECT
+Team: Brown
+Team: Penn
+Predicted: Penn -- CORRECT
+Team: Brown
+Team: Yale
+Predicted: Yale -- CORRECT
+Team: Brown
+Team: Cornell
+Predicted: Cornell -- CORRECT
+Team: Brown
+Team: Bryant
+Predicted: Brown -- CORRECT
+Team: Brown
+Team: Dartmouth
+Predicted: Brown -- CORRECT
+Team: Bryant
+Team: Colgate
+Predicted: Bryant -- INCORRECT
+Team: Bryant
+Team: Bucknell
+Predicted: Bryant -- CORRECT
+Team: Bryant
+Team: Hartford
+Predicted: Bryant -- CORRECT
+Team: Bryant
+Team: Yale
+Predicted: Bryant -- INCORRECT
+Team: Bryant
+Team: Drexel
+Predicted: Bryant -- CORRECT
+Team: Bryant
+Team: Monmouth
+Predicted: Bryant -- CORRECT
+Team: Bryant
+Team: Hobart
+Predicted: Hobart -- INCORRECT
+Team: Bryant
+Team: Providence
+Predicted: Bryant -- CORRECT
+Team: Bryant
+Team: Richmond
+Predicted: Richmond -- INCORRECT
+Team: Bryant
+Team: Sacred Heart
+Predicted: Sacred Heart -- INCORRECT
+Team: Bryant
+Team: Saint Joseph's
+Predicted: Saint Joseph's -- CORRECT
+Team: Bryant
+Team: Mt. St. Mary's
+Predicted: Mt. St. Mary's -- INCORRECT
+Team: Bryant
+Team: Robert Morris
+Predicted: Bryant -- CORRECT
+Team: Bryant
+Team: Wagner
+Predicted: Bryant -- CORRECT
+Team: Bryant
+Team: Sacred Heart
+Predicted: Bryant -- CORRECT
+Team: Bryant
+Team: Hobart
+Predicted: Bryant -- CORRECT
+Team: Bryant
+Team: Siena
+Predicted: Bryant -- CORRECT
+Team: Bryant
+Team: Syracuse
+Predicted: Bryant -- CORRECT
+Team: Bryant
+Team: Maryland
+Predicted: Bryant -- INCORRECT
+Team: Bucknell
+Team: Delaware
+Predicted: Bucknell -- CORRECT
+Team: Bucknell
+Team: Navy
+Predicted: Bucknell -- CORRECT
+Team: Bucknell
+Team: Colgate
+Predicted: Colgate -- CORRECT
+Team: Bucknell
+Team: Lehigh
+Predicted: Lehigh -- CORRECT
+Team: Bucknell
+Team: North Carolina
+Predicted: North Carolina -- CORRECT
+Team: Bucknell
+Team: Holy Cross
+Predicted: Holy Cross -- INCORRECT
+Team: Bucknell
+Team: Fairfield
+Predicted: Bucknell -- INCORRECT
+Team: Bucknell
+Team: Mt. St. Mary's
+Predicted: Bucknell -- CORRECT
+Team: Bucknell
+Team: Lafayette
+Predicted: Bucknell -- CORRECT
+Team: Bucknell
+Team: Loyola Maryland
+Predicted: Loyola Maryland -- CORRECT
+Team: Bucknell
+Team: Colgate
+Predicted: Colgate -- CORRECT
+Team: Canisius
+Team: Denver
+Predicted: Denver -- CORRECT
+Team: Canisius
+Team: Cornell
+Predicted: Cornell -- CORRECT
+Team: Canisius
+Team: Hobart
+Predicted: Canisius -- INCORRECT
+Team: Canisius
+Team: Monmouth
+Predicted: Monmouth -- INCORRECT
+Team: Canisius
+Team: Detroit
+Predicted: Canisius -- INCORRECT
+Team: Canisius
+Team: Siena
+Predicted: Siena -- CORRECT
+Team: Canisius
+Team: Manhattan
+Predicted: Manhattan -- INCORRECT
+Team: Canisius
+Team: Quinnipiac
+Predicted: Quinnipiac -- INCORRECT
+Team: Canisius
+Team: VMI
+Predicted: VMI -- INCORRECT
+Team: Canisius
+Team: Marist
+Predicted: Canisius -- INCORRECT
+Team: Canisius
+Team: Siena
+Predicted: Siena -- CORRECT
+Team: Colgate
+Team: Vermont
+Predicted: Vermont -- INCORRECT
+Team: Colgate
+Team: Lafayette
+Predicted: Lafayette -- CORRECT
+Team: Colgate
+Team: Hobart
+Predicted: Hobart -- INCORRECT
+Team: Colgate
+Team: Cornell
+Predicted: Cornell -- CORRECT
+Team: Colgate
+Team: Navy
+Predicted: Colgate -- CORRECT
+Team: Colgate
+Team: Loyola Maryland
+Predicted: Colgate -- INCORRECT
+Team: Colgate
+Team: Lehigh
+Predicted: Lehigh -- CORRECT
+Team: Colgate
+Team: Holy Cross
+Predicted: Colgate -- CORRECT
+Team: Colgate
+Team: Loyola Maryland
+Predicted: Loyola Maryland -- CORRECT
+Team: Colgate
+Team: Syracuse
+Predicted: Syracuse -- CORRECT
+Team: Cornell
+Team: Hobart
+Predicted: Hobart -- INCORRECT
+Team: Cornell
+Team: Michigan
+Predicted: Michigan -- INCORRECT
+Team: Cornell
+Team: Virginia
+Predicted: Cornell -- CORRECT
+Team: Cornell
+Team: Yale
+Predicted: Cornell -- CORRECT
+Team: Cornell
+Team: Penn
+Predicted: Penn -- INCORRECT
+Team: Cornell
+Team: Dartmouth
+Predicted: Dartmouth -- INCORRECT
+Team: Cornell
+Team: Harvard
+Predicted: Cornell -- INCORRECT
+Team: Cornell
+Team: Syracuse
+Predicted: Syracuse -- CORRECT
+Team: Cornell
+Team: Hofstra
+Predicted: Hofstra -- CORRECT
+Team: Cornell
+Team: Princeton
+Predicted: Cornell -- CORRECT
+Team: Cornell
+Team: Penn
+Predicted: Penn -- CORRECT
+Team: Cornell
+Team: Maryland
+Predicted: Cornell -- INCORRECT
+Team: Dartmouth
+Team: North Carolina
+Predicted: Dartmouth -- INCORRECT
+Team: Dartmouth
+Team: Vermont
+Predicted: Vermont -- CORRECT
+Team: Dartmouth
+Team: Sacred Heart
+Predicted: Sacred Heart -- INCORRECT
+Team: Dartmouth
+Team: Penn St.
+Predicted: Dartmouth -- INCORRECT
+Team: Dartmouth
+Team: Harvard
+Predicted: Dartmouth -- INCORRECT
+Team: Dartmouth
+Team: Yale
+Predicted: Yale -- CORRECT
+Team: Dartmouth
+Team: Hartford
+Predicted: Hartford -- CORRECT
+Team: Dartmouth
+Team: Princeton
+Predicted: Dartmouth -- INCORRECT
+Team: Dartmouth
+Team: Penn
+Predicted: Dartmouth -- INCORRECT
+Team: Dartmouth
+Team: Holy Cross
+Predicted: Dartmouth -- CORRECT
+Team: Delaware
+Team: High Point
+Predicted: High Point -- INCORRECT
+Team: Delaware
+Team: Fairfield
+Predicted: Delaware -- INCORRECT
+Team: Delaware
+Team: Mt. St. Mary's
+Predicted: Delaware -- CORRECT
+Team: Delaware
+Team: Villanova
+Predicted: Villanova -- INCORRECT
+Team: Delaware
+Team: Lafayette
+Predicted: Lafayette -- INCORRECT
+Team: Delaware
+Team: Hofstra
+Predicted: Delaware -- INCORRECT
+Team: Delaware
+Team: Towson
+Predicted: Towson -- CORRECT
+Team: Delaware
+Team: Drexel
+Predicted: Delaware -- INCORRECT
+Team: Delaware
+Team: Manhattan
+Predicted: Manhattan -- INCORRECT
+Team: Delaware
+Team: Ohio St.
+Predicted: Ohio St. -- CORRECT
+Team: Delaware
+Team: Saint Joseph's
+Predicted: Saint Joseph's -- CORRECT
+Team: Delaware
+Team: Penn St.
+Predicted: Penn St. -- CORRECT
+Team: Delaware
+Team: Massachusetts
+Predicted: Delaware -- CORRECT
+Team: Delaware
+Team: Hofstra
+Predicted: Hofstra -- CORRECT
+Team: Denver
+Team: Duke
+Predicted: Denver -- INCORRECT
+Team: Denver
+Team: Marist
+Predicted: Marist -- INCORRECT
+Team: Denver
+Team: Penn
+Predicted: Denver -- INCORRECT
+Team: Denver
+Team: Notre Dame
+Predicted: Denver -- CORRECT
+Team: Denver
+Team: Penn St.
+Predicted: Denver -- CORRECT
+Team: Denver
+Team: Ohio St.
+Predicted: Ohio St. -- INCORRECT
+Team: Denver
+Team: Rutgers
+Predicted: Rutgers -- INCORRECT
+Team: Denver
+Team: Georgetown
+Predicted: Georgetown -- INCORRECT
+Team: Denver
+Team: Villanova
+Predicted: Villanova -- INCORRECT
+Team: Denver
+Team: St. John's (NY)
+Predicted: Denver -- CORRECT
+Team: Denver
+Team: Providence
+Predicted: Denver -- CORRECT
+Team: Denver
+Team: Marquette
+Predicted: Marquette -- INCORRECT
+Team: Denver
+Team: Rutgers
+Predicted: Rutgers -- INCORRECT
+Team: Denver
+Team: Villanova
+Predicted: Villanova -- INCORRECT
+Team: Denver
+Team: North Carolina
+Predicted: North Carolina -- INCORRECT
+Team: Denver
+Team: Drexel
+Predicted: Drexel -- INCORRECT
+Team: Denver
+Team: Duke
+Predicted: Duke -- CORRECT
+Team: Detroit
+Team: Mercer
+Predicted: Detroit -- CORRECT
+Team: Detroit
+Team: Michigan
+Predicted: Detroit -- INCORRECT
+Team: Detroit
+Team: Robert Morris
+Predicted: Detroit -- INCORRECT
+Team: Detroit
+Team: VMI
+Predicted: VMI -- INCORRECT
+Team: Detroit
+Team: Wagner
+Predicted: Detroit -- CORRECT
+Team: Detroit
+Team: Marquette
+Predicted: Marquette -- CORRECT
+Team: Detroit
+Team: Quinnipiac
+Predicted: Detroit -- INCORRECT
+Team: Detroit
+Team: Marist
+Predicted: Detroit -- CORRECT
+Team: Detroit
+Team: Siena
+Predicted: Siena -- CORRECT
+Team: Detroit
+Team: Manhattan
+Predicted: Manhattan -- CORRECT
+Team: Detroit
+Team: Monmouth
+Predicted: Detroit -- CORRECT
+Team: Detroit
+Team: Marist
+Predicted: Marist -- CORRECT
+Team: Drexel
+Team: Virginia
+Predicted: Virginia -- CORRECT
+Team: Drexel
+Team: Villanova
+Predicted: Drexel -- INCORRECT
+Team: Drexel
+Team: Robert Morris
+Predicted: Drexel -- CORRECT
+Team: Drexel
+Team: St. John's (NY)
+Predicted: St. John's (NY) -- INCORRECT
+Team: Drexel
+Team: Mt. St. Mary's
+Predicted: Drexel -- CORRECT
+Team: Drexel
+Team: Hofstra
+Predicted: Hofstra -- CORRECT
+Team: Drexel
+Team: Saint Joseph's
+Predicted: Drexel -- CORRECT
+Team: Drexel
+Team: Penn St.
+Predicted: Penn St. -- INCORRECT
+Team: Drexel
+Team: Massachusetts
+Predicted: Drexel -- CORRECT
+Team: Drexel
+Team: Towson
+Predicted: Drexel -- CORRECT
+Team: Drexel
+Team: High Point
+Predicted: Drexel -- CORRECT
+Team: Drexel
+Team: Towson
+Predicted: Towson -- INCORRECT
+Team: Drexel
+Team: Hofstra
+Predicted: Drexel -- CORRECT
+Team: Drexel
+Team: Penn
+Predicted: Penn -- INCORRECT
+Team: Duke
+Team: Jacksonville
+Predicted: Jacksonville -- INCORRECT
+Team: Duke
+Team: Penn
+Predicted: Duke -- CORRECT
+Team: Duke
+Team: Stony Brook
+Predicted: Duke -- CORRECT
+Team: Duke
+Team: Maryland
+Predicted: Duke -- INCORRECT
+Team: Duke
+Team: Loyola Maryland
+Predicted: Duke -- INCORRECT
+Team: Duke
+Team: Marquette
+Predicted: Marquette -- INCORRECT
+Team: Duke
+Team: North Carolina
+Predicted: Duke -- CORRECT
+Team: Duke
+Team: Furman
+Predicted: Duke -- CORRECT
+Team: Duke
+Team: Syracuse
+Predicted: Duke -- CORRECT
+Team: Duke
+Team: Harvard
+Predicted: Harvard -- INCORRECT
+Team: Duke
+Team: Notre Dame
+Predicted: Duke -- CORRECT
+Team: Duke
+Team: Virginia
+Predicted: Duke -- CORRECT
+Team: Duke
+Team: Rutgers
+Predicted: Duke -- CORRECT
+Team: Duke
+Team: Syracuse
+Predicted: Syracuse -- CORRECT
+Team: Duke
+Team: Johns Hopkins
+Predicted: Duke -- CORRECT
+Team: Duke
+Team: Notre Dame
+Predicted: Notre Dame -- INCORRECT
+Team: Fairfield
+Team: Manhattan
+Predicted: Fairfield -- CORRECT
+Team: Fairfield
+Team: Hofstra
+Predicted: Fairfield -- INCORRECT
+Team: Fairfield
+Team: Providence
+Predicted: Providence -- CORRECT
+Team: Fairfield
+Team: Yale
+Predicted: Yale -- INCORRECT
+Team: Fairfield
+Team: Stony Brook
+Predicted: Fairfield -- CORRECT
+Team: Fairfield
+Team: Massachusetts
+Predicted: Fairfield -- CORRECT
+Team: Fairfield
+Team: Holy Cross
+Predicted: Fairfield -- CORRECT
+Team: Fairfield
+Team: Michigan
+Predicted: Fairfield -- CORRECT
+Team: Fairfield
+Team: Quinnipiac
+Predicted: Quinnipiac -- INCORRECT
+Team: Fairfield
+Team: Ohio St.
+Predicted: Fairfield -- CORRECT
+Team: Fairfield
+Team: Michigan
+Predicted: Michigan -- INCORRECT
+Team: Furman
+Team: Lehigh
+Predicted: Furman -- INCORRECT
+Team: Furman
+Team: North Carolina
+Predicted: Furman -- INCORRECT
+Team: Furman
+Team: Michigan
+Predicted: Furman -- INCORRECT
+Team: Furman
+Team: Georgetown
+Predicted: Furman -- INCORRECT
+Team: Furman
+Team: High Point
+Predicted: Furman -- INCORRECT
+Team: Furman
+Team: Richmond
+Predicted: Richmond -- CORRECT
+Team: Furman
+Team: VMI
+Predicted: VMI -- INCORRECT
+Team: Furman
+Team: Mercer
+Predicted: Mercer -- CORRECT
+Team: Furman
+Team: Jacksonville
+Predicted: Jacksonville -- CORRECT
+Team: Georgetown
+Team: Mt. St. Mary's
+Predicted: Mt. St. Mary's -- INCORRECT
+Team: Georgetown
+Team: Navy
+Predicted: Georgetown -- CORRECT
+Team: Georgetown
+Team: Towson
+Predicted: Georgetown -- INCORRECT
+Team: Georgetown
+Team: Hofstra
+Predicted: Georgetown -- INCORRECT
+Team: Georgetown
+Team: Harvard
+Predicted: Harvard -- CORRECT
+Team: Georgetown
+Team: St. John's (NY)
+Predicted: St. John's (NY) -- CORRECT
+Team: Georgetown
+Team: Loyola Maryland
+Predicted: Georgetown -- INCORRECT
+Team: Georgetown
+Team: Villanova
+Predicted: Villanova -- CORRECT
+Team: Georgetown
+Team: Providence
+Predicted: Providence -- INCORRECT
+Team: Georgetown
+Team: Lehigh
+Predicted: Lehigh -- CORRECT
+Team: Georgetown
+Team: Marquette
+Predicted: Georgetown -- INCORRECT
+Team: Georgetown
+Team: Rutgers
+Predicted: Rutgers -- CORRECT
+Team: Hartford
+Team: Richmond
+Predicted: Richmond -- INCORRECT
+Team: Hartford
+Team: Manhattan
+Predicted: Hartford -- CORRECT
+Team: Hartford
+Team: Siena
+Predicted: Hartford -- INCORRECT
+Team: Hartford
+Team: Quinnipiac
+Predicted: Quinnipiac -- INCORRECT
+Team: Hartford
+Team: Sacred Heart
+Predicted: Hartford -- CORRECT
+Team: Hartford
+Team: Massachusetts
+Predicted: Hartford -- INCORRECT
+Team: Hartford
+Team: Holy Cross
+Predicted: Hartford -- INCORRECT
+Team: Hartford
+Team: UMBC
+Predicted: Hartford -- INCORRECT
+Team: Hartford
+Team: Vermont
+Predicted: Vermont -- INCORRECT
+Team: Hartford
+Team: Stony Brook
+Predicted: Stony Brook -- CORRECT
+Team: Harvard
+Team: Massachusetts
+Predicted: Harvard -- INCORRECT
+Team: Harvard
+Team: Holy Cross
+Predicted: Holy Cross -- INCORRECT
+Team: Harvard
+Team: Quinnipiac
+Predicted: Quinnipiac -- INCORRECT
+Team: Harvard
+Team: North Carolina
+Predicted: North Carolina -- CORRECT
+Team: Harvard
+Team: Penn
+Predicted: Harvard -- INCORRECT
+Team: Harvard
+Team: Princeton
+Predicted: Harvard -- CORRECT
+Team: Harvard
+Team: Yale
+Predicted: Yale -- INCORRECT
+Team: Harvard
+Team: Yale
+Predicted: Harvard -- CORRECT
+Team: Harvard
+Team: Penn
+Predicted: Penn -- CORRECT
+Team: Harvard
+Team: Notre Dame
+Predicted: Notre Dame -- CORRECT
+Team: High Point
+Team: Towson
+Predicted: Towson -- CORRECT
+Team: High Point
+Team: Saint Joseph's
+Predicted: Saint Joseph's -- INCORRECT
+Team: High Point
+Team: Sacred Heart
+Predicted: High Point -- CORRECT
+Team: High Point
+Team: Jacksonville
+Predicted: Jacksonville -- INCORRECT
+Team: High Point
+Team: Michigan
+Predicted: Michigan -- INCORRECT
+Team: High Point
+Team: VMI
+Predicted: High Point -- CORRECT
+Team: High Point
+Team: UMBC
+Predicted: UMBC -- INCORRECT
+Team: High Point
+Team: Mercer
+Predicted: High Point -- INCORRECT
+Team: High Point
+Team: Richmond
+Predicted: Richmond -- INCORRECT
+Team: High Point
+Team: North Carolina
+Predicted: High Point -- INCORRECT
+Team: High Point
+Team: Jacksonville
+Predicted: Jacksonville -- INCORRECT
+Team: High Point
+Team: Richmond
+Predicted: High Point -- INCORRECT
+Team: Hobart
+Team: Siena
+Predicted: Hobart -- INCORRECT
+Team: Hobart
+Team: Robert Morris
+Predicted: Robert Morris -- INCORRECT
+Team: Hobart
+Team: Mt. St. Mary's
+Predicted: Hobart -- CORRECT
+Team: Hobart
+Team: Sacred Heart
+Predicted: Hobart -- INCORRECT
+Team: Hobart
+Team: Wagner
+Predicted: Wagner -- INCORRECT
+Team: Hobart
+Team: Syracuse
+Predicted: Syracuse -- CORRECT
+Team: Hobart
+Team: Saint Joseph's
+Predicted: Hobart -- INCORRECT
+Team: Hobart
+Team: Saint Joseph's
+Predicted: Hobart -- CORRECT
+Team: Hofstra
+Team: Marquette
+Predicted: Hofstra -- INCORRECT
+Team: Hofstra
+Team: Princeton
+Predicted: Princeton -- CORRECT
+Team: Hofstra
+Team: Ohio St.
+Predicted: Hofstra -- CORRECT
+Team: Hofstra
+Team: St. John's (NY)
+Predicted: Hofstra -- INCORRECT
+Team: Hofstra
+Team: Towson
+Predicted: Towson -- INCORRECT
+Team: Hofstra
+Team: Siena
+Predicted: Siena -- INCORRECT
+Team: Hofstra
+Team: Marist
+Predicted: Marist -- INCORRECT
+Team: Hofstra
+Team: Massachusetts
+Predicted: Hofstra -- CORRECT
+Team: Hofstra
+Team: Penn St.
+Predicted: Penn St. -- CORRECT
+Team: Holy Cross
+Team: St. John's (NY)
+Predicted: St. John's (NY) -- CORRECT
+Team: Holy Cross
+Team: Loyola Maryland
+Predicted: Loyola Maryland -- CORRECT
+Team: Holy Cross
+Team: Navy
+Predicted: Navy -- CORRECT
+Team: Holy Cross
+Team: Richmond
+Predicted: Richmond -- INCORRECT
+Team: Holy Cross
+Team: Lehigh
+Predicted: Lehigh -- CORRECT
+Team: Holy Cross
+Team: Lafayette
+Predicted: Holy Cross -- CORRECT
+Team: Holy Cross
+Team: Sacred Heart
+Predicted: Holy Cross -- INCORRECT
+Team: Jacksonville
+Team: Notre Dame
+Predicted: Jacksonville -- INCORRECT
+Team: Jacksonville
+Team: Marquette
+Predicted: Marquette -- INCORRECT
+Team: Jacksonville
+Team: Robert Morris
+Predicted: Robert Morris -- CORRECT
+Team: Jacksonville
+Team: Ohio St.
+Predicted: Ohio St. -- CORRECT
+Team: Jacksonville
+Team: VMI
+Predicted: Jacksonville -- CORRECT
+Team: Jacksonville
+Team: Mercer
+Predicted: Mercer -- INCORRECT
+Team: Jacksonville
+Team: Richmond
+Predicted: Jacksonville -- INCORRECT
+Team: Johns Hopkins
+Team: Ohio St.
+Predicted: Ohio St. -- INCORRECT
+Team: Johns Hopkins
+Team: Towson
+Predicted: Towson -- INCORRECT
+Team: Johns Hopkins
+Team: Michigan
+Predicted: Michigan -- INCORRECT
+Team: Johns Hopkins
+Team: Princeton
+Predicted: Princeton -- INCORRECT
+Team: Johns Hopkins
+Team: UMBC
+Predicted: Johns Hopkins -- CORRECT
+Team: Johns Hopkins
+Team: Syracuse
+Predicted: Syracuse -- CORRECT
+Team: Johns Hopkins
+Team: Virginia
+Predicted: Johns Hopkins -- INCORRECT
+Team: Johns Hopkins
+Team: North Carolina
+Predicted: Johns Hopkins -- INCORRECT
+Team: Johns Hopkins
+Team: Maryland
+Predicted: Johns Hopkins -- CORRECT
+Team: Johns Hopkins
+Team: Mt. St. Mary's
+Predicted: Johns Hopkins -- CORRECT
+Team: Johns Hopkins
+Team: Navy
+Predicted: Johns Hopkins -- CORRECT
+Team: Johns Hopkins
+Team: Villanova
+Predicted: Villanova -- INCORRECT
+Team: Johns Hopkins
+Team: Loyola Maryland
+Predicted: Loyola Maryland -- CORRECT
+Team: Johns Hopkins
+Team: Virginia
+Predicted: Johns Hopkins -- CORRECT
+Team: Lafayette
+Team: Stony Brook
+Predicted: Lafayette -- INCORRECT
+Team: Lafayette
+Team: Navy
+Predicted: Navy -- CORRECT
+Team: Lafayette
+Team: Loyola Maryland
+Predicted: Lafayette -- INCORRECT
+Team: Lafayette
+Team: Mercer
+Predicted: Mercer -- CORRECT
+Team: Lafayette
+Team: Monmouth
+Predicted: Monmouth -- INCORRECT
+Team: Lafayette
+Team: Manhattan
+Predicted: Lafayette -- INCORRECT
+Team: Lafayette
+Team: Lehigh
+Predicted: Lehigh -- CORRECT
+Team: Lehigh
+Team: Marquette
+Predicted: Marquette -- INCORRECT
+Team: Lehigh
+Team: Villanova
+Predicted: Lehigh -- CORRECT
+Team: Lehigh
+Team: Loyola Maryland
+Predicted: Loyola Maryland -- CORRECT
+Team: Lehigh
+Team: Yale
+Predicted: Yale -- CORRECT
+Team: Lehigh
+Team: Navy
+Predicted: Navy -- INCORRECT
+Team: Lehigh
+Team: Monmouth
+Predicted: Lehigh -- CORRECT
+Team: Lehigh
+Team: Princeton
+Predicted: Princeton -- CORRECT
+Team: Lehigh
+Team: Navy
+Predicted: Navy -- INCORRECT
+Team: Lehigh
+Team: Loyola Maryland
+Predicted: Lehigh -- INCORRECT
+Team: Loyola Maryland
+Team: Virginia
+Predicted: Loyola Maryland -- INCORRECT
+Team: Loyola Maryland
+Team: Penn St.
+Predicted: Penn St. -- INCORRECT
+Team: Loyola Maryland
+Team: Towson
+Predicted: Loyola Maryland -- CORRECT
+Team: Loyola Maryland
+Team: Navy
+Predicted: Loyola Maryland -- CORRECT
+Team: Manhattan
+Team: Rutgers
+Predicted: Rutgers -- CORRECT
+Team: Manhattan
+Team: North Carolina
+Predicted: Manhattan -- INCORRECT
+Team: Manhattan
+Team: Princeton
+Predicted: Princeton -- CORRECT
+Team: Manhattan
+Team: Mt. St. Mary's
+Predicted: Manhattan -- CORRECT
+Team: Manhattan
+Team: Quinnipiac
+Predicted: Quinnipiac -- CORRECT
+Team: Manhattan
+Team: Stony Brook
+Predicted: Manhattan -- INCORRECT
+Team: Manhattan
+Team: Marist
+Predicted: Manhattan -- CORRECT
+Team: Manhattan
+Team: Monmouth
+Predicted: Monmouth -- INCORRECT
+Team: Manhattan
+Team: Siena
+Predicted: Siena -- CORRECT
+Team: Marist
+Team: Stony Brook
+Predicted: Marist -- CORRECT
+Team: Marist
+Team: Marquette
+Predicted: Marist -- CORRECT
+Team: Marist
+Team: Towson
+Predicted: Marist -- INCORRECT
+Team: Marist
+Team: Siena
+Predicted: Marist -- INCORRECT
+Team: Marist
+Team: Quinnipiac
+Predicted: Quinnipiac -- INCORRECT
+Team: Marist
+Team: Monmouth
+Predicted: Marist -- CORRECT
+Team: Marist
+Team: Siena
+Predicted: Siena -- CORRECT
+Team: Marquette
+Team: Ohio St.
+Predicted: Ohio St. -- CORRECT
+Team: Marquette
+Team: Villanova
+Predicted: Villanova -- CORRECT
+Team: Marquette
+Team: Rutgers
+Predicted: Rutgers -- INCORRECT
+Team: Marquette
+Team: St. John's (NY)
+Predicted: St. John's (NY) -- INCORRECT
+Team: Marquette
+Team: Notre Dame
+Predicted: Marquette -- INCORRECT
+Team: Marquette
+Team: Providence
+Predicted: Marquette -- CORRECT
+Team: Marquette
+Team: Villanova
+Predicted: Marquette -- INCORRECT
+Team: Maryland
+Team: Mt. St. Mary's
+Predicted: Mt. St. Mary's -- INCORRECT
+Team: Maryland
+Team: UMBC
+Predicted: UMBC -- INCORRECT
+Team: Maryland
+Team: Syracuse
+Predicted: Syracuse -- INCORRECT
+Team: Maryland
+Team: Stony Brook
+Predicted: Maryland -- CORRECT
+Team: Maryland
+Team: Villanova
+Predicted: Maryland -- CORRECT
+Team: Maryland
+Team: Michigan
+Predicted: Michigan -- INCORRECT
+Team: Maryland
+Team: North Carolina
+Predicted: North Carolina -- CORRECT
+Team: Maryland
+Team: Virginia
+Predicted: Maryland -- CORRECT
+Team: Maryland
+Team: Robert Morris
+Predicted: Robert Morris -- INCORRECT
+Team: Maryland
+Team: Notre Dame
+Predicted: Notre Dame -- INCORRECT
+Team: Maryland
+Team: Notre Dame
+Predicted: Maryland -- INCORRECT
+Team: Maryland
+Team: Navy
+Predicted: Maryland -- CORRECT
+Team: Maryland
+Team: Notre Dame
+Predicted: Maryland -- INCORRECT
+Team: Massachusetts
+Team: Ohio St.
+Predicted: Massachusetts -- CORRECT
+Team: Massachusetts
+Team: Providence
+Predicted: Massachusetts -- CORRECT
+Team: Massachusetts
+Team: Penn St.
+Predicted: Penn St. -- INCORRECT
+Team: Massachusetts
+Team: Towson
+Predicted: Towson -- CORRECT
+Team: Mercer
+Team: Michigan
+Predicted: Mercer -- INCORRECT
+Team: Mercer
+Team: Richmond
+Predicted: Richmond -- INCORRECT
+Team: Mercer
+Team: UMBC
+Predicted: UMBC -- CORRECT
+Team: Mercer
+Team: VMI
+Predicted: Mercer -- CORRECT
+Team: Mercer
+Team: Wagner
+Predicted: Mercer -- CORRECT
+Team: Mercer
+Team: Richmond
+Predicted: Mercer -- INCORRECT
+Team: Michigan
+Team: Penn St.
+Predicted: Penn St. -- CORRECT
+Team: Michigan
+Team: Saint Joseph's
+Predicted: Michigan -- INCORRECT
+Team: Michigan
+Team: Ohio St.
+Predicted: Michigan -- INCORRECT
+Team: Michigan
+Team: Yale
+Predicted: Yale -- CORRECT
+Team: Michigan
+Team: Robert Morris
+Predicted: Robert Morris -- INCORRECT
+Team: Monmouth
+Team: UMBC
+Predicted: Monmouth -- INCORRECT
+Team: Monmouth
+Team: Wagner
+Predicted: Monmouth -- INCORRECT
+Team: Monmouth
+Team: Saint Joseph's
+Predicted: Saint Joseph's -- CORRECT
+Team: Monmouth
+Team: Rutgers
+Predicted: Rutgers -- CORRECT
+Team: Monmouth
+Team: Siena
+Predicted: Siena -- CORRECT
+Team: Monmouth
+Team: Quinnipiac
+Predicted: Quinnipiac -- CORRECT
+Team: Mt. St. Mary's
+Team: Virginia
+Predicted: Mt. St. Mary's -- INCORRECT
+Team: Mt. St. Mary's
+Team: Towson
+Predicted: Mt. St. Mary's -- INCORRECT
+Team: Mt. St. Mary's
+Team: UMBC
+Predicted: UMBC -- CORRECT
+Team: Mt. St. Mary's
+Team: Robert Morris
+Predicted: Mt. St. Mary's -- INCORRECT
+Team: Mt. St. Mary's
+Team: Saint Joseph's
+Predicted: Saint Joseph's -- CORRECT
+Team: Mt. St. Mary's
+Team: Wagner
+Predicted: Mt. St. Mary's -- CORRECT
+Team: Mt. St. Mary's
+Team: Sacred Heart
+Predicted: Sacred Heart -- CORRECT
+Team: Navy
+Team: VMI
+Predicted: VMI -- INCORRECT
+Team: Navy
+Team: Towson
+Predicted: Towson -- CORRECT
+Team: North Carolina
+Team: Notre Dame
+Predicted: North Carolina -- INCORRECT
+Team: North Carolina
+Team: Princeton
+Predicted: Princeton -- INCORRECT
+Team: North Carolina
+Team: Virginia
+Predicted: North Carolina -- CORRECT
+Team: North Carolina
+Team: Syracuse
+Predicted: North Carolina -- INCORRECT
+Team: North Carolina
+Team: Virginia
+Predicted: Virginia -- CORRECT
+Team: Notre Dame
+Team: Penn St.
+Predicted: Penn St. -- CORRECT
+Team: Notre Dame
+Team: Virginia
+Predicted: Virginia -- INCORRECT
+Team: Notre Dame
+Team: Ohio St.
+Predicted: Ohio St. -- INCORRECT
+Team: Notre Dame
+Team: Syracuse
+Predicted: Notre Dame -- INCORRECT
+Team: Notre Dame
+Team: Robert Morris
+Predicted: Robert Morris -- INCORRECT
+Team: Notre Dame
+Team: Syracuse
+Predicted: Notre Dame -- CORRECT
+Team: Ohio St.
+Team: Penn St.
+Predicted: Penn St. -- CORRECT
+Team: Penn
+Team: Saint Joseph's
+Predicted: Penn -- CORRECT
+Team: Penn
+Team: Villanova
+Predicted: Penn -- CORRECT
+Team: Penn
+Team: Princeton
+Predicted: Penn -- INCORRECT
+Team: Penn
+Team: Yale
+Predicted: Penn -- CORRECT
+Team: Penn
+Team: Towson
+Predicted: Penn -- CORRECT
+Team: Penn
+Team: St. John's (NY)
+Predicted: St. John's (NY) -- INCORRECT
+Team: Penn St.
+Team: Villanova
+Predicted: Penn St. -- INCORRECT
+Team: Penn St.
+Team: Towson
+Predicted: Towson -- INCORRECT
+Team: Princeton
+Team: Villanova
+Predicted: Villanova -- INCORRECT
+Team: Princeton
+Team: Yale
+Predicted: Yale -- CORRECT
+Team: Princeton
+Team: Rutgers
+Predicted: Princeton -- CORRECT
+Team: Providence
+Team: Vermont
+Predicted: Providence -- CORRECT
+Team: Providence
+Team: Quinnipiac
+Predicted: Providence -- INCORRECT
+Team: Providence
+Team: Sacred Heart
+Predicted: Providence -- INCORRECT
+Team: Providence
+Team: Rutgers
+Predicted: Providence -- INCORRECT
+Team: Providence
+Team: St. John's (NY)
+Predicted: St. John's (NY) -- CORRECT
+Team: Providence
+Team: Yale
+Predicted: Yale -- CORRECT
+Team: Providence
+Team: Villanova
+Predicted: Providence -- CORRECT
+Team: Quinnipiac
+Team: Stony Brook
+Predicted: Stony Brook -- INCORRECT
+Team: Quinnipiac
+Team: Siena
+Predicted: Quinnipiac -- INCORRECT
+Team: Quinnipiac
+Team: Yale
+Predicted: Quinnipiac -- INCORRECT
+Team: Richmond
+Team: Virginia
+Predicted: Virginia -- CORRECT
+Team: Richmond
+Team: UMBC
+Predicted: Richmond -- INCORRECT
+Team: Richmond
+Team: Vermont
+Predicted: Richmond -- CORRECT
+Team: Richmond
+Team: Saint Joseph's
+Predicted: Saint Joseph's -- CORRECT
+Team: Richmond
+Team: Rutgers
+Predicted: Rutgers -- CORRECT
+Team: Richmond
+Team: Wagner
+Predicted: Wagner -- INCORRECT
+Team: Richmond
+Team: VMI
+Predicted: VMI -- CORRECT
+Team: Robert Morris
+Team: Saint Joseph's
+Predicted: Robert Morris -- INCORRECT
+Team: Robert Morris
+Team: Siena
+Predicted: Siena -- INCORRECT
+Team: Robert Morris
+Team: Sacred Heart
+Predicted: Sacred Heart -- CORRECT
+Team: Robert Morris
+Team: Wagner
+Predicted: Wagner -- INCORRECT
+Team: Rutgers
+Team: Wagner
+Predicted: Rutgers -- CORRECT
+Team: Rutgers
+Team: Virginia
+Predicted: Rutgers -- INCORRECT
+Team: Rutgers
+Team: Stony Brook
+Predicted: Stony Brook -- CORRECT
+Team: Rutgers
+Team: St. John's (NY)
+Predicted: St. John's (NY) -- INCORRECT
+Team: Rutgers
+Team: Villanova
+Predicted: Rutgers -- INCORRECT
+Team: Sacred Heart
+Team: Stony Brook
+Predicted: Sacred Heart -- INCORRECT
+Team: Sacred Heart
+Team: Vermont
+Predicted: Vermont -- CORRECT
+Team: Sacred Heart
+Team: Wagner
+Predicted: Sacred Heart -- CORRECT
+Team: Sacred Heart
+Team: Saint Joseph's
+Predicted: Saint Joseph's -- CORRECT
+Team: Saint Joseph's
+Team: VMI
+Predicted: VMI -- INCORRECT
+Team: Saint Joseph's
+Team: Wagner
+Predicted: Wagner -- INCORRECT
+Team: Siena
+Team: Syracuse
+Predicted: Siena -- INCORRECT
+Team: Siena
+Team: St. John's (NY)
+Predicted: St. John's (NY) -- CORRECT
+Team: St. John's (NY)
+Team: Yale
+Predicted: Yale -- CORRECT
+Team: St. John's (NY)
+Team: Syracuse
+Predicted: St. John's (NY) -- INCORRECT
+Team: St. John's (NY)
+Team: Stony Brook
+Predicted: St. John's (NY) -- CORRECT
+Team: St. John's (NY)
+Team: Villanova
+Predicted: St. John's (NY) -- CORRECT
+Team: Stony Brook
+Team: UMBC
+Predicted: UMBC -- CORRECT
+Team: Stony Brook
+Team: Vermont
+Predicted: Stony Brook -- CORRECT
+Team: Syracuse
+Team: Virginia
+Predicted: Virginia -- CORRECT
+Team: Towson
+Team: UMBC
+Predicted: UMBC -- INCORRECT
+Team: UMBC
+Team: Vermont
+Predicted: UMBC -- CORRECT
+Team: VMI
+Team: Vermont
+Predicted: Vermont -- CORRECT
+Team: VMI
+Team: Wagner
+Predicted: Wagner -- CORRECT
+Team: VMI
+Team: Virginia
+Predicted: Virginia -- CORRECT
+Team: Vermont
+Team: Wagner
+Predicted: Wagner -- INCORRECT
+#
+RESULTS: 266/511=0.520548

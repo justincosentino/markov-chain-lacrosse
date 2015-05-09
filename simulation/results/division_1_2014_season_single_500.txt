@@ -1,0 +1,2046 @@
+#
+Team:        Air Force (2-2, 2014-02-08), Won: 279, Lost: 180, Tied:  41, Total: 500, Percent: 0.558000
+Team:           Denver (3-1, 2014-02-08), Won: 180, Lost: 279, Tied:  41, Total: 500, Percent: 0.360000
+Predicted: Air Force -- INCORRECT
+#
+Team:        Air Force (2-2, 2014-02-15), Won: 246, Lost: 210, Tied:  44, Total: 500, Percent: 0.492000
+Team:           Furman (0-4, 2014-02-15), Won: 210, Lost: 246, Tied:  44, Total: 500, Percent: 0.420000
+Predicted: Air Force -- CORRECT
+#
+Team:        Air Force (2-2, 2014-02-22), Won: 273, Lost: 182, Tied:  45, Total: 500, Percent: 0.546000
+Team:         Canisius (2-1, 2014-02-22), Won: 182, Lost: 273, Tied:  45, Total: 500, Percent: 0.364000
+Predicted: Air Force -- INCORRECT
+#
+Team:        Air Force (2-2, 2014-02-23), Won: 302, Lost: 149, Tied:  49, Total: 500, Percent: 0.604000
+Team:           Marist (1-2, 2014-02-23), Won: 149, Lost: 302, Tied:  49, Total: 500, Percent: 0.298000
+Predicted: Air Force -- CORRECT
+#
+Team:        Air Force (2-3, 2014-03-02), Won: 269, Lost: 189, Tied:  42, Total: 500, Percent: 0.538000
+Team:              VMI (1-4, 2014-03-02), Won: 189, Lost: 269, Tied:  42, Total: 500, Percent: 0.378000
+Predicted: Air Force -- INCORRECT
+#
+Team:        Air Force (2-3, 2014-03-08), Won: 324, Lost: 130, Tied:  46, Total: 500, Percent: 0.648000
+Team:       Bellarmine (3-0, 2014-03-08), Won: 130, Lost: 324, Tied:  46, Total: 500, Percent: 0.260000
+Predicted: Air Force -- CORRECT
+#
+Team:        Air Force (3-3, 2014-03-15), Won: 329, Lost: 142, Tied:  29, Total: 500, Percent: 0.658000
+Team:     Jacksonville (1-4, 2014-03-15), Won: 142, Lost: 329, Tied:  29, Total: 500, Percent: 0.284000
+Predicted: Air Force -- CORRECT
+#
+Team:        Air Force (5-3, 2014-03-23), Won: 329, Lost: 129, Tied:  42, Total: 500, Percent: 0.658000
+Team:       Binghamton (2-5, 2014-03-23), Won: 129, Lost: 329, Tied:  42, Total: 500, Percent: 0.258000
+Predicted: Air Force -- CORRECT
+#
+Team:        Air Force (5-3, 2014-03-29), Won: 361, Lost: 104, Tied:  35, Total: 500, Percent: 0.722000
+Team:         Michigan (4-6, 2014-03-29), Won: 104, Lost: 361, Tied:  35, Total: 500, Percent: 0.208000
+Predicted: Air Force -- CORRECT
+#
+Team:        Air Force (6-3, 2014-04-05), Won: 319, Lost: 141, Tied:  40, Total: 500, Percent: 0.638000
+Team:           Mercer (6-3, 2014-04-05), Won: 141, Lost: 319, Tied:  40, Total: 500, Percent: 0.282000
+Predicted: Air Force -- CORRECT
+#
+Team:        Air Force (7-3, 2014-04-12), Won: 374, Lost:  91, Tied:  35, Total: 500, Percent: 0.748000
+Team:        Fairfield (9-2, 2014-04-12), Won:  91, Lost: 374, Tied:  35, Total: 500, Percent: 0.182000
+Predicted: Air Force -- CORRECT
+#
+Team:        Air Force (8-3, 2014-04-19), Won: 389, Lost:  80, Tied:  31, Total: 500, Percent: 0.778000
+Team:         Ohio St. (5-6, 2014-04-19), Won:  80, Lost: 389, Tied:  31, Total: 500, Percent: 0.160000
+Predicted: Air Force -- INCORRECT
+#
+Team:        Air Force (8-4, 2014-04-26), Won: 411, Lost:  66, Tied:  23, Total: 500, Percent: 0.822000
+Team:       Quinnipiac (5-7, 2014-04-26), Won:  66, Lost: 411, Tied:  23, Total: 500, Percent: 0.132000
+Predicted: Air Force -- INCORRECT
+#
+Team:        Air Force (8-5, 2014-05-01), Won: 344, Lost: 112, Tied:  44, Total: 500, Percent: 0.688000
+Team:         Ohio St. (6-7, 2014-05-01), Won: 112, Lost: 344, Tied:  44, Total: 500, Percent: 0.224000
+Predicted: Air Force -- CORRECT
+#
+Team:        Air Force (8-5, 2014-05-03), Won: 366, Lost: 111, Tied:  23, Total: 500, Percent: 0.732000
+Team:        Fairfield (11-3, 2014-05-03), Won: 111, Lost: 366, Tied:  23, Total: 500, Percent: 0.222000
+Predicted: Air Force -- CORRECT
+#
+Team:        Air Force (11-5, 2014-05-07), Won: 370, Lost:  99, Tied:  31, Total: 500, Percent: 0.740000
+Team:         Richmond (6-11, 2014-05-07), Won:  99, Lost: 370, Tied:  31, Total: 500, Percent: 0.198000
+Predicted: Air Force -- CORRECT
+#
+Team:        Air Force (11-6, 2014-05-11), Won: 419, Lost:  53, Tied:  28, Total: 500, Percent: 0.838000
+Team:             Duke (14-3, 2014-05-11), Won:  53, Lost: 419, Tied:  28, Total: 500, Percent: 0.106000
+Predicted: Air Force -- INCORRECT
+#
+Team:      Albany (NY) (0-2, 2014-02-16), Won: 146, Lost: 318, Tied:  36, Total: 500, Percent: 0.292000
+Team:         Syracuse (2-1, 2014-02-16), Won: 318, Lost: 146, Tied:  36, Total: 500, Percent: 0.636000
+Predicted: Syracuse -- CORRECT
+#
+Team:      Albany (NY) (0-2, 2014-02-22), Won: 110, Lost: 363, Tied:  27, Total: 500, Percent: 0.220000
+Team:           Drexel (1-1, 2014-02-22), Won: 363, Lost: 110, Tied:  27, Total: 500, Percent: 0.726000
+Predicted: Drexel -- CORRECT
+#
+Team:      Albany (NY) (0-2, 2014-03-01), Won:  25, Lost: 469, Tied:   6, Total: 500, Percent: 0.050000
+Team:          Harvard (0-1, 2014-03-01), Won: 469, Lost:  25, Tied:   6, Total: 500, Percent: 0.938000
+Predicted: Harvard -- INCORRECT
+#
+Team:      Albany (NY) (1-2, 2014-03-08), Won: 117, Lost: 339, Tied:  44, Total: 500, Percent: 0.234000
+Team:    Massachusetts (4-0, 2014-03-08), Won: 339, Lost: 117, Tied:  44, Total: 500, Percent: 0.678000
+Predicted: Massachusetts -- INCORRECT
+#
+Team:      Albany (NY) (2-2, 2014-03-15), Won: 355, Lost: 112, Tied:  33, Total: 500, Percent: 0.710000
+Team:           Bryant (3-2, 2014-03-15), Won: 112, Lost: 355, Tied:  33, Total: 500, Percent: 0.224000
+Predicted: Albany (NY) -- INCORRECT
+#
+Team:      Albany (NY) (2-3, 2014-03-22), Won: 323, Lost: 140, Tied:  37, Total: 500, Percent: 0.646000
+Team:         Penn St. (3-3, 2014-03-22), Won: 140, Lost: 323, Tied:  37, Total: 500, Percent: 0.280000
+Predicted: Albany (NY) -- CORRECT
+#
+Team:      Albany (NY) (3-3, 2014-03-25), Won: 219, Lost: 235, Tied:  46, Total: 500, Percent: 0.438000
+Team:         Canisius (3-4, 2014-03-25), Won: 235, Lost: 219, Tied:  46, Total: 500, Percent: 0.470000
+Predicted: Canisius -- CORRECT
+#
+Team:      Albany (NY) (3-3, 2014-03-29), Won: 372, Lost:  87, Tied:  41, Total: 500, Percent: 0.744000
+Team:          Vermont (5-3, 2014-03-29), Won:  87, Lost: 372, Tied:  41, Total: 500, Percent: 0.174000
+Predicted: Albany (NY) -- CORRECT
+#
+Team:      Albany (NY) (4-4, 2014-04-04), Won: 388, Lost:  86, Tied:  26, Total: 500, Percent: 0.776000
+Team:    Johns Hopkins (5-3, 2014-04-04), Won:  86, Lost: 388, Tied:  26, Total: 500, Percent: 0.172000
+Predicted: Albany (NY) -- INCORRECT
+#
+Team:      Albany (NY) (5-5, 2014-04-06), Won: 288, Lost: 190, Tied:  22, Total: 500, Percent: 0.576000
+Team:         Hartford (4-7, 2014-04-06), Won: 190, Lost: 288, Tied:  22, Total: 500, Percent: 0.380000
+Predicted: Albany (NY) -- CORRECT
+#
+Team:      Albany (NY) (5-5, 2014-04-12), Won: 323, Lost: 146, Tied:  31, Total: 500, Percent: 0.646000
+Team:      Stony Brook (5-7, 2014-04-12), Won: 146, Lost: 323, Tied:  31, Total: 500, Percent: 0.292000
+Predicted: Albany (NY) -- CORRECT
+#
+Team:      Albany (NY) (6-5, 2014-04-19), Won: 260, Lost: 200, Tied:  40, Total: 500, Percent: 0.520000
+Team:             UMBC (6-5, 2014-04-19), Won: 200, Lost: 260, Tied:  40, Total: 500, Percent: 0.400000
+Predicted: Albany (NY) -- CORRECT
+#
+Team:      Albany (NY) (7-5, 2014-04-22), Won: 341, Lost: 131, Tied:  28, Total: 500, Percent: 0.682000
+Team:            Siena (8-4, 2014-04-22), Won: 131, Lost: 341, Tied:  28, Total: 500, Percent: 0.262000
+Predicted: Albany (NY) -- CORRECT
+#
+Team:      Albany (NY) (7-5, 2014-04-26), Won: 272, Lost: 192, Tied:  36, Total: 500, Percent: 0.544000
+Team:       Binghamton (7-6, 2014-04-26), Won: 192, Lost: 272, Tied:  36, Total: 500, Percent: 0.384000
+Predicted: Albany (NY) -- CORRECT
+#
+Team:      Albany (NY) (9-5, 2014-05-01), Won: 349, Lost: 114, Tied:  37, Total: 500, Percent: 0.698000
+Team:      Stony Brook (6-9, 2014-05-01), Won: 114, Lost: 349, Tied:  37, Total: 500, Percent: 0.228000
+Predicted: Albany (NY) -- CORRECT
+#
+Team:      Albany (NY) (9-5, 2014-05-03), Won: 340, Lost: 130, Tied:  30, Total: 500, Percent: 0.680000
+Team:             UMBC (7-6, 2014-05-03), Won: 130, Lost: 340, Tied:  30, Total: 500, Percent: 0.260000
+Predicted: Albany (NY) -- CORRECT
+#
+Team:      Albany (NY) (11-5, 2014-05-10), Won: 341, Lost: 124, Tied:  35, Total: 500, Percent: 0.682000
+Team:  Loyola Maryland (15-1, 2014-05-10), Won: 124, Lost: 341, Tied:  35, Total: 500, Percent: 0.248000
+Predicted: Albany (NY) -- CORRECT
+#
+Team:      Albany (NY) (12-5, 2014-05-17), Won: 303, Lost: 154, Tied:  43, Total: 500, Percent: 0.606000
+Team:       Notre Dame (10-5, 2014-05-17), Won: 154, Lost: 303, Tied:  43, Total: 500, Percent: 0.308000
+Predicted: Albany (NY) -- INCORRECT
+#
+Team:  Army West Point (2-1, 2014-02-08), Won: 484, Lost:  11, Tied:   5, Total: 500, Percent: 0.968000
+Team:    Massachusetts (3-0, 2014-02-08), Won:  11, Lost: 484, Tied:   5, Total: 500, Percent: 0.022000
+Predicted: Army West Point -- INCORRECT
+#
+Team:  Army West Point (2-1, 2014-02-16), Won: 490, Lost:   7, Tied:   3, Total: 500, Percent: 0.980000
+Team:              VMI (0-3, 2014-02-16), Won:   7, Lost: 490, Tied:   3, Total: 500, Percent: 0.014000
+Predicted: Army West Point -- CORRECT
+#
+Team:  Army West Point (2-1, 2014-02-22), Won: 472, Lost:  17, Tied:  11, Total: 500, Percent: 0.944000
+Team:           Furman (0-4, 2014-02-22), Won:  17, Lost: 472, Tied:  11, Total: 500, Percent: 0.034000
+Predicted: Army West Point -- CORRECT
+#
+Team:  Army West Point (2-1, 2014-03-01), Won: 479, Lost:  11, Tied:  10, Total: 500, Percent: 0.958000
+Team:        Lafayette (1-1, 2014-03-01), Won:  11, Lost: 479, Tied:  10, Total: 500, Percent: 0.022000
+Predicted: Army West Point -- CORRECT
+#
+Team:  Army West Point (3-1, 2014-03-04), Won: 491, Lost:   5, Tied:   4, Total: 500, Percent: 0.982000
+Team:          Rutgers (2-2, 2014-03-04), Won:   5, Lost: 491, Tied:   4, Total: 500, Percent: 0.010000
+Predicted: Army West Point -- INCORRECT
+#
+Team:  Army West Point (3-1, 2014-03-08), Won: 481, Lost:  12, Tied:   7, Total: 500, Percent: 0.962000
+Team:       Holy Cross (0-4, 2014-03-08), Won:  12, Lost: 481, Tied:   7, Total: 500, Percent: 0.024000
+Predicted: Army West Point -- CORRECT
+#
+Team:  Army West Point (4-2, 2014-03-15), Won: 484, Lost:  10, Tied:   6, Total: 500, Percent: 0.968000
+Team:  Loyola Maryland (5-1, 2014-03-15), Won:  10, Lost: 484, Tied:   6, Total: 500, Percent: 0.020000
+Predicted: Army West Point -- INCORRECT
+#
+Team:  Army West Point (4-3, 2014-03-22), Won: 457, Lost:  27, Tied:  16, Total: 500, Percent: 0.914000
+Team:           Lehigh (6-2, 2014-03-22), Won:  27, Lost: 457, Tied:  16, Total: 500, Percent: 0.054000
+Predicted: Army West Point -- CORRECT
+#
+Team:  Army West Point (5-3, 2014-03-29), Won: 417, Lost:  54, Tied:  29, Total: 500, Percent: 0.834000
+Team:         Bucknell (5-4, 2014-03-29), Won:  54, Lost: 417, Tied:  29, Total: 500, Percent: 0.108000
+Predicted: Army West Point -- CORRECT
+#
+Team:  Army West Point (6-3, 2014-04-05), Won: 416, Lost:  55, Tied:  29, Total: 500, Percent: 0.832000
+Team:        Boston U. (1-8, 2014-04-05), Won:  55, Lost: 416, Tied:  29, Total: 500, Percent: 0.110000
+Predicted: Army West Point -- CORRECT
+#
+Team:  Army West Point (7-3, 2014-04-12), Won: 431, Lost:  48, Tied:  21, Total: 500, Percent: 0.862000
+Team:             Navy (4-6, 2014-04-12), Won:  48, Lost: 431, Tied:  21, Total: 500, Percent: 0.096000
+Predicted: Army West Point -- CORRECT
+#
+Team:  Army West Point (8-3, 2014-04-18), Won: 461, Lost:  27, Tied:  12, Total: 500, Percent: 0.922000
+Team:          Colgate (8-4, 2014-04-18), Won:  27, Lost: 461, Tied:  12, Total: 500, Percent: 0.054000
+Predicted: Army West Point -- CORRECT
+#
+Team:  Army West Point (9-3, 2014-04-25), Won: 453, Lost:  31, Tied:  16, Total: 500, Percent: 0.906000
+Team:           Lehigh (11-4, 2014-04-25), Won:  31, Lost: 453, Tied:  16, Total: 500, Percent: 0.062000
+Predicted: Army West Point -- INCORRECT
+#
+Team:  Army West Point (9-4, 2014-05-03), Won: 414, Lost:  54, Tied:  32, Total: 500, Percent: 0.828000
+Team:       Notre Dame (8-5, 2014-05-03), Won:  54, Lost: 414, Tied:  32, Total: 500, Percent: 0.108000
+Predicted: Army West Point -- INCORRECT
+#
+Team:       Bellarmine (2-0, 2014-02-15), Won: 433, Lost:  46, Tied:  21, Total: 500, Percent: 0.866000
+Team:    Robert Morris (1-1, 2014-02-15), Won:  46, Lost: 433, Tied:  21, Total: 500, Percent: 0.092000
+Predicted: Bellarmine -- CORRECT
+#
+Team:       Bellarmine (2-0, 2014-02-22), Won: 366, Lost:  99, Tied:  35, Total: 500, Percent: 0.732000
+Team:     Jacksonville (0-3, 2014-02-22), Won:  99, Lost: 366, Tied:  35, Total: 500, Percent: 0.198000
+Predicted: Bellarmine -- CORRECT
+#
+Team:       Bellarmine (2-0, 2014-03-01), Won: 305, Lost: 149, Tied:  46, Total: 500, Percent: 0.610000
+Team:           Furman (0-4, 2014-03-01), Won: 149, Lost: 305, Tied:  46, Total: 500, Percent: 0.298000
+Predicted: Bellarmine -- CORRECT
+#
+Team:       Bellarmine (3-0, 2014-03-04), Won: 386, Lost:  85, Tied:  29, Total: 500, Percent: 0.772000
+Team:          Detroit (2-2, 2014-03-04), Won:  85, Lost: 386, Tied:  29, Total: 500, Percent: 0.170000
+Predicted: Bellarmine -- CORRECT
+#
+Team:       Bellarmine (4-1, 2014-03-15), Won: 347, Lost: 115, Tied:  38, Total: 500, Percent: 0.694000
+Team:         Michigan (3-4, 2014-03-15), Won: 115, Lost: 347, Tied:  38, Total: 500, Percent: 0.230000
+Predicted: Bellarmine -- INCORRECT
+#
+Team:       Bellarmine (4-2, 2014-03-21), Won: 215, Lost: 233, Tied:  52, Total: 500, Percent: 0.430000
+Team:         Ohio St. (1-5, 2014-03-21), Won: 233, Lost: 215, Tied:  52, Total: 500, Percent: 0.466000
+Predicted: Ohio St. -- CORRECT
+#
+Team:       Bellarmine (4-3, 2014-03-29), Won: 251, Lost: 202, Tied:  47, Total: 500, Percent: 0.502000
+Team:        Fairfield (6-2, 2014-03-29), Won: 202, Lost: 251, Tied:  47, Total: 500, Percent: 0.404000
+Predicted: Bellarmine -- INCORRECT
+#
+Team:       Bellarmine (4-4, 2014-04-01), Won: 161, Lost: 284, Tied:  55, Total: 500, Percent: 0.322000
+Team:        Marquette (3-6, 2014-04-01), Won: 284, Lost: 161, Tied:  55, Total: 500, Percent: 0.568000
+Predicted: Marquette -- INCORRECT
+#
+Team:       Bellarmine (4-4, 2014-04-05), Won: 217, Lost: 242, Tied:  41, Total: 500, Percent: 0.434000
+Team:       High Point (7-3, 2014-04-05), Won: 242, Lost: 217, Tied:  41, Total: 500, Percent: 0.484000
+Predicted: High Point -- INCORRECT
+#
+Team:       Bellarmine (6-4, 2014-04-19), Won: 309, Lost: 149, Tied:  42, Total: 500, Percent: 0.618000
+Team:         Virginia (8-5, 2014-04-19), Won: 149, Lost: 309, Tied:  42, Total: 500, Percent: 0.298000
+Predicted: Bellarmine -- INCORRECT
+#
+Team:       Bellarmine (6-5, 2014-04-26), Won: 238, Lost: 214, Tied:  48, Total: 500, Percent: 0.476000
+Team:           Mercer (7-5, 2014-04-26), Won: 214, Lost: 238, Tied:  48, Total: 500, Percent: 0.428000
+Predicted: Bellarmine -- CORRECT
+#
+Team:       Binghamton (1-1, 2014-02-16), Won: 186, Lost: 270, Tied:  44, Total: 500, Percent: 0.372000
+Team:     Sacred Heart (0-2, 2014-02-16), Won: 270, Lost: 186, Tied:  44, Total: 500, Percent: 0.540000
+Predicted: Sacred Heart -- INCORRECT
+#
+Team:       Binghamton (1-1, 2014-02-22), Won: 314, Lost: 152, Tied:  34, Total: 500, Percent: 0.628000
+Team:            Siena (2-1, 2014-02-22), Won: 152, Lost: 314, Tied:  34, Total: 500, Percent: 0.304000
+Predicted: Binghamton -- INCORRECT
+#
+Team:       Binghamton (1-1, 2014-02-25), Won: 433, Lost:  51, Tied:  16, Total: 500, Percent: 0.866000
+Team:          Cornell (1-0, 2014-02-25), Won:  51, Lost: 433, Tied:  16, Total: 500, Percent: 0.102000
+Predicted: Binghamton -- INCORRECT
+#
+Team:       Binghamton (1-1, 2014-03-01), Won: 234, Lost: 227, Tied:  39, Total: 500, Percent: 0.468000
+Team:           Hobart (0-2, 2014-03-01), Won: 227, Lost: 234, Tied:  39, Total: 500, Percent: 0.454000
+Predicted: Binghamton -- CORRECT
+#
+Team:       Binghamton (2-2, 2014-03-08), Won: 217, Lost: 237, Tied:  46, Total: 500, Percent: 0.434000
+Team:         Delaware (3-2, 2014-03-08), Won: 237, Lost: 217, Tied:  46, Total: 500, Percent: 0.474000
+Predicted: Delaware -- CORRECT
+#
+Team:       Binghamton (2-3, 2014-03-15), Won: 201, Lost: 255, Tied:  44, Total: 500, Percent: 0.402000
+Team:          Colgate (5-1, 2014-03-15), Won: 255, Lost: 201, Tied:  44, Total: 500, Percent: 0.510000
+Predicted: Colgate -- CORRECT
+#
+Team:       Binghamton (2-5, 2014-03-29), Won: 185, Lost: 268, Tied:  47, Total: 500, Percent: 0.370000
+Team:         Hartford (4-4, 2014-03-29), Won: 268, Lost: 185, Tied:  47, Total: 500, Percent: 0.536000
+Predicted: Hartford -- INCORRECT
+#
+Team:       Binghamton (3-5, 2014-04-02), Won: 223, Lost: 234, Tied:  43, Total: 500, Percent: 0.446000
+Team:         Syracuse (5-3, 2014-04-02), Won: 234, Lost: 223, Tied:  43, Total: 500, Percent: 0.468000
+Predicted: Syracuse -- CORRECT
+#
+Team:       Binghamton (4-6, 2014-04-06), Won: 186, Lost: 285, Tied:  29, Total: 500, Percent: 0.372000
+Team:             UMBC (5-5, 2014-04-06), Won: 285, Lost: 186, Tied:  29, Total: 500, Percent: 0.570000
+Predicted: UMBC -- INCORRECT
+#
+Team:       Binghamton (4-6, 2014-04-12), Won: 240, Lost: 223, Tied:  37, Total: 500, Percent: 0.480000
+Team:          Vermont (5-5, 2014-04-12), Won: 223, Lost: 240, Tied:  37, Total: 500, Percent: 0.446000
+Predicted: Binghamton -- CORRECT
+#
+Team:       Binghamton (5-6, 2014-04-15), Won: 156, Lost: 297, Tied:  47, Total: 500, Percent: 0.312000
+Team:         Canisius (6-5, 2014-04-15), Won: 297, Lost: 156, Tied:  47, Total: 500, Percent: 0.594000
+Predicted: Canisius -- INCORRECT
+#
+Team:       Binghamton (5-6, 2014-04-19), Won: 253, Lost: 202, Tied:  45, Total: 500, Percent: 0.506000
+Team:      Stony Brook (5-8, 2014-04-19), Won: 202, Lost: 253, Tied:  45, Total: 500, Percent: 0.404000
+Predicted: Binghamton -- CORRECT
+#
+Team:       Binghamton (7-7, 2014-05-01), Won: 220, Lost: 235, Tied:  45, Total: 500, Percent: 0.440000
+Team:             UMBC (7-6, 2014-05-01), Won: 235, Lost: 220, Tied:  45, Total: 500, Percent: 0.470000
+Predicted: UMBC -- CORRECT
+#
+Team:        Boston U. (0-3, 2014-02-08), Won:  53, Lost: 421, Tied:  26, Total: 500, Percent: 0.106000
+Team:           Mercer (2-2, 2014-02-08), Won: 421, Lost:  53, Tied:  26, Total: 500, Percent: 0.842000
+Predicted: Mercer -- CORRECT
+#
+Team:        Boston U. (0-3, 2014-02-15), Won:  21, Lost: 466, Tied:  13, Total: 500, Percent: 0.042000
+Team:         Canisius (2-1, 2014-02-15), Won: 466, Lost:  21, Tied:  13, Total: 500, Percent: 0.932000
+Predicted: Canisius -- CORRECT
+#
+Team:        Boston U. (0-3, 2014-02-22), Won:  81, Lost: 393, Tied:  26, Total: 500, Percent: 0.162000
+Team:           Lehigh (4-0, 2014-02-22), Won: 393, Lost:  81, Tied:  26, Total: 500, Percent: 0.786000
+Predicted: Lehigh -- CORRECT
+#
+Team:        Boston U. (0-3, 2014-02-25), Won:  39, Lost: 427, Tied:  34, Total: 500, Percent: 0.078000
+Team:       Providence (1-0, 2014-02-25), Won: 427, Lost:  39, Tied:  34, Total: 500, Percent: 0.854000
+Predicted: Providence -- CORRECT
+#
+Team:        Boston U. (0-3, 2014-03-01), Won:  40, Lost: 439, Tied:  21, Total: 500, Percent: 0.080000
+Team:          Vermont (0-2, 2014-03-01), Won: 439, Lost:  40, Tied:  21, Total: 500, Percent: 0.878000
+Predicted: Vermont -- CORRECT
+#
+Team:        Boston U. (0-5, 2014-03-08), Won:  79, Lost: 393, Tied:  28, Total: 500, Percent: 0.158000
+Team:          Colgate (3-1, 2014-03-08), Won: 393, Lost:  79, Tied:  28, Total: 500, Percent: 0.786000
+Predicted: Colgate -- CORRECT
+#
+Team:        Boston U. (0-6, 2014-03-15), Won:  22, Lost: 463, Tied:  15, Total: 500, Percent: 0.044000
+Team:        Lafayette (1-4, 2014-03-15), Won: 463, Lost:  22, Tied:  15, Total: 500, Percent: 0.926000
+Predicted: Lafayette -- INCORRECT
+#
+Team:        Boston U. (1-6, 2014-03-22), Won:  72, Lost: 394, Tied:  34, Total: 500, Percent: 0.144000
+Team:         Bucknell (3-4, 2014-03-22), Won: 394, Lost:  72, Tied:  34, Total: 500, Percent: 0.788000
+Predicted: Bucknell -- CORRECT
+#
+Team:        Boston U. (1-7, 2014-03-29), Won: 100, Lost: 367, Tied:  33, Total: 500, Percent: 0.200000
+Team:             Navy (3-5, 2014-03-29), Won: 367, Lost: 100, Tied:  33, Total: 500, Percent: 0.734000
+Predicted: Navy -- CORRECT
+#
+Team:        Boston U. (1-9, 2014-04-08), Won: 128, Lost: 331, Tied:  41, Total: 500, Percent: 0.256000
+Team:          Harvard (6-4, 2014-04-08), Won: 331, Lost: 128, Tied:  41, Total: 500, Percent: 0.662000
+Predicted: Harvard -- CORRECT
+#
+Team:        Boston U. (1-9, 2014-04-12), Won: 137, Lost: 322, Tied:  41, Total: 500, Percent: 0.274000
+Team:  Loyola Maryland (10-1, 2014-04-12), Won: 322, Lost: 137, Tied:  41, Total: 500, Percent: 0.644000
+Predicted: Loyola Maryland -- CORRECT
+#
+Team:        Boston U. (1-11, 2014-04-19), Won: 100, Lost: 361, Tied:  39, Total: 500, Percent: 0.200000
+Team:       Holy Cross (3-10, 2014-04-19), Won: 361, Lost: 100, Tied:  39, Total: 500, Percent: 0.722000
+Predicted: Holy Cross -- INCORRECT
+#
+Team:        Boston U. (2-12, 2014-05-04), Won: 166, Lost: 287, Tied:  47, Total: 500, Percent: 0.332000
+Team:             Duke (13-3, 2014-05-04), Won: 287, Lost: 166, Tied:  47, Total: 500, Percent: 0.574000
+Predicted: Duke -- CORRECT
+#
+Team:            Brown (1-0, 2014-02-22), Won: 481, Lost:   8, Tied:  11, Total: 500, Percent: 0.962000
+Team:       Quinnipiac (0-1, 2014-02-22), Won:   8, Lost: 481, Tied:  11, Total: 500, Percent: 0.016000
+Predicted: Brown -- CORRECT
+#
+Team:            Brown (1-0, 2014-03-01), Won: 485, Lost:   8, Tied:   7, Total: 500, Percent: 0.970000
+Team:    Massachusetts (3-0, 2014-03-01), Won:   8, Lost: 485, Tied:   7, Total: 500, Percent: 0.016000
+Predicted: Brown -- INCORRECT
+#
+Team:            Brown (1-1, 2014-03-05), Won: 155, Lost: 292, Tied:  53, Total: 500, Percent: 0.310000
+Team:         Hartford (2-1, 2014-03-05), Won: 292, Lost: 155, Tied:  53, Total: 500, Percent: 0.584000
+Predicted: Hartford -- INCORRECT
+#
+Team:            Brown (1-1, 2014-03-08), Won: 132, Lost: 322, Tied:  46, Total: 500, Percent: 0.264000
+Team:           Hobart (0-3, 2014-03-08), Won: 322, Lost: 132, Tied:  46, Total: 500, Percent: 0.644000
+Predicted: Hobart -- INCORRECT
+#
+Team:            Brown (3-1, 2014-03-15), Won: 268, Lost: 192, Tied:  40, Total: 500, Percent: 0.536000
+Team:          Harvard (3-2, 2014-03-15), Won: 192, Lost: 268, Tied:  40, Total: 500, Percent: 0.384000
+Predicted: Brown -- INCORRECT
+#
+Team:            Brown (3-2, 2014-03-19), Won: 140, Lost: 324, Tied:  36, Total: 500, Percent: 0.280000
+Team:         Bucknell (3-4, 2014-03-19), Won: 324, Lost: 140, Tied:  36, Total: 500, Percent: 0.648000
+Predicted: Bucknell -- CORRECT
+#
+Team:            Brown (3-2, 2014-03-22), Won: 150, Lost: 316, Tied:  34, Total: 500, Percent: 0.300000
+Team:       Providence (3-4, 2014-03-22), Won: 316, Lost: 150, Tied:  34, Total: 500, Percent: 0.632000
+Predicted: Providence -- INCORRECT
+#
+Team:            Brown (4-3, 2014-03-25), Won: 146, Lost: 312, Tied:  42, Total: 500, Percent: 0.292000
+Team:           Marist (3-4, 2014-03-25), Won: 312, Lost: 146, Tied:  42, Total: 500, Percent: 0.624000
+Predicted: Marist -- INCORRECT
+#
+Team:            Brown (4-3, 2014-03-29), Won: 206, Lost: 245, Tied:  49, Total: 500, Percent: 0.412000
+Team:        Princeton (4-3, 2014-03-29), Won: 245, Lost: 206, Tied:  49, Total: 500, Percent: 0.490000
+Predicted: Princeton -- INCORRECT
+#
+Team:            Brown (6-3, 2014-04-05), Won: 209, Lost: 238, Tied:  53, Total: 500, Percent: 0.418000
+Team:             Penn (4-3, 2014-04-05), Won: 238, Lost: 209, Tied:  53, Total: 500, Percent: 0.476000
+Predicted: Penn -- CORRECT
+#
+Team:            Brown (6-4, 2014-04-11), Won: 205, Lost: 245, Tied:  50, Total: 500, Percent: 0.410000
+Team:             Yale (6-3, 2014-04-11), Won: 245, Lost: 205, Tied:  50, Total: 500, Percent: 0.490000
+Predicted: Yale -- CORRECT
+#
+Team:            Brown (6-5, 2014-04-19), Won: 200, Lost: 267, Tied:  33, Total: 500, Percent: 0.400000
+Team:          Cornell (9-3, 2014-04-19), Won: 267, Lost: 200, Tied:  33, Total: 500, Percent: 0.534000
+Predicted: Cornell -- CORRECT
+#
+Team:            Brown (6-6, 2014-04-22), Won: 203, Lost: 258, Tied:  39, Total: 500, Percent: 0.406000
+Team:           Bryant (11-3, 2014-04-22), Won: 258, Lost: 203, Tied:  39, Total: 500, Percent: 0.516000
+Predicted: Bryant -- INCORRECT
+#
+Team:            Brown (6-6, 2014-04-26), Won: 128, Lost: 313, Tied:  59, Total: 500, Percent: 0.256000
+Team:        Dartmouth (1-9, 2014-04-26), Won: 313, Lost: 128, Tied:  59, Total: 500, Percent: 0.626000
+Predicted: Dartmouth -- INCORRECT
+#
+Team:           Bryant (2-1, 2014-02-08), Won: 329, Lost: 125, Tied:  46, Total: 500, Percent: 0.658000
+Team:          Colgate (2-1, 2014-02-08), Won: 125, Lost: 329, Tied:  46, Total: 500, Percent: 0.250000
+Predicted: Bryant -- INCORRECT
+#
+Team:           Bryant (2-1, 2014-02-16), Won: 252, Lost: 198, Tied:  50, Total: 500, Percent: 0.504000
+Team:         Bucknell (2-1, 2014-02-16), Won: 198, Lost: 252, Tied:  50, Total: 500, Percent: 0.396000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (2-1, 2014-02-22), Won: 289, Lost: 160, Tied:  51, Total: 500, Percent: 0.578000
+Team:         Hartford (1-1, 2014-02-22), Won: 160, Lost: 289, Tied:  51, Total: 500, Percent: 0.320000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (2-1, 2014-03-01), Won: 285, Lost: 173, Tied:  42, Total: 500, Percent: 0.570000
+Team:             Yale (1-0, 2014-03-01), Won: 173, Lost: 285, Tied:  42, Total: 500, Percent: 0.346000
+Predicted: Bryant -- INCORRECT
+#
+Team:           Bryant (2-2, 2014-03-08), Won: 339, Lost: 122, Tied:  39, Total: 500, Percent: 0.678000
+Team:           Drexel (2-2, 2014-03-08), Won: 122, Lost: 339, Tied:  39, Total: 500, Percent: 0.244000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (3-2, 2014-03-11), Won: 221, Lost: 230, Tied:  49, Total: 500, Percent: 0.442000
+Team:         Monmouth (0-4, 2014-03-11), Won: 230, Lost: 221, Tied:  49, Total: 500, Percent: 0.460000
+Predicted: Monmouth -- INCORRECT
+#
+Team:           Bryant (5-2, 2014-03-22), Won: 251, Lost: 192, Tied:  57, Total: 500, Percent: 0.502000
+Team:           Hobart (2-5, 2014-03-22), Won: 192, Lost: 251, Tied:  57, Total: 500, Percent: 0.384000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (6-2, 2014-03-25), Won: 315, Lost: 149, Tied:  36, Total: 500, Percent: 0.630000
+Team:       Providence (3-5, 2014-03-25), Won: 149, Lost: 315, Tied:  36, Total: 500, Percent: 0.298000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (6-2, 2014-03-29), Won: 291, Lost: 153, Tied:  56, Total: 500, Percent: 0.582000
+Team:         Richmond (2-7, 2014-03-29), Won: 153, Lost: 291, Tied:  56, Total: 500, Percent: 0.306000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (8-2, 2014-04-02), Won: 326, Lost: 126, Tied:  48, Total: 500, Percent: 0.652000
+Team:     Sacred Heart (2-6, 2014-04-02), Won: 126, Lost: 326, Tied:  48, Total: 500, Percent: 0.252000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (8-2, 2014-04-05), Won: 351, Lost: 115, Tied:  34, Total: 500, Percent: 0.702000
+Team:   Saint Joseph's (6-3, 2014-04-05), Won: 115, Lost: 351, Tied:  34, Total: 500, Percent: 0.230000
+Predicted: Bryant -- INCORRECT
+#
+Team:           Bryant (9-3, 2014-04-12), Won: 310, Lost: 143, Tied:  47, Total: 500, Percent: 0.620000
+Team:   Mt. St. Mary's (0-12, 2014-04-12), Won: 143, Lost: 310, Tied:  47, Total: 500, Percent: 0.286000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (10-3, 2014-04-19), Won: 403, Lost:  66, Tied:  31, Total: 500, Percent: 0.806000
+Team:    Robert Morris (5-7, 2014-04-19), Won:  66, Lost: 403, Tied:  31, Total: 500, Percent: 0.132000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (11-3, 2014-04-26), Won: 348, Lost: 109, Tied:  43, Total: 500, Percent: 0.696000
+Team:           Wagner (2-10, 2014-04-26), Won: 109, Lost: 348, Tied:  43, Total: 500, Percent: 0.218000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (12-4, 2014-05-01), Won: 391, Lost:  88, Tied:  21, Total: 500, Percent: 0.782000
+Team:     Sacred Heart (6-8, 2014-05-01), Won:  88, Lost: 391, Tied:  21, Total: 500, Percent: 0.176000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (12-4, 2014-05-03), Won: 375, Lost:  87, Tied:  38, Total: 500, Percent: 0.750000
+Team:           Hobart (4-9, 2014-05-03), Won:  87, Lost: 375, Tied:  38, Total: 500, Percent: 0.174000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (15-4, 2014-05-07), Won: 409, Lost:  68, Tied:  23, Total: 500, Percent: 0.818000
+Team:            Siena (11-6, 2014-05-07), Won:  68, Lost: 409, Tied:  23, Total: 500, Percent: 0.136000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (16-4, 2014-05-11), Won: 421, Lost:  51, Tied:  28, Total: 500, Percent: 0.842000
+Team:         Syracuse (11-5, 2014-05-11), Won:  51, Lost: 421, Tied:  28, Total: 500, Percent: 0.102000
+Predicted: Bryant -- CORRECT
+#
+Team:           Bryant (16-4, 2014-05-17), Won: 414, Lost:  69, Tied:  17, Total: 500, Percent: 0.828000
+Team:         Maryland (12-3, 2014-05-17), Won:  69, Lost: 414, Tied:  17, Total: 500, Percent: 0.138000
+Predicted: Bryant -- INCORRECT
+#
+Team:         Bucknell (2-1, 2014-02-08), Won: 209, Lost: 236, Tied:  55, Total: 500, Percent: 0.418000
+Team:         Delaware (2-2, 2014-02-08), Won: 236, Lost: 209, Tied:  55, Total: 500, Percent: 0.472000
+Predicted: Delaware -- INCORRECT
+#
+Team:         Bucknell (2-1, 2014-02-22), Won: 254, Lost: 192, Tied:  54, Total: 500, Percent: 0.508000
+Team:             Navy (1-2, 2014-02-22), Won: 192, Lost: 254, Tied:  54, Total: 500, Percent: 0.384000
+Predicted: Bucknell -- CORRECT
+#
+Team:         Bucknell (2-1, 2014-03-01), Won: 284, Lost: 170, Tied:  46, Total: 500, Percent: 0.568000
+Team:          Colgate (2-1, 2014-03-01), Won: 170, Lost: 284, Tied:  46, Total: 500, Percent: 0.340000
+Predicted: Bucknell -- INCORRECT
+#
+Team:         Bucknell (2-2, 2014-03-08), Won: 349, Lost: 116, Tied:  35, Total: 500, Percent: 0.698000
+Team:           Lehigh (4-1, 2014-03-08), Won: 116, Lost: 349, Tied:  35, Total: 500, Percent: 0.232000
+Predicted: Bucknell -- INCORRECT
+#
+Team:         Bucknell (2-3, 2014-03-11), Won: 246, Lost: 223, Tied:  31, Total: 500, Percent: 0.492000
+Team:   North Carolina (4-1, 2014-03-11), Won: 223, Lost: 246, Tied:  31, Total: 500, Percent: 0.446000
+Predicted: Bucknell -- INCORRECT
+#
+Team:         Bucknell (2-3, 2014-03-15), Won: 162, Lost: 282, Tied:  56, Total: 500, Percent: 0.324000
+Team:       Holy Cross (1-5, 2014-03-15), Won: 282, Lost: 162, Tied:  56, Total: 500, Percent: 0.564000
+Predicted: Holy Cross -- INCORRECT
+#
+Team:         Bucknell (5-5, 2014-04-01), Won: 153, Lost: 289, Tied:  58, Total: 500, Percent: 0.306000
+Team:        Fairfield (7-2, 2014-04-01), Won: 289, Lost: 153, Tied:  58, Total: 500, Percent: 0.578000
+Predicted: Fairfield -- CORRECT
+#
+Team:         Bucknell (5-5, 2014-04-05), Won: 106, Lost: 360, Tied:  34, Total: 500, Percent: 0.212000
+Team:   Mt. St. Mary's (0-10, 2014-04-05), Won: 360, Lost: 106, Tied:  34, Total: 500, Percent: 0.720000
+Predicted: Mt. St. Mary's -- INCORRECT
+#
+Team:         Bucknell (6-6, 2014-04-11), Won: 101, Lost: 360, Tied:  39, Total: 500, Percent: 0.202000
+Team:        Lafayette (2-8, 2014-04-11), Won: 360, Lost: 101, Tied:  39, Total: 500, Percent: 0.720000
+Predicted: Lafayette -- INCORRECT
+#
+Team:         Bucknell (7-6, 2014-04-17), Won: 259, Lost: 198, Tied:  43, Total: 500, Percent: 0.518000
+Team:  Loyola Maryland (11-1, 2014-04-17), Won: 198, Lost: 259, Tied:  43, Total: 500, Percent: 0.396000
+Predicted: Bucknell -- INCORRECT
+#
+Team:         Bucknell (7-7, 2014-04-22), Won: 243, Lost: 210, Tied:  47, Total: 500, Percent: 0.486000
+Team:          Colgate (8-5, 2014-04-22), Won: 210, Lost: 243, Tied:  47, Total: 500, Percent: 0.420000
+Predicted: Bucknell -- INCORRECT
+#
+Team:         Canisius (2-1, 2014-02-23), Won: 187, Lost: 268, Tied:  45, Total: 500, Percent: 0.374000
+Team:           Denver (3-1, 2014-02-23), Won: 268, Lost: 187, Tied:  45, Total: 500, Percent: 0.536000
+Predicted: Denver -- CORRECT
+#
+Team:         Canisius (2-1, 2014-03-04), Won: 295, Lost: 147, Tied:  58, Total: 500, Percent: 0.590000
+Team:          Cornell (3-0, 2014-03-04), Won: 147, Lost: 295, Tied:  58, Total: 500, Percent: 0.294000
+Predicted: Canisius -- INCORRECT
+#
+Team:         Canisius (2-2, 2014-03-11), Won:  31, Lost: 458, Tied:  11, Total: 500, Percent: 0.062000
+Team:           Hobart (0-5, 2014-03-11), Won: 458, Lost:  31, Tied:  11, Total: 500, Percent: 0.916000
+Predicted: Hobart -- CORRECT
+#
+Team:         Canisius (2-2, 2014-03-15), Won:  42, Lost: 431, Tied:  27, Total: 500, Percent: 0.084000
+Team:         Monmouth (0-4, 2014-03-15), Won: 431, Lost:  42, Tied:  27, Total: 500, Percent: 0.862000
+Predicted: Monmouth -- INCORRECT
+#
+Team:         Canisius (3-4, 2014-03-23), Won:  92, Lost: 361, Tied:  47, Total: 500, Percent: 0.184000
+Team:          Detroit (4-4, 2014-03-23), Won: 361, Lost:  92, Tied:  47, Total: 500, Percent: 0.722000
+Predicted: Detroit -- CORRECT
+#
+Team:         Canisius (3-4, 2014-03-29), Won: 158, Lost: 286, Tied:  56, Total: 500, Percent: 0.316000
+Team:            Siena (5-3, 2014-03-29), Won: 286, Lost: 158, Tied:  56, Total: 500, Percent: 0.572000
+Predicted: Siena -- CORRECT
+#
+Team:         Canisius (4-5, 2014-04-05), Won: 123, Lost: 340, Tied:  37, Total: 500, Percent: 0.246000
+Team:        Manhattan (2-7, 2014-04-05), Won: 340, Lost: 123, Tied:  37, Total: 500, Percent: 0.680000
+Predicted: Manhattan -- INCORRECT
+#
+Team:         Canisius (5-5, 2014-04-12), Won: 220, Lost: 224, Tied:  56, Total: 500, Percent: 0.440000
+Team:       Quinnipiac (5-4, 2014-04-12), Won: 224, Lost: 220, Tied:  56, Total: 500, Percent: 0.448000
+Predicted: Quinnipiac -- INCORRECT
+#
+Team:         Canisius (6-5, 2014-04-19), Won: 220, Lost: 240, Tied:  40, Total: 500, Percent: 0.440000
+Team:              VMI (1-11, 2014-04-19), Won: 240, Lost: 220, Tied:  40, Total: 500, Percent: 0.480000
+Predicted: VMI -- INCORRECT
+#
+Team:         Canisius (7-6, 2014-04-26), Won: 276, Lost: 173, Tied:  51, Total: 500, Percent: 0.552000
+Team:           Marist (4-8, 2014-04-26), Won: 173, Lost: 276, Tied:  51, Total: 500, Percent: 0.346000
+Predicted: Canisius -- INCORRECT
+#
+Team:         Canisius (7-7, 2014-05-01), Won: 288, Lost: 167, Tied:  45, Total: 500, Percent: 0.576000
+Team:            Siena (9-5, 2014-05-01), Won: 167, Lost: 288, Tied:  45, Total: 500, Percent: 0.334000
+Predicted: Canisius -- INCORRECT
+#
+Team:          Colgate (2-1, 2014-02-15), Won: 424, Lost:  50, Tied:  26, Total: 500, Percent: 0.848000
+Team:          Vermont (0-2, 2014-02-15), Won:  50, Lost: 424, Tied:  26, Total: 500, Percent: 0.100000
+Predicted: Colgate -- CORRECT
+#
+Team:          Colgate (2-1, 2014-02-22), Won: 390, Lost:  71, Tied:  39, Total: 500, Percent: 0.780000
+Team:        Lafayette (1-1, 2014-02-22), Won:  71, Lost: 390, Tied:  39, Total: 500, Percent: 0.142000
+Predicted: Colgate -- INCORRECT
+#
+Team:          Colgate (3-1, 2014-03-04), Won: 369, Lost:  94, Tied:  37, Total: 500, Percent: 0.738000
+Team:           Hobart (0-3, 2014-03-04), Won:  94, Lost: 369, Tied:  37, Total: 500, Percent: 0.188000
+Predicted: Colgate -- CORRECT
+#
+Team:          Colgate (6-1, 2014-03-18), Won: 386, Lost:  78, Tied:  36, Total: 500, Percent: 0.772000
+Team:          Cornell (6-0, 2014-03-18), Won:  78, Lost: 386, Tied:  36, Total: 500, Percent: 0.156000
+Predicted: Colgate -- INCORRECT
+#
+Team:          Colgate (6-1, 2014-03-22), Won: 357, Lost: 107, Tied:  36, Total: 500, Percent: 0.714000
+Team:             Navy (3-4, 2014-03-22), Won: 107, Lost: 357, Tied:  36, Total: 500, Percent: 0.214000
+Predicted: Colgate -- CORRECT
+#
+Team:          Colgate (7-2, 2014-03-29), Won: 336, Lost: 126, Tied:  38, Total: 500, Percent: 0.672000
+Team:  Loyola Maryland (8-1, 2014-03-29), Won: 126, Lost: 336, Tied:  38, Total: 500, Percent: 0.252000
+Predicted: Colgate -- INCORRECT
+#
+Team:          Colgate (7-3, 2014-04-05), Won: 326, Lost: 131, Tied:  43, Total: 500, Percent: 0.652000
+Team:           Lehigh (8-3, 2014-04-05), Won: 131, Lost: 326, Tied:  43, Total: 500, Percent: 0.262000
+Predicted: Colgate -- INCORRECT
+#
+Team:          Colgate (7-4, 2014-04-12), Won: 247, Lost: 208, Tied:  45, Total: 500, Percent: 0.494000
+Team:       Holy Cross (3-8, 2014-04-12), Won: 208, Lost: 247, Tied:  45, Total: 500, Percent: 0.416000
+Predicted: Colgate -- CORRECT
+#
+Team:          Colgate (8-5, 2014-04-25), Won: 303, Lost: 146, Tied:  51, Total: 500, Percent: 0.606000
+Team:  Loyola Maryland (12-1, 2014-04-25), Won: 146, Lost: 303, Tied:  51, Total: 500, Percent: 0.292000
+Predicted: Colgate -- INCORRECT
+#
+Team:          Colgate (9-6, 2014-05-03), Won: 260, Lost: 194, Tied:  46, Total: 500, Percent: 0.520000
+Team:         Syracuse (10-4, 2014-05-03), Won: 194, Lost: 260, Tied:  46, Total: 500, Percent: 0.388000
+Predicted: Colgate -- INCORRECT
+#
+Team:          Cornell (1-0, 2014-02-22), Won: 409, Lost:  73, Tied:  18, Total: 500, Percent: 0.818000
+Team:           Hobart (0-2, 2014-02-22), Won:  73, Lost: 409, Tied:  18, Total: 500, Percent: 0.146000
+Predicted: Cornell -- CORRECT
+#
+Team:          Cornell (1-0, 2014-03-01), Won: 459, Lost:  25, Tied:  16, Total: 500, Percent: 0.918000
+Team:         Michigan (2-2, 2014-03-01), Won:  25, Lost: 459, Tied:  16, Total: 500, Percent: 0.050000
+Predicted: Cornell -- CORRECT
+#
+Team:          Cornell (3-0, 2014-03-08), Won: 425, Lost:  53, Tied:  22, Total: 500, Percent: 0.850000
+Team:         Virginia (6-0, 2014-03-08), Won:  53, Lost: 425, Tied:  22, Total: 500, Percent: 0.106000
+Predicted: Cornell -- CORRECT
+#
+Team:          Cornell (5-0, 2014-03-15), Won: 445, Lost:  41, Tied:  14, Total: 500, Percent: 0.890000
+Team:             Yale (2-1, 2014-03-15), Won:  41, Lost: 445, Tied:  14, Total: 500, Percent: 0.082000
+Predicted: Cornell -- CORRECT
+#
+Team:          Cornell (6-0, 2014-03-22), Won: 430, Lost:  44, Tied:  26, Total: 500, Percent: 0.860000
+Team:             Penn (3-2, 2014-03-22), Won:  44, Lost: 430, Tied:  26, Total: 500, Percent: 0.088000
+Predicted: Cornell -- CORRECT
+#
+Team:          Cornell (8-0, 2014-03-29), Won: 383, Lost:  96, Tied:  21, Total: 500, Percent: 0.766000
+Team:        Dartmouth (1-4, 2014-03-29), Won:  96, Lost: 383, Tied:  21, Total: 500, Percent: 0.192000
+Predicted: Cornell -- CORRECT
+#
+Team:          Cornell (9-0, 2014-04-05), Won: 452, Lost:  37, Tied:  11, Total: 500, Percent: 0.904000
+Team:          Harvard (5-4, 2014-04-05), Won:  37, Lost: 452, Tied:  11, Total: 500, Percent: 0.074000
+Predicted: Cornell -- INCORRECT
+#
+Team:          Cornell (9-1, 2014-04-08), Won: 429, Lost:  50, Tied:  21, Total: 500, Percent: 0.858000
+Team:         Syracuse (6-3, 2014-04-08), Won:  50, Lost: 429, Tied:  21, Total: 500, Percent: 0.100000
+Predicted: Cornell -- INCORRECT
+#
+Team:          Cornell (9-1, 2014-04-12), Won: 396, Lost:  72, Tied:  32, Total: 500, Percent: 0.792000
+Team:          Hofstra (7-3, 2014-04-12), Won:  72, Lost: 396, Tied:  32, Total: 500, Percent: 0.144000
+Predicted: Cornell -- INCORRECT
+#
+Team:          Cornell (10-3, 2014-04-26), Won: 396, Lost:  72, Tied:  32, Total: 500, Percent: 0.792000
+Team:        Princeton (7-5, 2014-04-26), Won:  72, Lost: 396, Tied:  32, Total: 500, Percent: 0.144000
+Predicted: Cornell -- CORRECT
+#
+Team:          Cornell (11-3, 2014-05-02), Won: 395, Lost:  80, Tied:  25, Total: 500, Percent: 0.790000
+Team:             Penn (9-3, 2014-05-02), Won:  80, Lost: 395, Tied:  25, Total: 500, Percent: 0.160000
+Predicted: Cornell -- INCORRECT
+#
+Team:          Cornell (11-4, 2014-05-10), Won: 325, Lost: 131, Tied:  44, Total: 500, Percent: 0.650000
+Team:         Maryland (11-3, 2014-05-10), Won: 131, Lost: 325, Tied:  44, Total: 500, Percent: 0.262000
+Predicted: Cornell -- INCORRECT
+#
+Team:        Dartmouth (0-1, 2014-02-22), Won:   1, Lost: 498, Tied:   1, Total: 500, Percent: 0.002000
+Team:   North Carolina (3-0, 2014-02-22), Won: 498, Lost:   1, Tied:   1, Total: 500, Percent: 0.996000
+Predicted: North Carolina -- CORRECT
+#
+Team:        Dartmouth (0-1, 2014-02-25), Won:   1, Lost: 498, Tied:   1, Total: 500, Percent: 0.002000
+Team:          Vermont (0-2, 2014-02-25), Won: 498, Lost:   1, Tied:   1, Total: 500, Percent: 0.996000
+Predicted: Vermont -- CORRECT
+#
+Team:        Dartmouth (0-1, 2014-03-01), Won:   0, Lost: 500, Tied:   0, Total: 500, Percent: 0.000000
+Team:     Sacred Heart (0-2, 2014-03-01), Won: 500, Lost:   0, Tied:   0, Total: 500, Percent: 1.000000
+Predicted: Sacred Heart -- INCORRECT
+#
+Team:        Dartmouth (1-2, 2014-03-18), Won:  63, Lost: 418, Tied:  19, Total: 500, Percent: 0.126000
+Team:         Penn St. (3-3, 2014-03-18), Won: 418, Lost:  63, Tied:  19, Total: 500, Percent: 0.836000
+Predicted: Penn St. -- CORRECT
+#
+Team:        Dartmouth (1-2, 2014-03-22), Won:  65, Lost: 405, Tied:  30, Total: 500, Percent: 0.130000
+Team:          Harvard (4-2, 2014-03-22), Won: 405, Lost:  65, Tied:  30, Total: 500, Percent: 0.810000
+Predicted: Harvard -- CORRECT
+#
+Team:        Dartmouth (1-5, 2014-04-05), Won:  16, Lost: 477, Tied:   7, Total: 500, Percent: 0.032000
+Team:             Yale (4-3, 2014-04-05), Won: 477, Lost:  16, Tied:   7, Total: 500, Percent: 0.954000
+Predicted: Yale -- CORRECT
+#
+Team:        Dartmouth (1-6, 2014-04-08), Won:  13, Lost: 476, Tied:  11, Total: 500, Percent: 0.026000
+Team:         Hartford (4-7, 2014-04-08), Won: 476, Lost:  13, Tied:  11, Total: 500, Percent: 0.952000
+Predicted: Hartford -- CORRECT
+#
+Team:        Dartmouth (1-6, 2014-04-12), Won:  14, Lost: 481, Tied:   5, Total: 500, Percent: 0.028000
+Team:        Princeton (5-4, 2014-04-12), Won: 481, Lost:  14, Tied:   5, Total: 500, Percent: 0.962000
+Predicted: Princeton -- CORRECT
+#
+Team:        Dartmouth (1-8, 2014-04-19), Won:  16, Lost: 474, Tied:  10, Total: 500, Percent: 0.032000
+Team:             Penn (6-3, 2014-04-19), Won: 474, Lost:  16, Tied:  10, Total: 500, Percent: 0.948000
+Predicted: Penn -- CORRECT
+#
+Team:        Dartmouth (1-10, 2014-04-29), Won:   9, Lost: 484, Tied:   7, Total: 500, Percent: 0.018000
+Team:       Holy Cross (3-11, 2014-04-29), Won: 484, Lost:   9, Tied:   7, Total: 500, Percent: 0.968000
+Predicted: Holy Cross -- INCORRECT
+#
+Team:         Delaware (2-2, 2014-02-01), Won: 281, Lost: 177, Tied:  42, Total: 500, Percent: 0.562000
+Team:       High Point (2-2, 2014-02-01), Won: 177, Lost: 281, Tied:  42, Total: 500, Percent: 0.354000
+Predicted: Delaware -- CORRECT
+#
+Team:         Delaware (2-2, 2014-02-15), Won: 409, Lost:  69, Tied:  22, Total: 500, Percent: 0.818000
+Team:        Fairfield (2-0, 2014-02-15), Won:  69, Lost: 409, Tied:  22, Total: 500, Percent: 0.138000
+Predicted: Delaware -- INCORRECT
+#
+Team:         Delaware (2-2, 2014-02-22), Won: 234, Lost: 230, Tied:  36, Total: 500, Percent: 0.468000
+Team:   Mt. St. Mary's (0-3, 2014-02-22), Won: 230, Lost: 234, Tied:  36, Total: 500, Percent: 0.460000
+Predicted: Delaware -- CORRECT
+#
+Team:         Delaware (2-2, 2014-03-01), Won: 380, Lost:  93, Tied:  27, Total: 500, Percent: 0.760000
+Team:        Villanova (0-1, 2014-03-01), Won:  93, Lost: 380, Tied:  27, Total: 500, Percent: 0.186000
+Predicted: Delaware -- CORRECT
+#
+Team:         Delaware (3-2, 2014-03-04), Won: 232, Lost: 222, Tied:  46, Total: 500, Percent: 0.464000
+Team:        Lafayette (1-2, 2014-03-04), Won: 222, Lost: 232, Tied:  46, Total: 500, Percent: 0.444000
+Predicted: Delaware -- CORRECT
+#
+Team:         Delaware (5-2, 2014-03-15), Won: 295, Lost: 156, Tied:  49, Total: 500, Percent: 0.590000
+Team:          Hofstra (3-2, 2014-03-15), Won: 156, Lost: 295, Tied:  49, Total: 500, Percent: 0.312000
+Predicted: Delaware -- INCORRECT
+#
+Team:         Delaware (5-3, 2014-03-22), Won: 331, Lost: 134, Tied:  35, Total: 500, Percent: 0.662000
+Team:           Towson (5-2, 2014-03-22), Won: 134, Lost: 331, Tied:  35, Total: 500, Percent: 0.268000
+Predicted: Delaware -- INCORRECT
+#
+Team:         Delaware (5-4, 2014-03-29), Won: 386, Lost:  86, Tied:  28, Total: 500, Percent: 0.772000
+Team:           Drexel (4-4, 2014-03-29), Won:  86, Lost: 386, Tied:  28, Total: 500, Percent: 0.172000
+Predicted: Delaware -- INCORRECT
+#
+Team:         Delaware (5-5, 2014-04-01), Won: 183, Lost: 263, Tied:  54, Total: 500, Percent: 0.366000
+Team:        Manhattan (2-7, 2014-04-01), Won: 263, Lost: 183, Tied:  54, Total: 500, Percent: 0.526000
+Predicted: Manhattan -- INCORRECT
+#
+Team:         Delaware (6-6, 2014-04-06), Won: 290, Lost: 164, Tied:  46, Total: 500, Percent: 0.580000
+Team:         Ohio St. (4-6, 2014-04-06), Won: 164, Lost: 290, Tied:  46, Total: 500, Percent: 0.328000
+Predicted: Delaware -- INCORRECT
+#
+Team:         Delaware (6-6, 2014-04-12), Won: 260, Lost: 194, Tied:  46, Total: 500, Percent: 0.520000
+Team:   Saint Joseph's (8-3, 2014-04-12), Won: 194, Lost: 260, Tied:  46, Total: 500, Percent: 0.388000
+Predicted: Delaware -- INCORRECT
+#
+Team:         Delaware (6-7, 2014-04-19), Won: 315, Lost: 154, Tied:  31, Total: 500, Percent: 0.630000
+Team:         Penn St. (5-6, 2014-04-19), Won: 154, Lost: 315, Tied:  31, Total: 500, Percent: 0.308000
+Predicted: Delaware -- INCORRECT
+#
+Team:         Delaware (6-8, 2014-04-25), Won: 257, Lost: 193, Tied:  50, Total: 500, Percent: 0.514000
+Team:    Massachusetts (7-5, 2014-04-25), Won: 193, Lost: 257, Tied:  50, Total: 500, Percent: 0.386000
+Predicted: Delaware -- CORRECT
+#
+Team:         Delaware (7-8, 2014-04-30), Won: 265, Lost: 191, Tied:  44, Total: 500, Percent: 0.530000
+Team:          Hofstra (10-4, 2014-04-30), Won: 191, Lost: 265, Tied:  44, Total: 500, Percent: 0.382000
+Predicted: Delaware -- INCORRECT
+#
+Team:           Denver (3-1, 2014-02-15), Won: 483, Lost:  11, Tied:   6, Total: 500, Percent: 0.966000
+Team:             Duke (4-0, 2014-02-15), Won:  11, Lost: 483, Tied:   6, Total: 500, Percent: 0.022000
+Predicted: Denver -- INCORRECT
+#
+Team:           Denver (3-1, 2014-02-22), Won: 435, Lost:  43, Tied:  22, Total: 500, Percent: 0.870000
+Team:           Marist (1-2, 2014-02-22), Won:  43, Lost: 435, Tied:  22, Total: 500, Percent: 0.086000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (3-1, 2014-03-01), Won: 434, Lost:  44, Tied:  22, Total: 500, Percent: 0.868000
+Team:             Penn (0-1, 2014-03-01), Won:  44, Lost: 434, Tied:  22, Total: 500, Percent: 0.088000
+Predicted: Denver -- INCORRECT
+#
+Team:           Denver (3-2, 2014-03-08), Won: 435, Lost:  43, Tied:  22, Total: 500, Percent: 0.870000
+Team:       Notre Dame (2-1, 2014-03-08), Won:  43, Lost: 435, Tied:  22, Total: 500, Percent: 0.086000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (4-2, 2014-03-10), Won: 412, Lost:  62, Tied:  26, Total: 500, Percent: 0.824000
+Team:         Penn St. (3-1, 2014-03-10), Won:  62, Lost: 412, Tied:  26, Total: 500, Percent: 0.124000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (4-2, 2014-03-15), Won: 382, Lost:  92, Tied:  26, Total: 500, Percent: 0.764000
+Team:         Ohio St. (1-4, 2014-03-15), Won:  92, Lost: 382, Tied:  26, Total: 500, Percent: 0.184000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (6-2, 2014-03-22), Won: 416, Lost:  56, Tied:  28, Total: 500, Percent: 0.832000
+Team:          Rutgers (5-2, 2014-03-22), Won:  56, Lost: 416, Tied:  28, Total: 500, Percent: 0.112000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (7-2, 2014-03-29), Won: 388, Lost:  84, Tied:  28, Total: 500, Percent: 0.776000
+Team:       Georgetown (3-5, 2014-03-29), Won:  84, Lost: 388, Tied:  28, Total: 500, Percent: 0.168000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (8-2, 2014-04-04), Won: 395, Lost:  73, Tied:  32, Total: 500, Percent: 0.790000
+Team:        Villanova (4-5, 2014-04-04), Won:  73, Lost: 395, Tied:  32, Total: 500, Percent: 0.146000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (9-2, 2014-04-12), Won: 378, Lost:  89, Tied:  33, Total: 500, Percent: 0.756000
+Team:  St. John's (NY) (6-5, 2014-04-12), Won:  89, Lost: 378, Tied:  33, Total: 500, Percent: 0.178000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (10-2, 2014-04-19), Won: 378, Lost:  88, Tied:  34, Total: 500, Percent: 0.756000
+Team:       Providence (3-10, 2014-04-19), Won:  88, Lost: 378, Tied:  34, Total: 500, Percent: 0.176000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (11-2, 2014-04-26), Won: 384, Lost:  83, Tied:  33, Total: 500, Percent: 0.768000
+Team:        Marquette (6-8, 2014-04-26), Won:  83, Lost: 384, Tied:  33, Total: 500, Percent: 0.166000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (12-2, 2014-05-01), Won: 465, Lost:  25, Tied:  10, Total: 500, Percent: 0.930000
+Team:          Rutgers (8-7, 2014-05-01), Won:  25, Lost: 465, Tied:  10, Total: 500, Percent: 0.050000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (12-2, 2014-05-03), Won: 427, Lost:  53, Tied:  20, Total: 500, Percent: 0.854000
+Team:        Villanova (5-9, 2014-05-03), Won:  53, Lost: 427, Tied:  20, Total: 500, Percent: 0.106000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (14-2, 2014-05-10), Won: 451, Lost:  37, Tied:  12, Total: 500, Percent: 0.902000
+Team:   North Carolina (10-4, 2014-05-10), Won:  37, Lost: 451, Tied:  12, Total: 500, Percent: 0.074000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (16-2, 2014-05-18), Won: 475, Lost:  12, Tied:  13, Total: 500, Percent: 0.950000
+Team:           Drexel (13-5, 2014-05-18), Won:  12, Lost: 475, Tied:  13, Total: 500, Percent: 0.024000
+Predicted: Denver -- CORRECT
+#
+Team:           Denver (16-3, 2014-05-24), Won: 482, Lost:  12, Tied:   6, Total: 500, Percent: 0.964000
+Team:             Duke (16-3, 2014-05-24), Won:  12, Lost: 482, Tied:   6, Total: 500, Percent: 0.024000
+Predicted: Denver -- INCORRECT
+#
+Team:          Detroit (1-2, 2014-02-16), Won: 246, Lost: 206, Tied:  48, Total: 500, Percent: 0.492000
+Team:           Mercer (2-2, 2014-02-16), Won: 206, Lost: 246, Tied:  48, Total: 500, Percent: 0.412000
+Predicted: Detroit -- CORRECT
+#
+Team:          Detroit (1-2, 2014-02-19), Won: 289, Lost: 162, Tied:  49, Total: 500, Percent: 0.578000
+Team:         Michigan (2-2, 2014-02-19), Won: 162, Lost: 289, Tied:  49, Total: 500, Percent: 0.324000
+Predicted: Detroit -- INCORRECT
+#
+Team:          Detroit (1-2, 2014-02-23), Won: 265, Lost: 194, Tied:  41, Total: 500, Percent: 0.530000
+Team:    Robert Morris (1-1, 2014-02-23), Won: 194, Lost: 265, Tied:  41, Total: 500, Percent: 0.388000
+Predicted: Detroit -- INCORRECT
+#
+Team:          Detroit (1-2, 2014-03-01), Won: 210, Lost: 253, Tied:  37, Total: 500, Percent: 0.420000
+Team:              VMI (0-3, 2014-03-01), Won: 253, Lost: 210, Tied:  37, Total: 500, Percent: 0.506000
+Predicted: VMI -- INCORRECT
+#
+Team:          Detroit (2-2, 2014-03-08), Won: 184, Lost: 256, Tied:  60, Total: 500, Percent: 0.368000
+Team:           Wagner (1-2, 2014-03-08), Won: 256, Lost: 184, Tied:  60, Total: 500, Percent: 0.512000
+Predicted: Wagner -- INCORRECT
+#
+Team:          Detroit (3-3, 2014-03-15), Won: 145, Lost: 318, Tied:  37, Total: 500, Percent: 0.290000
+Team:        Marquette (1-4, 2014-03-15), Won: 318, Lost: 145, Tied:  37, Total: 500, Percent: 0.636000
+Predicted: Marquette -- CORRECT
+#
+Team:          Detroit (4-4, 2014-03-29), Won: 242, Lost: 213, Tied:  45, Total: 500, Percent: 0.484000
+Team:       Quinnipiac (2-4, 2014-03-29), Won: 213, Lost: 242, Tied:  45, Total: 500, Percent: 0.426000
+Predicted: Detroit -- INCORRECT
+#
+Team:          Detroit (4-5, 2014-04-05), Won: 250, Lost: 209, Tied:  41, Total: 500, Percent: 0.500000
+Team:           Marist (3-6, 2014-04-05), Won: 209, Lost: 250, Tied:  41, Total: 500, Percent: 0.418000
+Predicted: Detroit -- CORRECT
+#
+Team:          Detroit (5-5, 2014-04-12), Won: 262, Lost: 196, Tied:  42, Total: 500, Percent: 0.524000
+Team:            Siena (6-4, 2014-04-12), Won: 196, Lost: 262, Tied:  42, Total: 500, Percent: 0.392000
+Predicted: Detroit -- INCORRECT
+#
+Team:          Detroit (5-6, 2014-04-19), Won: 121, Lost: 332, Tied:  47, Total: 500, Percent: 0.242000
+Team:        Manhattan (4-9, 2014-04-19), Won: 332, Lost: 121, Tied:  47, Total: 500, Percent: 0.664000
+Predicted: Manhattan -- CORRECT
+#
+Team:          Detroit (5-7, 2014-04-26), Won: 112, Lost: 354, Tied:  34, Total: 500, Percent: 0.224000
+Team:         Monmouth (0-12, 2014-04-26), Won: 354, Lost: 112, Tied:  34, Total: 500, Percent: 0.708000
+Predicted: Monmouth -- INCORRECT
+#
+Team:          Detroit (6-7, 2014-05-01), Won: 237, Lost: 222, Tied:  41, Total: 500, Percent: 0.474000
+Team:           Marist (5-8, 2014-05-01), Won: 222, Lost: 237, Tied:  41, Total: 500, Percent: 0.444000
+Predicted: Detroit -- INCORRECT
+#
+Team:           Drexel (1-1, 2014-02-16), Won: 302, Lost: 159, Tied:  39, Total: 500, Percent: 0.604000
+Team:         Virginia (4-0, 2014-02-16), Won: 159, Lost: 302, Tied:  39, Total: 500, Percent: 0.318000
+Predicted: Drexel -- INCORRECT
+#
+Team:           Drexel (1-1, 2014-02-25), Won: 354, Lost: 109, Tied:  37, Total: 500, Percent: 0.708000
+Team:        Villanova (0-1, 2014-02-25), Won: 109, Lost: 354, Tied:  37, Total: 500, Percent: 0.218000
+Predicted: Drexel -- INCORRECT
+#
+Team:           Drexel (1-1, 2014-03-01), Won: 330, Lost: 135, Tied:  35, Total: 500, Percent: 0.660000
+Team:    Robert Morris (1-1, 2014-03-01), Won: 135, Lost: 330, Tied:  35, Total: 500, Percent: 0.270000
+Predicted: Drexel -- CORRECT
+#
+Team:           Drexel (2-2, 2014-03-04), Won: 169, Lost: 294, Tied:  37, Total: 500, Percent: 0.338000
+Team:  St. John's (NY) (2-1, 2014-03-04), Won: 294, Lost: 169, Tied:  37, Total: 500, Percent: 0.588000
+Predicted: St. John's (NY) -- INCORRECT
+#
+Team:           Drexel (3-3, 2014-03-15), Won: 129, Lost: 330, Tied:  41, Total: 500, Percent: 0.258000
+Team:   Mt. St. Mary's (0-6, 2014-03-15), Won: 330, Lost: 129, Tied:  41, Total: 500, Percent: 0.660000
+Predicted: Mt. St. Mary's -- INCORRECT
+#
+Team:           Drexel (4-3, 2014-03-22), Won: 210, Lost: 254, Tied:  36, Total: 500, Percent: 0.420000
+Team:          Hofstra (4-2, 2014-03-22), Won: 254, Lost: 210, Tied:  36, Total: 500, Percent: 0.508000
+Predicted: Hofstra -- CORRECT
+#
+Team:           Drexel (4-4, 2014-03-25), Won: 271, Lost: 186, Tied:  43, Total: 500, Percent: 0.542000
+Team:   Saint Joseph's (6-2, 2014-03-25), Won: 186, Lost: 271, Tied:  43, Total: 500, Percent: 0.372000
+Predicted: Drexel -- CORRECT
+#
+Team:           Drexel (6-4, 2014-04-05), Won: 355, Lost: 100, Tied:  45, Total: 500, Percent: 0.710000
+Team:         Penn St. (4-5, 2014-04-05), Won: 100, Lost: 355, Tied:  45, Total: 500, Percent: 0.200000
+Predicted: Drexel -- CORRECT
+#
+Team:           Drexel (7-4, 2014-04-12), Won: 222, Lost: 229, Tied:  49, Total: 500, Percent: 0.444000
+Team:    Massachusetts (7-3, 2014-04-12), Won: 229, Lost: 222, Tied:  49, Total: 500, Percent: 0.458000
+Predicted: Massachusetts -- INCORRECT
+#
+Team:           Drexel (8-4, 2014-04-19), Won: 204, Lost: 247, Tied:  49, Total: 500, Percent: 0.408000
+Team:           Towson (8-4, 2014-04-19), Won: 247, Lost: 204, Tied:  49, Total: 500, Percent: 0.494000
+Predicted: Towson -- INCORRECT
+#
+Team:           Drexel (9-4, 2014-04-25), Won: 312, Lost: 152, Tied:  36, Total: 500, Percent: 0.624000
+Team:       High Point (8-5, 2014-04-25), Won: 152, Lost: 312, Tied:  36, Total: 500, Percent: 0.304000
+Predicted: Drexel -- CORRECT
+#
+Team:           Drexel (10-4, 2014-05-01), Won: 221, Lost: 226, Tied:  53, Total: 500, Percent: 0.442000
+Team:           Towson (8-6, 2014-05-01), Won: 226, Lost: 221, Tied:  53, Total: 500, Percent: 0.452000
+Predicted: Towson -- INCORRECT
+#
+Team:           Drexel (10-4, 2014-05-03), Won: 268, Lost: 197, Tied:  35, Total: 500, Percent: 0.536000
+Team:          Hofstra (10-4, 2014-05-03), Won: 197, Lost: 268, Tied:  35, Total: 500, Percent: 0.394000
+Predicted: Drexel -- CORRECT
+#
+Team:           Drexel (13-4, 2014-05-11), Won: 305, Lost: 140, Tied:  55, Total: 500, Percent: 0.610000
+Team:             Penn (11-4, 2014-05-11), Won: 140, Lost: 305, Tied:  55, Total: 500, Percent: 0.280000
+Predicted: Drexel -- CORRECT
+#
+Team:             Duke (4-0, 2014-02-08), Won: 359, Lost: 113, Tied:  28, Total: 500, Percent: 0.718000
+Team:     Jacksonville (0-3, 2014-02-08), Won: 113, Lost: 359, Tied:  28, Total: 500, Percent: 0.226000
+Predicted: Duke -- CORRECT
+#
+Team:             Duke (4-0, 2014-02-21), Won: 354, Lost: 114, Tied:  32, Total: 500, Percent: 0.708000
+Team:             Penn (0-1, 2014-02-21), Won: 114, Lost: 354, Tied:  32, Total: 500, Percent: 0.228000
+Predicted: Duke -- CORRECT
+#
+Team:             Duke (4-0, 2014-02-23), Won: 420, Lost:  60, Tied:  20, Total: 500, Percent: 0.840000
+Team:      Stony Brook (1-2, 2014-02-23), Won:  60, Lost: 420, Tied:  20, Total: 500, Percent: 0.120000
+Predicted: Duke -- CORRECT
+#
+Team:             Duke (4-0, 2014-03-01), Won: 422, Lost:  66, Tied:  12, Total: 500, Percent: 0.844000
+Team:         Maryland (3-0, 2014-03-01), Won:  66, Lost: 422, Tied:  12, Total: 500, Percent: 0.132000
+Predicted: Duke -- INCORRECT
+#
+Team:             Duke (4-2, 2014-03-09), Won: 278, Lost: 192, Tied:  30, Total: 500, Percent: 0.556000
+Team:  Loyola Maryland (5-1, 2014-03-09), Won: 192, Lost: 278, Tied:  30, Total: 500, Percent: 0.384000
+Predicted: Duke -- INCORRECT
+#
+Team:             Duke (4-2, 2014-03-11), Won: 188, Lost: 263, Tied:  49, Total: 500, Percent: 0.376000
+Team:        Marquette (1-4, 2014-03-11), Won: 263, Lost: 188, Tied:  49, Total: 500, Percent: 0.526000
+Predicted: Marquette -- INCORRECT
+#
+Team:             Duke (4-2, 2014-03-15), Won: 294, Lost: 162, Tied:  44, Total: 500, Percent: 0.588000
+Team:   North Carolina (4-1, 2014-03-15), Won: 162, Lost: 294, Tied:  44, Total: 500, Percent: 0.324000
+Predicted: Duke -- CORRECT
+#
+Team:             Duke (6-2, 2014-03-18), Won: 257, Lost: 192, Tied:  51, Total: 500, Percent: 0.514000
+Team:           Furman (0-7, 2014-03-18), Won: 192, Lost: 257, Tied:  51, Total: 500, Percent: 0.384000
+Predicted: Duke -- CORRECT
+#
+Team:             Duke (8-2, 2014-03-23), Won: 432, Lost:  46, Tied:  22, Total: 500, Percent: 0.864000
+Team:         Syracuse (4-3, 2014-03-23), Won:  46, Lost: 432, Tied:  22, Total: 500, Percent: 0.092000
+Predicted: Duke -- CORRECT
+#
+Team:             Duke (8-2, 2014-03-29), Won: 414, Lost:  57, Tied:  29, Total: 500, Percent: 0.828000
+Team:          Harvard (5-3, 2014-03-29), Won:  57, Lost: 414, Tied:  29, Total: 500, Percent: 0.114000
+Predicted: Duke -- CORRECT
+#
+Team:             Duke (9-2, 2014-04-05), Won: 422, Lost:  55, Tied:  23, Total: 500, Percent: 0.844000
+Team:       Notre Dame (4-3, 2014-04-05), Won:  55, Lost: 422, Tied:  23, Total: 500, Percent: 0.110000
+Predicted: Duke -- CORRECT
+#
+Team:             Duke (10-2, 2014-04-11), Won: 442, Lost:  39, Tied:  19, Total: 500, Percent: 0.884000
+Team:         Virginia (8-4, 2014-04-11), Won:  39, Lost: 442, Tied:  19, Total: 500, Percent: 0.078000
+Predicted: Duke -- CORRECT
+#
+Team:             Duke (11-2, 2014-04-19), Won: 446, Lost:  37, Tied:  17, Total: 500, Percent: 0.892000
+Team:          Rutgers (7-6, 2014-04-19), Won:  37, Lost: 446, Tied:  17, Total: 500, Percent: 0.074000
+Predicted: Duke -- CORRECT
+#
+Team:             Duke (12-2, 2014-04-25), Won: 431, Lost:  51, Tied:  18, Total: 500, Percent: 0.862000
+Team:         Syracuse (9-3, 2014-04-25), Won:  51, Lost: 431, Tied:  18, Total: 500, Percent: 0.102000
+Predicted: Duke -- INCORRECT
+#
+Team:             Duke (15-3, 2014-05-18), Won: 404, Lost:  66, Tied:  30, Total: 500, Percent: 0.808000
+Team:    Johns Hopkins (11-5, 2014-05-18), Won:  66, Lost: 404, Tied:  30, Total: 500, Percent: 0.132000
+Predicted: Duke -- CORRECT
+#
+Team:             Duke (17-3, 2014-05-26), Won: 370, Lost: 100, Tied:  30, Total: 500, Percent: 0.740000
+Team:       Notre Dame (12-6, 2014-05-26), Won: 100, Lost: 370, Tied:  30, Total: 500, Percent: 0.200000
+Predicted: Duke -- CORRECT
+#
+Team:        Fairfield (2-0, 2014-02-22), Won: 497, Lost:   1, Tied:   2, Total: 500, Percent: 0.994000
+Team:        Manhattan (0-3, 2014-02-22), Won:   1, Lost: 497, Tied:   2, Total: 500, Percent: 0.002000
+Predicted: Fairfield -- CORRECT
+#
+Team:        Fairfield (2-0, 2014-02-25), Won: 500, Lost:   0, Tied:   0, Total: 500, Percent: 1.000000
+Team:          Hofstra (0-2, 2014-02-25), Won:   0, Lost: 500, Tied:   0, Total: 500, Percent: 0.000000
+Predicted: Fairfield -- INCORRECT
+#
+Team:        Fairfield (2-1, 2014-03-04), Won: 495, Lost:   3, Tied:   2, Total: 500, Percent: 0.990000
+Team:       Providence (2-1, 2014-03-04), Won:   3, Lost: 495, Tied:   2, Total: 500, Percent: 0.006000
+Predicted: Fairfield -- INCORRECT
+#
+Team:        Fairfield (2-1, 2014-03-08), Won: 493, Lost:   6, Tied:   1, Total: 500, Percent: 0.986000
+Team:             Yale (2-0, 2014-03-08), Won:   6, Lost: 493, Tied:   1, Total: 500, Percent: 0.012000
+Predicted: Fairfield -- CORRECT
+#
+Team:        Fairfield (3-2, 2014-03-15), Won: 443, Lost:  38, Tied:  19, Total: 500, Percent: 0.886000
+Team:      Stony Brook (2-3, 2014-03-15), Won:  38, Lost: 443, Tied:  19, Total: 500, Percent: 0.076000
+Predicted: Fairfield -- CORRECT
+#
+Team:        Fairfield (4-2, 2014-03-18), Won: 387, Lost:  92, Tied:  21, Total: 500, Percent: 0.774000
+Team:    Massachusetts (6-1, 2014-03-18), Won:  92, Lost: 387, Tied:  21, Total: 500, Percent: 0.184000
+Predicted: Fairfield -- CORRECT
+#
+Team:        Fairfield (4-2, 2014-03-22), Won: 375, Lost: 102, Tied:  23, Total: 500, Percent: 0.750000
+Team:       Holy Cross (1-6, 2014-03-22), Won: 102, Lost: 375, Tied:  23, Total: 500, Percent: 0.204000
+Predicted: Fairfield -- CORRECT
+#
+Team:        Fairfield (7-2, 2014-04-05), Won: 428, Lost:  54, Tied:  18, Total: 500, Percent: 0.856000
+Team:         Michigan (4-7, 2014-04-05), Won:  54, Lost: 428, Tied:  18, Total: 500, Percent: 0.108000
+Predicted: Fairfield -- CORRECT
+#
+Team:        Fairfield (9-3, 2014-04-15), Won: 367, Lost:  96, Tied:  37, Total: 500, Percent: 0.734000
+Team:       Quinnipiac (5-5, 2014-04-15), Won:  96, Lost: 367, Tied:  37, Total: 500, Percent: 0.192000
+Predicted: Fairfield -- CORRECT
+#
+Team:        Fairfield (10-3, 2014-04-26), Won: 387, Lost:  83, Tied:  30, Total: 500, Percent: 0.774000
+Team:         Ohio St. (6-6, 2014-04-26), Won:  83, Lost: 387, Tied:  30, Total: 500, Percent: 0.166000
+Predicted: Fairfield -- CORRECT
+#
+Team:        Fairfield (11-3, 2014-05-01), Won: 384, Lost:  90, Tied:  26, Total: 500, Percent: 0.768000
+Team:         Michigan (5-10, 2014-05-01), Won:  90, Lost: 384, Tied:  26, Total: 500, Percent: 0.180000
+Predicted: Fairfield -- CORRECT
+#
+Team:           Furman (0-4, 2014-02-01), Won:   8, Lost: 485, Tied:   7, Total: 500, Percent: 0.016000
+Team:           Lehigh (4-0, 2014-02-01), Won: 485, Lost:   8, Tied:   7, Total: 500, Percent: 0.970000
+Predicted: Lehigh -- CORRECT
+#
+Team:           Furman (0-4, 2014-02-09), Won:   7, Lost: 482, Tied:  11, Total: 500, Percent: 0.014000
+Team:   North Carolina (3-0, 2014-02-09), Won: 482, Lost:   7, Tied:  11, Total: 500, Percent: 0.964000
+Predicted: North Carolina -- CORRECT
+#
+Team:           Furman (0-5, 2014-03-08), Won:  16, Lost: 470, Tied:  14, Total: 500, Percent: 0.032000
+Team:         Michigan (2-3, 2014-03-08), Won: 470, Lost:  16, Tied:  14, Total: 500, Percent: 0.940000
+Predicted: Michigan -- CORRECT
+#
+Team:           Furman (0-6, 2014-03-11), Won:  14, Lost: 475, Tied:  11, Total: 500, Percent: 0.028000
+Team:       Georgetown (2-3, 2014-03-11), Won: 475, Lost:  14, Tied:  11, Total: 500, Percent: 0.950000
+Predicted: Georgetown -- CORRECT
+#
+Team:           Furman (0-8, 2014-03-29), Won:   2, Lost: 495, Tied:   3, Total: 500, Percent: 0.004000
+Team:       High Point (6-3, 2014-03-29), Won: 495, Lost:   2, Tied:   3, Total: 500, Percent: 0.990000
+Predicted: High Point -- CORRECT
+#
+Team:           Furman (0-9, 2014-04-05), Won:   3, Lost: 492, Tied:   5, Total: 500, Percent: 0.006000
+Team:         Richmond (2-8, 2014-04-05), Won: 492, Lost:   3, Tied:   5, Total: 500, Percent: 0.984000
+Predicted: Richmond -- CORRECT
+#
+Team:           Furman (0-10, 2014-04-12), Won:  10, Lost: 481, Tied:   9, Total: 500, Percent: 0.020000
+Team:              VMI (1-10, 2014-04-12), Won: 481, Lost:  10, Tied:   9, Total: 500, Percent: 0.962000
+Predicted: VMI -- INCORRECT
+#
+Team:           Furman (1-10, 2014-04-19), Won:  30, Lost: 461, Tied:   9, Total: 500, Percent: 0.060000
+Team:           Mercer (6-5, 2014-04-19), Won: 461, Lost:  30, Tied:   9, Total: 500, Percent: 0.922000
+Predicted: Mercer -- CORRECT
+#
+Team:           Furman (1-11, 2014-04-26), Won:  22, Lost: 457, Tied:  21, Total: 500, Percent: 0.044000
+Team:     Jacksonville (3-8, 2014-04-26), Won: 457, Lost:  22, Tied:  21, Total: 500, Percent: 0.914000
+Predicted: Jacksonville -- CORRECT
+#
+Team:       Georgetown (2-1, 2014-02-12), Won: 317, Lost: 134, Tied:  49, Total: 500, Percent: 0.634000
+Team:   Mt. St. Mary's (0-3, 2014-02-12), Won: 134, Lost: 317, Tied:  49, Total: 500, Percent: 0.268000
+Predicted: Georgetown -- CORRECT
+#
+Team:       Georgetown (2-1, 2014-02-15), Won: 394, Lost:  67, Tied:  39, Total: 500, Percent: 0.788000
+Team:             Navy (1-2, 2014-02-15), Won:  67, Lost: 394, Tied:  39, Total: 500, Percent: 0.134000
+Predicted: Georgetown -- CORRECT
+#
+Team:       Georgetown (2-1, 2014-02-22), Won: 398, Lost:  73, Tied:  29, Total: 500, Percent: 0.796000
+Team:           Towson (2-2, 2014-02-22), Won:  73, Lost: 398, Tied:  29, Total: 500, Percent: 0.146000
+Predicted: Georgetown -- INCORRECT
+#
+Team:       Georgetown (2-1, 2014-03-01), Won: 378, Lost:  92, Tied:  30, Total: 500, Percent: 0.756000
+Team:          Hofstra (0-2, 2014-03-01), Won:  92, Lost: 378, Tied:  30, Total: 500, Percent: 0.184000
+Predicted: Georgetown -- INCORRECT
+#
+Team:       Georgetown (2-2, 2014-03-08), Won: 311, Lost: 139, Tied:  50, Total: 500, Percent: 0.622000
+Team:          Harvard (1-2, 2014-03-08), Won: 139, Lost: 311, Tied:  50, Total: 500, Percent: 0.278000
+Predicted: Georgetown -- INCORRECT
+#
+Team:       Georgetown (2-3, 2014-03-15), Won: 203, Lost: 257, Tied:  40, Total: 500, Percent: 0.406000
+Team:  St. John's (NY) (2-3, 2014-03-15), Won: 257, Lost: 203, Tied:  40, Total: 500, Percent: 0.514000
+Predicted: St. John's (NY) -- CORRECT
+#
+Team:       Georgetown (3-4, 2014-03-19), Won: 270, Lost: 182, Tied:  48, Total: 500, Percent: 0.540000
+Team:  Loyola Maryland (6-1, 2014-03-19), Won: 182, Lost: 270, Tied:  48, Total: 500, Percent: 0.364000
+Predicted: Georgetown -- INCORRECT
+#
+Team:       Georgetown (3-5, 2014-03-26), Won: 207, Lost: 247, Tied:  46, Total: 500, Percent: 0.414000
+Team:        Villanova (2-5, 2014-03-26), Won: 247, Lost: 207, Tied:  46, Total: 500, Percent: 0.494000
+Predicted: Villanova -- CORRECT
+#
+Team:       Georgetown (3-7, 2014-04-05), Won: 161, Lost: 296, Tied:  43, Total: 500, Percent: 0.322000
+Team:       Providence (3-7, 2014-04-05), Won: 296, Lost: 161, Tied:  43, Total: 500, Percent: 0.592000
+Predicted: Providence -- INCORRECT
+#
+Team:       Georgetown (4-7, 2014-04-12), Won: 173, Lost: 278, Tied:  49, Total: 500, Percent: 0.346000
+Team:           Lehigh (9-3, 2014-04-12), Won: 278, Lost: 173, Tied:  49, Total: 500, Percent: 0.556000
+Predicted: Lehigh -- CORRECT
+#
+Team:       Georgetown (4-8, 2014-04-19), Won:  99, Lost: 370, Tied:  31, Total: 500, Percent: 0.198000
+Team:        Marquette (5-8, 2014-04-19), Won: 370, Lost:  99, Tied:  31, Total: 500, Percent: 0.740000
+Predicted: Marquette -- CORRECT
+#
+Team:       Georgetown (4-9, 2014-04-26), Won: 170, Lost: 279, Tied:  51, Total: 500, Percent: 0.340000
+Team:          Rutgers (7-7, 2014-04-26), Won: 279, Lost: 170, Tied:  51, Total: 500, Percent: 0.558000
+Predicted: Rutgers -- CORRECT
+#
+Team:         Hartford (1-1, 2014-02-16), Won: 273, Lost: 183, Tied:  44, Total: 500, Percent: 0.546000
+Team:         Richmond (0-3, 2014-02-16), Won: 183, Lost: 273, Tied:  44, Total: 500, Percent: 0.366000
+Predicted: Hartford -- CORRECT
+#
+Team:         Hartford (1-1, 2014-03-01), Won: 190, Lost: 258, Tied:  52, Total: 500, Percent: 0.380000
+Team:        Manhattan (0-3, 2014-03-01), Won: 258, Lost: 190, Tied:  52, Total: 500, Percent: 0.516000
+Predicted: Manhattan -- INCORRECT
+#
+Team:         Hartford (2-1, 2014-03-08), Won: 399, Lost:  71, Tied:  30, Total: 500, Percent: 0.798000
+Team:            Siena (2-2, 2014-03-08), Won:  71, Lost: 399, Tied:  30, Total: 500, Percent: 0.142000
+Predicted: Hartford -- INCORRECT
+#
+Team:         Hartford (2-3, 2014-03-12), Won: 229, Lost: 212, Tied:  59, Total: 500, Percent: 0.458000
+Team:       Quinnipiac (1-2, 2014-03-12), Won: 212, Lost: 229, Tied:  59, Total: 500, Percent: 0.424000
+Predicted: Hartford -- CORRECT
+#
+Team:         Hartford (2-3, 2014-03-15), Won: 181, Lost: 272, Tied:  47, Total: 500, Percent: 0.362000
+Team:     Sacred Heart (1-3, 2014-03-15), Won: 272, Lost: 181, Tied:  47, Total: 500, Percent: 0.544000
+Predicted: Sacred Heart -- INCORRECT
+#
+Team:         Hartford (4-3, 2014-03-22), Won: 265, Lost: 185, Tied:  50, Total: 500, Percent: 0.530000
+Team:    Massachusetts (6-1, 2014-03-22), Won: 185, Lost: 265, Tied:  50, Total: 500, Percent: 0.370000
+Predicted: Hartford -- INCORRECT
+#
+Team:         Hartford (4-4, 2014-03-25), Won: 199, Lost: 248, Tied:  53, Total: 500, Percent: 0.398000
+Team:       Holy Cross (1-7, 2014-03-25), Won: 248, Lost: 199, Tied:  53, Total: 500, Percent: 0.496000
+Predicted: Holy Cross -- CORRECT
+#
+Team:         Hartford (4-7, 2014-04-12), Won: 136, Lost: 325, Tied:  39, Total: 500, Percent: 0.272000
+Team:             UMBC (5-5, 2014-04-12), Won: 325, Lost: 136, Tied:  39, Total: 500, Percent: 0.650000
+Predicted: UMBC -- CORRECT
+#
+Team:         Hartford (5-8, 2014-04-19), Won: 192, Lost: 262, Tied:  46, Total: 500, Percent: 0.384000
+Team:          Vermont (5-6, 2014-04-19), Won: 262, Lost: 192, Tied:  46, Total: 500, Percent: 0.524000
+Predicted: Vermont -- INCORRECT
+#
+Team:         Hartford (6-8, 2014-04-25), Won: 197, Lost: 255, Tied:  48, Total: 500, Percent: 0.394000
+Team:      Stony Brook (5-9, 2014-04-25), Won: 255, Lost: 197, Tied:  48, Total: 500, Percent: 0.510000
+Predicted: Stony Brook -- CORRECT
+#
+Team:          Harvard (0-1, 2014-02-22), Won: 273, Lost: 181, Tied:  46, Total: 500, Percent: 0.546000
+Team:    Massachusetts (3-0, 2014-02-22), Won: 181, Lost: 273, Tied:  46, Total: 500, Percent: 0.362000
+Predicted: Harvard -- INCORRECT
+#
+Team:          Harvard (0-1, 2014-02-25), Won: 280, Lost: 158, Tied:  62, Total: 500, Percent: 0.560000
+Team:       Holy Cross (0-2, 2014-02-25), Won: 158, Lost: 280, Tied:  62, Total: 500, Percent: 0.316000
+Predicted: Harvard -- CORRECT
+#
+Team:          Harvard (1-2, 2014-03-04), Won: 256, Lost: 198, Tied:  46, Total: 500, Percent: 0.512000
+Team:       Quinnipiac (1-1, 2014-03-04), Won: 198, Lost: 256, Tied:  46, Total: 500, Percent: 0.396000
+Predicted: Harvard -- CORRECT
+#
+Team:          Harvard (4-2, 2014-03-18), Won: 371, Lost:  96, Tied:  33, Total: 500, Percent: 0.742000
+Team:   North Carolina (5-2, 2014-03-18), Won:  96, Lost: 371, Tied:  33, Total: 500, Percent: 0.192000
+Predicted: Harvard -- INCORRECT
+#
+Team:          Harvard (6-4, 2014-04-12), Won: 313, Lost: 145, Tied:  42, Total: 500, Percent: 0.626000
+Team:             Penn (5-3, 2014-04-12), Won: 145, Lost: 313, Tied:  42, Total: 500, Percent: 0.290000
+Predicted: Harvard -- INCORRECT
+#
+Team:          Harvard (7-5, 2014-04-19), Won: 337, Lost: 123, Tied:  40, Total: 500, Percent: 0.674000
+Team:        Princeton (7-4, 2014-04-19), Won: 123, Lost: 337, Tied:  40, Total: 500, Percent: 0.246000
+Predicted: Harvard -- CORRECT
+#
+Team:          Harvard (8-5, 2014-04-26), Won: 336, Lost: 121, Tied:  43, Total: 500, Percent: 0.672000
+Team:             Yale (8-3, 2014-04-26), Won: 121, Lost: 336, Tied:  43, Total: 500, Percent: 0.242000
+Predicted: Harvard -- CORRECT
+#
+Team:          Harvard (9-5, 2014-05-02), Won: 329, Lost: 135, Tied:  36, Total: 500, Percent: 0.658000
+Team:             Yale (9-4, 2014-05-02), Won: 135, Lost: 329, Tied:  36, Total: 500, Percent: 0.270000
+Predicted: Harvard -- CORRECT
+#
+Team:          Harvard (10-6, 2014-05-04), Won: 329, Lost: 127, Tied:  44, Total: 500, Percent: 0.658000
+Team:             Penn (11-3, 2014-05-04), Won: 127, Lost: 329, Tied:  44, Total: 500, Percent: 0.254000
+Predicted: Harvard -- INCORRECT
+#
+Team:          Harvard (10-6, 2014-05-10), Won: 287, Lost: 183, Tied:  30, Total: 500, Percent: 0.574000
+Team:       Notre Dame (9-5, 2014-05-10), Won: 183, Lost: 287, Tied:  30, Total: 500, Percent: 0.366000
+Predicted: Harvard -- INCORRECT
+#
+Team:       High Point (2-2, 2014-02-08), Won: 111, Lost: 347, Tied:  42, Total: 500, Percent: 0.222000
+Team:           Towson (2-2, 2014-02-08), Won: 347, Lost: 111, Tied:  42, Total: 500, Percent: 0.694000
+Predicted: Towson -- CORRECT
+#
+Team:       High Point (2-2, 2014-02-16), Won: 180, Lost: 270, Tied:  50, Total: 500, Percent: 0.360000
+Team:   Saint Joseph's (1-1, 2014-02-16), Won: 270, Lost: 180, Tied:  50, Total: 500, Percent: 0.540000
+Predicted: Saint Joseph's -- INCORRECT
+#
+Team:       High Point (2-2, 2014-02-22), Won:  67, Lost: 408, Tied:  25, Total: 500, Percent: 0.134000
+Team:     Sacred Heart (0-2, 2014-02-22), Won: 408, Lost:  67, Tied:  25, Total: 500, Percent: 0.816000
+Predicted: Sacred Heart -- INCORRECT
+#
+Team:       High Point (2-2, 2014-03-01), Won: 133, Lost: 326, Tied:  41, Total: 500, Percent: 0.266000
+Team:     Jacksonville (0-3, 2014-03-01), Won: 326, Lost: 133, Tied:  41, Total: 500, Percent: 0.652000
+Predicted: Jacksonville -- INCORRECT
+#
+Team:       High Point (3-2, 2014-03-05), Won: 257, Lost: 206, Tied:  37, Total: 500, Percent: 0.514000
+Team:         Michigan (2-3, 2014-03-05), Won: 206, Lost: 257, Tied:  37, Total: 500, Percent: 0.412000
+Predicted: High Point -- CORRECT
+#
+Team:       High Point (3-2, 2014-03-08), Won: 174, Lost: 276, Tied:  50, Total: 500, Percent: 0.348000
+Team:              VMI (1-4, 2014-03-08), Won: 276, Lost: 174, Tied:  50, Total: 500, Percent: 0.552000
+Predicted: VMI -- INCORRECT
+#
+Team:       High Point (5-2, 2014-03-15), Won: 166, Lost: 295, Tied:  39, Total: 500, Percent: 0.332000
+Team:             UMBC (2-2, 2014-03-15), Won: 295, Lost: 166, Tied:  39, Total: 500, Percent: 0.590000
+Predicted: UMBC -- INCORRECT
+#
+Team:       High Point (6-2, 2014-03-22), Won: 259, Lost: 202, Tied:  39, Total: 500, Percent: 0.518000
+Team:           Mercer (3-3, 2014-03-22), Won: 202, Lost: 259, Tied:  39, Total: 500, Percent: 0.404000
+Predicted: High Point -- INCORRECT
+#
+Team:       High Point (7-4, 2014-04-12), Won: 236, Lost: 213, Tied:  51, Total: 500, Percent: 0.472000
+Team:         Richmond (3-8, 2014-04-12), Won: 213, Lost: 236, Tied:  51, Total: 500, Percent: 0.426000
+Predicted: High Point -- CORRECT
+#
+Team:       High Point (8-4, 2014-04-18), Won: 288, Lost: 170, Tied:  42, Total: 500, Percent: 0.576000
+Team:   North Carolina (9-3, 2014-04-18), Won: 170, Lost: 288, Tied:  42, Total: 500, Percent: 0.340000
+Predicted: High Point -- INCORRECT
+#
+Team:       High Point (8-6, 2014-05-01), Won: 213, Lost: 236, Tied:  51, Total: 500, Percent: 0.426000
+Team:     Jacksonville (4-8, 2014-05-01), Won: 236, Lost: 213, Tied:  51, Total: 500, Percent: 0.472000
+Predicted: Jacksonville -- INCORRECT
+#
+Team:       High Point (8-6, 2014-05-03), Won: 211, Lost: 243, Tied:  46, Total: 500, Percent: 0.422000
+Team:         Richmond (4-10, 2014-05-03), Won: 243, Lost: 211, Tied:  46, Total: 500, Percent: 0.486000
+Predicted: Richmond -- CORRECT
+#
+Team:           Hobart (0-2, 2014-02-15), Won:  38, Lost: 435, Tied:  27, Total: 500, Percent: 0.076000
+Team:            Siena (2-1, 2014-02-15), Won: 435, Lost:  38, Tied:  27, Total: 500, Percent: 0.870000
+Predicted: Siena -- CORRECT
+#
+Team:           Hobart (0-5, 2014-03-15), Won: 161, Lost: 304, Tied:  35, Total: 500, Percent: 0.322000
+Team:    Robert Morris (1-3, 2014-03-15), Won: 304, Lost: 161, Tied:  35, Total: 500, Percent: 0.608000
+Predicted: Robert Morris -- INCORRECT
+#
+Team:           Hobart (2-6, 2014-03-29), Won:  63, Lost: 408, Tied:  29, Total: 500, Percent: 0.126000
+Team:   Mt. St. Mary's (0-8, 2014-03-29), Won: 408, Lost:  63, Tied:  29, Total: 500, Percent: 0.816000
+Predicted: Mt. St. Mary's -- INCORRECT
+#
+Team:           Hobart (3-6, 2014-04-05), Won: 149, Lost: 307, Tied:  44, Total: 500, Percent: 0.298000
+Team:     Sacred Heart (2-6, 2014-04-05), Won: 307, Lost: 149, Tied:  44, Total: 500, Percent: 0.614000
+Predicted: Sacred Heart -- CORRECT
+#
+Team:           Hobart (3-7, 2014-04-11), Won: 106, Lost: 363, Tied:  31, Total: 500, Percent: 0.212000
+Team:           Wagner (2-7, 2014-04-11), Won: 363, Lost: 106, Tied:  31, Total: 500, Percent: 0.726000
+Predicted: Wagner -- INCORRECT
+#
+Team:           Hobart (4-7, 2014-04-19), Won: 247, Lost: 201, Tied:  52, Total: 500, Percent: 0.494000
+Team:         Syracuse (8-3, 2014-04-19), Won: 201, Lost: 247, Tied:  52, Total: 500, Percent: 0.402000
+Predicted: Hobart -- INCORRECT
+#
+Team:           Hobart (4-8, 2014-04-26), Won: 184, Lost: 277, Tied:  39, Total: 500, Percent: 0.368000
+Team:   Saint Joseph's (10-3, 2014-04-26), Won: 277, Lost: 184, Tied:  39, Total: 500, Percent: 0.554000
+Predicted: Saint Joseph's -- CORRECT
+#
+Team:           Hobart (4-9, 2014-05-01), Won: 173, Lost: 292, Tied:  35, Total: 500, Percent: 0.346000
+Team:   Saint Joseph's (11-3, 2014-05-01), Won: 292, Lost: 173, Tied:  35, Total: 500, Percent: 0.584000
+Predicted: Saint Joseph's -- INCORRECT
+#
+Team:          Hofstra (0-2, 2014-02-15), Won:  39, Lost: 439, Tied:  22, Total: 500, Percent: 0.078000
+Team:        Marquette (1-2, 2014-02-15), Won: 439, Lost:  39, Tied:  22, Total: 500, Percent: 0.878000
+Predicted: Marquette -- CORRECT
+#
+Team:          Hofstra (0-2, 2014-02-22), Won: 154, Lost: 309, Tied:  37, Total: 500, Percent: 0.308000
+Team:        Princeton (1-0, 2014-02-22), Won: 309, Lost: 154, Tied:  37, Total: 500, Percent: 0.618000
+Predicted: Princeton -- CORRECT
+#
+Team:          Hofstra (2-2, 2014-03-08), Won: 245, Lost: 205, Tied:  50, Total: 500, Percent: 0.490000
+Team:         Ohio St. (1-3, 2014-03-08), Won: 205, Lost: 245, Tied:  50, Total: 500, Percent: 0.410000
+Predicted: Hofstra -- CORRECT
+#
+Team:          Hofstra (4-2, 2014-03-18), Won: 312, Lost: 152, Tied:  36, Total: 500, Percent: 0.624000
+Team:  St. John's (NY) (3-3, 2014-03-18), Won: 152, Lost: 312, Tied:  36, Total: 500, Percent: 0.304000
+Predicted: Hofstra -- INCORRECT
+#
+Team:          Hofstra (5-3, 2014-03-29), Won: 272, Lost: 188, Tied:  40, Total: 500, Percent: 0.544000
+Team:           Towson (7-2, 2014-03-29), Won: 188, Lost: 272, Tied:  40, Total: 500, Percent: 0.376000
+Predicted: Hofstra -- CORRECT
+#
+Team:          Hofstra (6-3, 2014-04-05), Won: 316, Lost: 144, Tied:  40, Total: 500, Percent: 0.632000
+Team:            Siena (6-3, 2014-04-05), Won: 144, Lost: 316, Tied:  40, Total: 500, Percent: 0.288000
+Predicted: Hofstra -- CORRECT
+#
+Team:          Hofstra (7-3, 2014-04-08), Won: 319, Lost: 145, Tied:  36, Total: 500, Percent: 0.638000
+Team:           Marist (3-7, 2014-04-08), Won: 145, Lost: 319, Tied:  36, Total: 500, Percent: 0.290000
+Predicted: Hofstra -- CORRECT
+#
+Team:          Hofstra (9-3, 2014-04-19), Won: 289, Lost: 165, Tied:  46, Total: 500, Percent: 0.578000
+Team:    Massachusetts (7-4, 2014-04-19), Won: 165, Lost: 289, Tied:  46, Total: 500, Percent: 0.330000
+Predicted: Hofstra -- CORRECT
+#
+Team:          Hofstra (10-3, 2014-04-26), Won: 382, Lost:  91, Tied:  27, Total: 500, Percent: 0.764000
+Team:         Penn St. (6-6, 2014-04-26), Won:  91, Lost: 382, Tied:  27, Total: 500, Percent: 0.182000
+Predicted: Hofstra -- INCORRECT
+#
+Team:       Holy Cross (0-2, 2014-02-16), Won:  11, Lost: 485, Tied:   4, Total: 500, Percent: 0.022000
+Team:  St. John's (NY) (1-1, 2014-02-16), Won: 485, Lost:  11, Tied:   4, Total: 500, Percent: 0.970000
+Predicted: St. John's (NY) -- CORRECT
+#
+Team:       Holy Cross (0-2, 2014-02-22), Won:  31, Lost: 453, Tied:  16, Total: 500, Percent: 0.062000
+Team:  Loyola Maryland (3-1, 2014-02-22), Won: 453, Lost:  31, Tied:  16, Total: 500, Percent: 0.906000
+Predicted: Loyola Maryland -- CORRECT
+#
+Team:       Holy Cross (0-2, 2014-03-01), Won:  31, Lost: 455, Tied:  14, Total: 500, Percent: 0.062000
+Team:             Navy (1-2, 2014-03-01), Won: 455, Lost:  31, Tied:  14, Total: 500, Percent: 0.910000
+Predicted: Navy -- CORRECT
+#
+Team:       Holy Cross (0-4, 2014-03-04), Won:  14, Lost: 481, Tied:   5, Total: 500, Percent: 0.028000
+Team:         Richmond (0-4, 2014-03-04), Won: 481, Lost:  14, Tied:   5, Total: 500, Percent: 0.962000
+Predicted: Richmond -- INCORRECT
+#
+Team:       Holy Cross (1-7, 2014-03-29), Won:  35, Lost: 449, Tied:  16, Total: 500, Percent: 0.070000
+Team:           Lehigh (6-3, 2014-03-29), Won: 449, Lost:  35, Tied:  16, Total: 500, Percent: 0.898000
+Predicted: Lehigh -- CORRECT
+#
+Team:       Holy Cross (2-8, 2014-04-05), Won:  14, Lost: 480, Tied:   6, Total: 500, Percent: 0.028000
+Team:        Lafayette (1-7, 2014-04-05), Won: 480, Lost:  14, Tied:   6, Total: 500, Percent: 0.960000
+Predicted: Lafayette -- INCORRECT
+#
+Team:       Holy Cross (3-8, 2014-04-08), Won:  44, Lost: 444, Tied:  12, Total: 500, Percent: 0.088000
+Team:     Sacred Heart (3-7, 2014-04-08), Won: 444, Lost:  44, Tied:  12, Total: 500, Percent: 0.888000
+Predicted: Sacred Heart -- CORRECT
+#
+Team:     Jacksonville (0-3, 2014-02-16), Won:  19, Lost: 467, Tied:  14, Total: 500, Percent: 0.038000
+Team:       Notre Dame (1-1, 2014-02-16), Won: 467, Lost:  19, Tied:  14, Total: 500, Percent: 0.934000
+Predicted: Notre Dame -- CORRECT
+#
+Team:     Jacksonville (0-4, 2014-03-08), Won:  14, Lost: 478, Tied:   8, Total: 500, Percent: 0.028000
+Team:        Marquette (1-3, 2014-03-08), Won: 478, Lost:  14, Tied:   8, Total: 500, Percent: 0.956000
+Predicted: Marquette -- INCORRECT
+#
+Team:     Jacksonville (1-5, 2014-03-22), Won:  58, Lost: 421, Tied:  21, Total: 500, Percent: 0.116000
+Team:    Robert Morris (2-4, 2014-03-22), Won: 421, Lost:  58, Tied:  21, Total: 500, Percent: 0.842000
+Predicted: Robert Morris -- CORRECT
+#
+Team:     Jacksonville (1-6, 2014-03-29), Won:  34, Lost: 451, Tied:  15, Total: 500, Percent: 0.068000
+Team:         Ohio St. (2-5, 2014-03-29), Won: 451, Lost:  34, Tied:  15, Total: 500, Percent: 0.902000
+Predicted: Ohio St. -- CORRECT
+#
+Team:     Jacksonville (1-7, 2014-04-05), Won:  36, Lost: 448, Tied:  16, Total: 500, Percent: 0.072000
+Team:              VMI (1-9, 2014-04-05), Won: 448, Lost:  36, Tied:  16, Total: 500, Percent: 0.896000
+Predicted: VMI -- INCORRECT
+#
+Team:     Jacksonville (2-7, 2014-04-12), Won:  56, Lost: 418, Tied:  26, Total: 500, Percent: 0.112000
+Team:           Mercer (6-4, 2014-04-12), Won: 418, Lost:  56, Tied:  26, Total: 500, Percent: 0.836000
+Predicted: Mercer -- INCORRECT
+#
+Team:     Jacksonville (3-8, 2014-04-20), Won:  69, Lost: 406, Tied:  25, Total: 500, Percent: 0.138000
+Team:         Richmond (4-9, 2014-04-20), Won: 406, Lost:  69, Tied:  25, Total: 500, Percent: 0.812000
+Predicted: Richmond -- CORRECT
+#
+Team:    Johns Hopkins (3-0, 2014-02-09), Won: 423, Lost:  55, Tied:  22, Total: 500, Percent: 0.846000
+Team:         Ohio St. (1-2, 2014-02-09), Won:  55, Lost: 423, Tied:  22, Total: 500, Percent: 0.110000
+Predicted: Johns Hopkins -- CORRECT
+#
+Team:    Johns Hopkins (3-0, 2014-02-15), Won: 420, Lost:  49, Tied:  31, Total: 500, Percent: 0.840000
+Team:           Towson (2-2, 2014-02-15), Won:  49, Lost: 420, Tied:  31, Total: 500, Percent: 0.098000
+Predicted: Johns Hopkins -- CORRECT
+#
+Team:    Johns Hopkins (3-0, 2014-02-22), Won: 455, Lost:  21, Tied:  24, Total: 500, Percent: 0.910000
+Team:         Michigan (2-2, 2014-02-22), Won:  21, Lost: 455, Tied:  24, Total: 500, Percent: 0.042000
+Predicted: Johns Hopkins -- CORRECT
+#
+Team:    Johns Hopkins (3-0, 2014-03-01), Won: 455, Lost:  24, Tied:  21, Total: 500, Percent: 0.910000
+Team:        Princeton (1-0, 2014-03-01), Won:  24, Lost: 455, Tied:  21, Total: 500, Percent: 0.048000
+Predicted: Johns Hopkins -- CORRECT
+#
+Team:    Johns Hopkins (4-0, 2014-03-08), Won: 370, Lost: 107, Tied:  23, Total: 500, Percent: 0.740000
+Team:             UMBC (2-1, 2014-03-08), Won: 107, Lost: 370, Tied:  23, Total: 500, Percent: 0.214000
+Predicted: Johns Hopkins -- CORRECT
+#
+Team:    Johns Hopkins (5-0, 2014-03-15), Won: 480, Lost:  10, Tied:  10, Total: 500, Percent: 0.960000
+Team:         Syracuse (3-2, 2014-03-15), Won:  10, Lost: 480, Tied:  10, Total: 500, Percent: 0.020000
+Predicted: Johns Hopkins -- INCORRECT
+#
+Team:    Johns Hopkins (5-1, 2014-03-22), Won: 463, Lost:  25, Tied:  12, Total: 500, Percent: 0.926000
+Team:         Virginia (6-2, 2014-03-22), Won:  25, Lost: 463, Tied:  12, Total: 500, Percent: 0.050000
+Predicted: Johns Hopkins -- INCORRECT
+#
+Team:    Johns Hopkins (5-2, 2014-03-29), Won: 450, Lost:  35, Tied:  15, Total: 500, Percent: 0.900000
+Team:   North Carolina (7-2, 2014-03-29), Won:  35, Lost: 450, Tied:  15, Total: 500, Percent: 0.070000
+Predicted: Johns Hopkins -- INCORRECT
+#
+Team:    Johns Hopkins (6-3, 2014-04-12), Won: 402, Lost:  75, Tied:  23, Total: 500, Percent: 0.804000
+Team:         Maryland (9-1, 2014-04-12), Won:  75, Lost: 402, Tied:  23, Total: 500, Percent: 0.150000
+Predicted: Johns Hopkins -- CORRECT
+#
+Team:    Johns Hopkins (7-3, 2014-04-14), Won: 336, Lost: 122, Tied:  42, Total: 500, Percent: 0.672000
+Team:   Mt. St. Mary's (0-13, 2014-04-14), Won: 122, Lost: 336, Tied:  42, Total: 500, Percent: 0.244000
+Predicted: Johns Hopkins -- CORRECT
+#
+Team:    Johns Hopkins (7-3, 2014-04-18), Won: 386, Lost:  91, Tied:  23, Total: 500, Percent: 0.772000
+Team:             Navy (4-7, 2014-04-18), Won:  91, Lost: 386, Tied:  23, Total: 500, Percent: 0.182000
+Predicted: Johns Hopkins -- CORRECT
+#
+Team:    Johns Hopkins (9-3, 2014-04-23), Won: 435, Lost:  51, Tied:  14, Total: 500, Percent: 0.870000
+Team:        Villanova (5-7, 2014-04-23), Won:  51, Lost: 435, Tied:  14, Total: 500, Percent: 0.102000
+Predicted: Johns Hopkins -- CORRECT
+#
+Team:    Johns Hopkins (10-3, 2014-05-03), Won: 455, Lost:  20, Tied:  25, Total: 500, Percent: 0.910000
+Team:  Loyola Maryland (14-1, 2014-05-03), Won:  20, Lost: 455, Tied:  25, Total: 500, Percent: 0.040000
+Predicted: Johns Hopkins -- INCORRECT
+#
+Team:    Johns Hopkins (11-4, 2014-05-11), Won: 453, Lost:  31, Tied:  16, Total: 500, Percent: 0.906000
+Team:         Virginia (10-6, 2014-05-11), Won:  31, Lost: 453, Tied:  16, Total: 500, Percent: 0.062000
+Predicted: Johns Hopkins -- CORRECT
+#
+Team:        Lafayette (1-1, 2014-02-18), Won:  68, Lost: 407, Tied:  25, Total: 500, Percent: 0.136000
+Team:      Stony Brook (1-2, 2014-02-18), Won: 407, Lost:  68, Tied:  25, Total: 500, Percent: 0.814000
+Predicted: Stony Brook -- CORRECT
+#
+Team:        Lafayette (1-2, 2014-03-07), Won: 106, Lost: 361, Tied:  33, Total: 500, Percent: 0.212000
+Team:             Navy (2-2, 2014-03-07), Won: 361, Lost: 106, Tied:  33, Total: 500, Percent: 0.722000
+Predicted: Navy -- CORRECT
+#
+Team:        Lafayette (1-5, 2014-03-22), Won:  69, Lost: 399, Tied:  32, Total: 500, Percent: 0.138000
+Team:  Loyola Maryland (6-1, 2014-03-22), Won: 399, Lost:  69, Tied:  32, Total: 500, Percent: 0.798000
+Predicted: Loyola Maryland -- CORRECT
+#
+Team:        Lafayette (1-6, 2014-03-28), Won:  28, Lost: 454, Tied:  18, Total: 500, Percent: 0.056000
+Team:           Mercer (4-3, 2014-03-28), Won: 454, Lost:  28, Tied:  18, Total: 500, Percent: 0.908000
+Predicted: Mercer -- CORRECT
+#
+Team:        Lafayette (1-7, 2014-04-01), Won:  24, Lost: 463, Tied:  13, Total: 500, Percent: 0.048000
+Team:         Monmouth (0-8, 2014-04-01), Won: 463, Lost:  24, Tied:  13, Total: 500, Percent: 0.926000
+Predicted: Monmouth -- INCORRECT
+#
+Team:        Lafayette (2-8, 2014-04-08), Won:  35, Lost: 450, Tied:  15, Total: 500, Percent: 0.070000
+Team:        Manhattan (2-9, 2014-04-08), Won: 450, Lost:  35, Tied:  15, Total: 500, Percent: 0.900000
+Predicted: Manhattan -- CORRECT
+#
+Team:        Lafayette (2-10, 2014-04-18), Won:  61, Lost: 407, Tied:  32, Total: 500, Percent: 0.122000
+Team:           Lehigh (10-4, 2014-04-18), Won: 407, Lost:  61, Tied:  32, Total: 500, Percent: 0.814000
+Predicted: Lehigh -- CORRECT
+#
+Team:           Lehigh (4-0, 2014-02-08), Won: 316, Lost: 136, Tied:  48, Total: 500, Percent: 0.632000
+Team:        Marquette (1-2, 2014-02-08), Won: 136, Lost: 316, Tied:  48, Total: 500, Percent: 0.272000
+Predicted: Lehigh -- CORRECT
+#
+Team:           Lehigh (4-0, 2014-02-16), Won: 430, Lost:  47, Tied:  23, Total: 500, Percent: 0.860000
+Team:        Villanova (0-1, 2014-02-16), Won:  47, Lost: 430, Tied:  23, Total: 500, Percent: 0.094000
+Predicted: Lehigh -- CORRECT
+#
+Team:           Lehigh (4-0, 2014-03-01), Won: 419, Lost:  56, Tied:  25, Total: 500, Percent: 0.838000
+Team:  Loyola Maryland (3-1, 2014-03-01), Won:  56, Lost: 419, Tied:  25, Total: 500, Percent: 0.112000
+Predicted: Lehigh -- INCORRECT
+#
+Team:           Lehigh (5-1, 2014-03-11), Won: 330, Lost: 129, Tied:  41, Total: 500, Percent: 0.660000
+Team:             Yale (2-1, 2014-03-11), Won: 129, Lost: 330, Tied:  41, Total: 500, Percent: 0.258000
+Predicted: Lehigh -- INCORRECT
+#
+Team:           Lehigh (5-1, 2014-03-15), Won: 375, Lost:  85, Tied:  40, Total: 500, Percent: 0.750000
+Team:             Navy (3-2, 2014-03-15), Won:  85, Lost: 375, Tied:  40, Total: 500, Percent: 0.170000
+Predicted: Lehigh -- CORRECT
+#
+Team:           Lehigh (6-3, 2014-03-26), Won: 247, Lost: 206, Tied:  47, Total: 500, Percent: 0.494000
+Team:         Monmouth (0-7, 2014-03-26), Won: 206, Lost: 247, Tied:  47, Total: 500, Percent: 0.412000
+Predicted: Lehigh -- CORRECT
+#
+Team:           Lehigh (9-3, 2014-04-08), Won: 396, Lost:  70, Tied:  34, Total: 500, Percent: 0.792000
+Team:        Princeton (5-4, 2014-04-08), Won:  70, Lost: 396, Tied:  34, Total: 500, Percent: 0.140000
+Predicted: Lehigh -- INCORRECT
+#
+Team:           Lehigh (11-4, 2014-04-22), Won: 415, Lost:  55, Tied:  30, Total: 500, Percent: 0.830000
+Team:             Navy (4-8, 2014-04-22), Won:  55, Lost: 415, Tied:  30, Total: 500, Percent: 0.110000
+Predicted: Lehigh -- CORRECT
+#
+Team:           Lehigh (13-5, 2014-04-27), Won: 415, Lost:  60, Tied:  25, Total: 500, Percent: 0.830000
+Team:  Loyola Maryland (14-1, 2014-04-27), Won:  60, Lost: 415, Tied:  25, Total: 500, Percent: 0.120000
+Predicted: Lehigh -- INCORRECT
+#
+Team:  Loyola Maryland (3-1, 2014-02-06), Won: 477, Lost:  17, Tied:   6, Total: 500, Percent: 0.954000
+Team:         Virginia (4-0, 2014-02-06), Won:  17, Lost: 477, Tied:   6, Total: 500, Percent: 0.034000
+Predicted: Loyola Maryland -- INCORRECT
+#
+Team:  Loyola Maryland (3-1, 2014-02-15), Won: 471, Lost:  20, Tied:   9, Total: 500, Percent: 0.942000
+Team:         Penn St. (2-1, 2014-02-15), Won:  20, Lost: 471, Tied:   9, Total: 500, Percent: 0.040000
+Predicted: Loyola Maryland -- CORRECT
+#
+Team:  Loyola Maryland (3-1, 2014-02-19), Won: 440, Lost:  44, Tied:  16, Total: 500, Percent: 0.880000
+Team:           Towson (2-2, 2014-02-19), Won:  44, Lost: 440, Tied:  16, Total: 500, Percent: 0.088000
+Predicted: Loyola Maryland -- CORRECT
+#
+Team:  Loyola Maryland (9-1, 2014-04-05), Won: 463, Lost:  31, Tied:   6, Total: 500, Percent: 0.926000
+Team:             Navy (4-5, 2014-04-05), Won:  31, Lost: 463, Tied:   6, Total: 500, Percent: 0.062000
+Predicted: Loyola Maryland -- CORRECT
+#
+Team:        Manhattan (0-3, 2014-02-08), Won:   0, Lost: 500, Tied:   0, Total: 500, Percent: 0.000000
+Team:          Rutgers (2-1, 2014-02-08), Won: 500, Lost:   0, Tied:   0, Total: 500, Percent: 1.000000
+Predicted: Rutgers -- CORRECT
+#
+Team:        Manhattan (0-3, 2014-02-16), Won:   2, Lost: 498, Tied:   0, Total: 500, Percent: 0.004000
+Team:   North Carolina (3-0, 2014-02-16), Won: 498, Lost:   2, Tied:   0, Total: 500, Percent: 0.996000
+Predicted: North Carolina -- CORRECT
+#
+Team:        Manhattan (0-3, 2014-02-25), Won:   0, Lost: 499, Tied:   1, Total: 500, Percent: 0.000000
+Team:        Princeton (1-0, 2014-02-25), Won: 499, Lost:   0, Tied:   1, Total: 500, Percent: 0.998000
+Predicted: Princeton -- CORRECT
+#
+Team:        Manhattan (1-5, 2014-03-09), Won:   2, Lost: 498, Tied:   0, Total: 500, Percent: 0.004000
+Team:   Mt. St. Mary's (0-6, 2014-03-09), Won: 498, Lost:   2, Tied:   0, Total: 500, Percent: 0.996000
+Predicted: Mt. St. Mary's -- INCORRECT
+#
+Team:        Manhattan (1-5, 2014-03-15), Won:   2, Lost: 497, Tied:   1, Total: 500, Percent: 0.004000
+Team:       Quinnipiac (1-2, 2014-03-15), Won: 497, Lost:   2, Tied:   1, Total: 500, Percent: 0.994000
+Predicted: Quinnipiac -- CORRECT
+#
+Team:        Manhattan (1-6, 2014-03-18), Won:  12, Lost: 484, Tied:   4, Total: 500, Percent: 0.024000
+Team:      Stony Brook (3-4, 2014-03-18), Won: 484, Lost:  12, Tied:   4, Total: 500, Percent: 0.968000
+Predicted: Stony Brook -- CORRECT
+#
+Team:        Manhattan (1-7, 2014-03-29), Won:   4, Lost: 483, Tied:  13, Total: 500, Percent: 0.008000
+Team:           Marist (3-4, 2014-03-29), Won: 483, Lost:   4, Tied:  13, Total: 500, Percent: 0.966000
+Predicted: Marist -- INCORRECT
+#
+Team:        Manhattan (2-9, 2014-04-12), Won:  10, Lost: 482, Tied:   8, Total: 500, Percent: 0.020000
+Team:         Monmouth (0-10, 2014-04-12), Won: 482, Lost:  10, Tied:   8, Total: 500, Percent: 0.964000
+Predicted: Monmouth -- INCORRECT
+#
+Team:        Manhattan (5-9, 2014-04-26), Won:  77, Lost: 390, Tied:  33, Total: 500, Percent: 0.154000
+Team:            Siena (8-4, 2014-04-26), Won: 390, Lost:  77, Tied:  33, Total: 500, Percent: 0.780000
+Predicted: Siena -- CORRECT
+#
+Team:           Marist (1-2, 2014-02-14), Won: 139, Lost: 327, Tied:  34, Total: 500, Percent: 0.278000
+Team:      Stony Brook (1-2, 2014-02-14), Won: 327, Lost: 139, Tied:  34, Total: 500, Percent: 0.654000
+Predicted: Stony Brook -- INCORRECT
+#
+Team:           Marist (1-2, 2014-03-01), Won:  20, Lost: 471, Tied:   9, Total: 500, Percent: 0.040000
+Team:        Marquette (1-2, 2014-03-01), Won: 471, Lost:  20, Tied:   9, Total: 500, Percent: 0.942000
+Predicted: Marquette -- INCORRECT
+#
+Team:           Marist (2-2, 2014-03-07), Won:  73, Lost: 399, Tied:  28, Total: 500, Percent: 0.146000
+Team:           Towson (3-2, 2014-03-07), Won: 399, Lost:  73, Tied:  28, Total: 500, Percent: 0.798000
+Predicted: Towson -- CORRECT
+#
+Team:           Marist (2-3, 2014-03-15), Won: 189, Lost: 262, Tied:  49, Total: 500, Percent: 0.378000
+Team:            Siena (3-2, 2014-03-15), Won: 262, Lost: 189, Tied:  49, Total: 500, Percent: 0.524000
+Predicted: Siena -- CORRECT
+#
+Team:           Marist (2-4, 2014-03-22), Won: 111, Lost: 354, Tied:  35, Total: 500, Percent: 0.222000
+Team:       Quinnipiac (2-3, 2014-03-22), Won: 354, Lost: 111, Tied:  35, Total: 500, Percent: 0.708000
+Predicted: Quinnipiac -- INCORRECT
+#
+Team:           Marist (3-8, 2014-04-19), Won:  50, Lost: 432, Tied:  18, Total: 500, Percent: 0.100000
+Team:         Monmouth (0-11, 2014-04-19), Won: 432, Lost:  50, Tied:  18, Total: 500, Percent: 0.864000
+Predicted: Monmouth -- INCORRECT
+#
+Team:           Marist (5-8, 2014-05-03), Won: 156, Lost: 311, Tied:  33, Total: 500, Percent: 0.312000
+Team:            Siena (9-5, 2014-05-03), Won: 311, Lost: 156, Tied:  33, Total: 500, Percent: 0.622000
+Predicted: Siena -- CORRECT
+#
+Team:        Marquette (1-2, 2014-02-22), Won: 126, Lost: 324, Tied:  50, Total: 500, Percent: 0.252000
+Team:         Ohio St. (1-2, 2014-02-22), Won: 324, Lost: 126, Tied:  50, Total: 500, Percent: 0.648000
+Predicted: Ohio St. -- CORRECT
+#
+Team:        Marquette (2-5, 2014-03-22), Won: 142, Lost: 327, Tied:  31, Total: 500, Percent: 0.284000
+Team:        Villanova (1-4, 2014-03-22), Won: 327, Lost: 142, Tied:  31, Total: 500, Percent: 0.654000
+Predicted: Villanova -- CORRECT
+#
+Team:        Marquette (2-6, 2014-03-29), Won: 237, Lost: 216, Tied:  47, Total: 500, Percent: 0.474000
+Team:          Rutgers (6-3, 2014-03-29), Won: 216, Lost: 237, Tied:  47, Total: 500, Percent: 0.432000
+Predicted: Marquette -- CORRECT
+#
+Team:        Marquette (4-7, 2014-04-06), Won: 111, Lost: 363, Tied:  26, Total: 500, Percent: 0.222000
+Team:  St. John's (NY) (6-5, 2014-04-06), Won: 363, Lost: 111, Tied:  26, Total: 500, Percent: 0.726000
+Predicted: St. John's (NY) -- INCORRECT
+#
+Team:        Marquette (4-7, 2014-04-08), Won: 143, Lost: 313, Tied:  44, Total: 500, Percent: 0.286000
+Team:       Notre Dame (4-4, 2014-04-08), Won: 313, Lost: 143, Tied:  44, Total: 500, Percent: 0.626000
+Predicted: Notre Dame -- CORRECT
+#
+Team:        Marquette (4-7, 2014-04-12), Won: 123, Lost: 341, Tied:  36, Total: 500, Percent: 0.246000
+Team:       Providence (3-9, 2014-04-12), Won: 341, Lost: 123, Tied:  36, Total: 500, Percent: 0.682000
+Predicted: Providence -- INCORRECT
+#
+Team:        Marquette (6-9, 2014-05-01), Won: 149, Lost: 316, Tied:  35, Total: 500, Percent: 0.298000
+Team:        Villanova (5-9, 2014-05-01), Won: 316, Lost: 149, Tied:  35, Total: 500, Percent: 0.632000
+Predicted: Villanova -- CORRECT
+#
+Team:         Maryland (3-0, 2014-02-08), Won: 493, Lost:   3, Tied:   4, Total: 500, Percent: 0.986000
+Team:   Mt. St. Mary's (0-3, 2014-02-08), Won:   3, Lost: 493, Tied:   4, Total: 500, Percent: 0.006000
+Predicted: Maryland -- CORRECT
+#
+Team:         Maryland (3-0, 2014-02-15), Won: 492, Lost:   2, Tied:   6, Total: 500, Percent: 0.984000
+Team:             UMBC (1-1, 2014-02-15), Won:   2, Lost: 492, Tied:   6, Total: 500, Percent: 0.004000
+Predicted: Maryland -- CORRECT
+#
+Team:         Maryland (3-0, 2014-02-22), Won: 500, Lost:   0, Tied:   0, Total: 500, Percent: 1.000000
+Team:         Syracuse (2-1, 2014-02-22), Won:   0, Lost: 500, Tied:   0, Total: 500, Percent: 0.000000
+Predicted: Maryland -- CORRECT
+#
+Team:         Maryland (4-0, 2014-03-08), Won: 499, Lost:   1, Tied:   0, Total: 500, Percent: 0.998000
+Team:      Stony Brook (2-2, 2014-03-08), Won:   1, Lost: 499, Tied:   0, Total: 500, Percent: 0.002000
+Predicted: Maryland -- CORRECT
+#
+Team:         Maryland (5-0, 2014-03-14), Won: 498, Lost:   0, Tied:   2, Total: 500, Percent: 0.996000
+Team:        Villanova (1-3, 2014-03-14), Won:   0, Lost: 498, Tied:   2, Total: 500, Percent: 0.000000
+Predicted: Maryland -- CORRECT
+#
+Team:         Maryland (6-0, 2014-03-18), Won: 499, Lost:   0, Tied:   1, Total: 500, Percent: 0.998000
+Team:         Michigan (4-4, 2014-03-18), Won:   0, Lost: 499, Tied:   1, Total: 500, Percent: 0.000000
+Predicted: Maryland -- CORRECT
+#
+Team:         Maryland (6-0, 2014-03-22), Won: 496, Lost:   1, Tied:   3, Total: 500, Percent: 0.992000
+Team:   North Carolina (5-2, 2014-03-22), Won:   1, Lost: 496, Tied:   3, Total: 500, Percent: 0.002000
+Predicted: Maryland -- INCORRECT
+#
+Team:         Maryland (8-1, 2014-03-30), Won: 483, Lost:  10, Tied:   7, Total: 500, Percent: 0.966000
+Team:         Virginia (8-3, 2014-03-30), Won:  10, Lost: 483, Tied:   7, Total: 500, Percent: 0.020000
+Predicted: Maryland -- CORRECT
+#
+Team:         Maryland (8-1, 2014-04-02), Won: 476, Lost:  12, Tied:  12, Total: 500, Percent: 0.952000
+Team:    Robert Morris (4-5, 2014-04-02), Won:  12, Lost: 476, Tied:  12, Total: 500, Percent: 0.024000
+Predicted: Maryland -- CORRECT
+#
+Team:         Maryland (9-2, 2014-04-19), Won: 466, Lost:  23, Tied:  11, Total: 500, Percent: 0.932000
+Team:       Notre Dame (6-4, 2014-04-19), Won:  23, Lost: 466, Tied:  11, Total: 500, Percent: 0.046000
+Predicted: Maryland -- CORRECT
+#
+Team:         Maryland (10-2, 2014-04-25), Won: 470, Lost:  15, Tied:  15, Total: 500, Percent: 0.940000
+Team:       Notre Dame (6-5, 2014-04-25), Won:  15, Lost: 470, Tied:  15, Total: 500, Percent: 0.030000
+Predicted: Maryland -- INCORRECT
+#
+Team:         Maryland (10-3, 2014-05-03), Won: 447, Lost:  34, Tied:  19, Total: 500, Percent: 0.894000
+Team:             Navy (4-9, 2014-05-03), Won:  34, Lost: 447, Tied:  19, Total: 500, Percent: 0.068000
+Predicted: Maryland -- CORRECT
+#
+Team:         Maryland (13-4, 2014-05-24), Won: 453, Lost:  34, Tied:  13, Total: 500, Percent: 0.906000
+Team:       Notre Dame (12-5, 2014-05-24), Won:  34, Lost: 453, Tied:  13, Total: 500, Percent: 0.068000
+Predicted: Maryland -- INCORRECT
+#
+Team:    Massachusetts (3-0, 2014-02-16), Won: 382, Lost:  86, Tied:  32, Total: 500, Percent: 0.764000
+Team:         Ohio St. (1-2, 2014-02-16), Won:  86, Lost: 382, Tied:  32, Total: 500, Percent: 0.172000
+Predicted: Massachusetts -- CORRECT
+#
+Team:    Massachusetts (4-1, 2014-03-11), Won: 260, Lost: 196, Tied:  44, Total: 500, Percent: 0.520000
+Team:       Providence (3-2, 2014-03-11), Won: 196, Lost: 260, Tied:  44, Total: 500, Percent: 0.392000
+Predicted: Massachusetts -- CORRECT
+#
+Team:    Massachusetts (4-1, 2014-03-15), Won: 309, Lost: 148, Tied:  43, Total: 500, Percent: 0.618000
+Team:         Penn St. (3-1, 2014-03-15), Won: 148, Lost: 309, Tied:  43, Total: 500, Percent: 0.296000
+Predicted: Massachusetts -- CORRECT
+#
+Team:    Massachusetts (7-2, 2014-04-05), Won: 288, Lost: 165, Tied:  47, Total: 500, Percent: 0.576000
+Team:           Towson (7-3, 2014-04-05), Won: 165, Lost: 288, Tied:  47, Total: 500, Percent: 0.330000
+Predicted: Massachusetts -- INCORRECT
+#
+Team:           Mercer (2-2, 2014-02-14), Won: 312, Lost: 148, Tied:  40, Total: 500, Percent: 0.624000
+Team:         Michigan (2-2, 2014-02-14), Won: 148, Lost: 312, Tied:  40, Total: 500, Percent: 0.296000
+Predicted: Mercer -- INCORRECT
+#
+Team:           Mercer (2-2, 2014-02-22), Won: 265, Lost: 186, Tied:  49, Total: 500, Percent: 0.530000
+Team:         Richmond (0-3, 2014-02-22), Won: 186, Lost: 265, Tied:  49, Total: 500, Percent: 0.372000
+Predicted: Mercer -- CORRECT
+#
+Team:           Mercer (2-2, 2014-03-11), Won: 140, Lost: 321, Tied:  39, Total: 500, Percent: 0.280000
+Team:             UMBC (2-2, 2014-03-11), Won: 321, Lost: 140, Tied:  39, Total: 500, Percent: 0.642000
+Predicted: UMBC -- CORRECT
+#
+Team:           Mercer (2-2, 2014-03-15), Won: 248, Lost: 215, Tied:  37, Total: 500, Percent: 0.496000
+Team:              VMI (1-6, 2014-03-15), Won: 215, Lost: 248, Tied:  37, Total: 500, Percent: 0.430000
+Predicted: Mercer -- CORRECT
+#
+Team:           Mercer (6-3, 2014-03-30), Won: 266, Lost: 193, Tied:  41, Total: 500, Percent: 0.532000
+Team:           Wagner (2-6, 2014-03-30), Won: 193, Lost: 266, Tied:  41, Total: 500, Percent: 0.386000
+Predicted: Mercer -- CORRECT
+#
+Team:           Mercer (7-6, 2014-05-01), Won: 207, Lost: 257, Tied:  36, Total: 500, Percent: 0.414000
+Team:         Richmond (4-10, 2014-05-01), Won: 257, Lost: 207, Tied:  36, Total: 500, Percent: 0.514000
+Predicted: Richmond -- CORRECT
+#
+Team:         Michigan (2-2, 2014-02-08), Won: 121, Lost: 352, Tied:  27, Total: 500, Percent: 0.242000
+Team:         Penn St. (2-1, 2014-02-08), Won: 352, Lost: 121, Tied:  27, Total: 500, Percent: 0.704000
+Predicted: Penn St. -- CORRECT
+#
+Team:         Michigan (4-4, 2014-03-22), Won: 126, Lost: 338, Tied:  36, Total: 500, Percent: 0.252000
+Team:   Saint Joseph's (5-2, 2014-03-22), Won: 338, Lost: 126, Tied:  36, Total: 500, Percent: 0.676000
+Predicted: Saint Joseph's -- CORRECT
+#
+Team:         Michigan (4-8, 2014-04-12), Won:  76, Lost: 394, Tied:  30, Total: 500, Percent: 0.152000
+Team:         Ohio St. (4-6, 2014-04-12), Won: 394, Lost:  76, Tied:  30, Total: 500, Percent: 0.788000
+Predicted: Ohio St. -- CORRECT
+#
+Team:         Michigan (4-9, 2014-04-19), Won: 104, Lost: 359, Tied:  37, Total: 500, Percent: 0.208000
+Team:             Yale (7-3, 2014-04-19), Won: 359, Lost: 104, Tied:  37, Total: 500, Percent: 0.718000
+Predicted: Yale -- CORRECT
+#
+Team:         Michigan (4-10, 2014-04-26), Won:  50, Lost: 431, Tied:  19, Total: 500, Percent: 0.100000
+Team:    Robert Morris (5-8, 2014-04-26), Won: 431, Lost:  50, Tied:  19, Total: 500, Percent: 0.862000
+Predicted: Robert Morris -- INCORRECT
+#
+Team:         Monmouth (0-1, 2014-02-22), Won:  51, Lost: 426, Tied:  23, Total: 500, Percent: 0.102000
+Team:             UMBC (1-1, 2014-02-22), Won: 426, Lost:  51, Tied:  23, Total: 500, Percent: 0.852000
+Predicted: UMBC -- CORRECT
+#
+Team:         Monmouth (0-1, 2014-02-26), Won:  59, Lost: 420, Tied:  21, Total: 500, Percent: 0.118000
+Team:           Wagner (0-1, 2014-02-26), Won: 420, Lost:  59, Tied:  21, Total: 500, Percent: 0.840000
+Predicted: Wagner -- CORRECT
+#
+Team:         Monmouth (0-2, 2014-03-04), Won: 122, Lost: 306, Tied:  72, Total: 500, Percent: 0.244000
+Team:   Saint Joseph's (2-2, 2014-03-04), Won: 306, Lost: 122, Tied:  72, Total: 500, Percent: 0.612000
+Predicted: Saint Joseph's -- CORRECT
+#
+Team:         Monmouth (0-2, 2014-03-08), Won: 198, Lost: 244, Tied:  58, Total: 500, Percent: 0.396000
+Team:          Rutgers (2-2, 2014-03-08), Won: 244, Lost: 198, Tied:  58, Total: 500, Percent: 0.488000
+Predicted: Rutgers -- CORRECT
+#
+Team:         Monmouth (0-6, 2014-03-22), Won:  40, Lost: 444, Tied:  16, Total: 500, Percent: 0.080000
+Team:            Siena (4-3, 2014-03-22), Won: 444, Lost:  40, Tied:  16, Total: 500, Percent: 0.888000
+Predicted: Siena -- CORRECT
+#
+Team:         Monmouth (0-8, 2014-04-05), Won:  33, Lost: 442, Tied:  25, Total: 500, Percent: 0.066000
+Team:       Quinnipiac (3-4, 2014-04-05), Won: 442, Lost:  33, Tied:  25, Total: 500, Percent: 0.884000
+Predicted: Quinnipiac -- CORRECT
+#
+Team:   Mt. St. Mary's (0-3, 2014-02-25), Won:   8, Lost: 484, Tied:   8, Total: 500, Percent: 0.016000
+Team:         Virginia (4-0, 2014-02-25), Won: 484, Lost:   8, Tied:   8, Total: 500, Percent: 0.968000
+Predicted: Virginia -- CORRECT
+#
+Team:   Mt. St. Mary's (0-3, 2014-03-01), Won:   3, Lost: 490, Tied:   7, Total: 500, Percent: 0.006000
+Team:           Towson (2-2, 2014-03-01), Won: 490, Lost:   3, Tied:   7, Total: 500, Percent: 0.980000
+Predicted: Towson -- CORRECT
+#
+Team:   Mt. St. Mary's (0-7, 2014-03-22), Won:   9, Lost: 485, Tied:   6, Total: 500, Percent: 0.018000
+Team:             UMBC (3-3, 2014-03-22), Won: 485, Lost:   9, Tied:   6, Total: 500, Percent: 0.970000
+Predicted: UMBC -- CORRECT
+#
+Team:   Mt. St. Mary's (0-8, 2014-03-25), Won:  11, Lost: 481, Tied:   8, Total: 500, Percent: 0.022000
+Team:    Robert Morris (3-4, 2014-03-25), Won: 481, Lost:  11, Tied:   8, Total: 500, Percent: 0.962000
+Predicted: Robert Morris -- CORRECT
+#
+Team:   Mt. St. Mary's (0-10, 2014-04-01), Won:  14, Lost: 478, Tied:   8, Total: 500, Percent: 0.028000
+Team:   Saint Joseph's (6-3, 2014-04-01), Won: 478, Lost:  14, Tied:   8, Total: 500, Percent: 0.956000
+Predicted: Saint Joseph's -- CORRECT
+#
+Team:   Mt. St. Mary's (0-13, 2014-04-19), Won:  14, Lost: 478, Tied:   8, Total: 500, Percent: 0.028000
+Team:           Wagner (2-8, 2014-04-19), Won: 478, Lost:  14, Tied:   8, Total: 500, Percent: 0.956000
+Predicted: Wagner -- INCORRECT
+#
+Team:   Mt. St. Mary's (1-14, 2014-04-26), Won:  26, Lost: 460, Tied:  14, Total: 500, Percent: 0.052000
+Team:     Sacred Heart (5-8, 2014-04-26), Won: 460, Lost:  26, Tied:  14, Total: 500, Percent: 0.920000
+Predicted: Sacred Heart -- CORRECT
+#
+Team:             Navy (1-2, 2014-02-08), Won: 379, Lost:  86, Tied:  35, Total: 500, Percent: 0.758000
+Team:              VMI (0-3, 2014-02-08), Won:  86, Lost: 379, Tied:  35, Total: 500, Percent: 0.172000
+Predicted: Navy -- CORRECT
+#
+Team:             Navy (3-2, 2014-03-11), Won: 438, Lost:  36, Tied:  26, Total: 500, Percent: 0.876000
+Team:           Towson (4-2, 2014-03-11), Won:  36, Lost: 438, Tied:  26, Total: 500, Percent: 0.072000
+Predicted: Navy -- INCORRECT
+#
+Team:   North Carolina (3-0, 2014-03-01), Won: 500, Lost:   0, Tied:   0, Total: 500, Percent: 1.000000
+Team:       Notre Dame (1-1, 2014-03-01), Won:   0, Lost: 500, Tied:   0, Total: 500, Percent: 0.000000
+Predicted: North Carolina -- INCORRECT
+#
+Team:   North Carolina (3-1, 2014-03-07), Won: 499, Lost:   0, Tied:   1, Total: 500, Percent: 0.998000
+Team:        Princeton (2-1, 2014-03-07), Won:   0, Lost: 499, Tied:   1, Total: 500, Percent: 0.000000
+Predicted: North Carolina -- CORRECT
+#
+Team:   North Carolina (8-2, 2014-04-05), Won: 488, Lost:   7, Tied:   5, Total: 500, Percent: 0.976000
+Team:         Virginia (8-3, 2014-04-05), Won:   7, Lost: 488, Tied:   5, Total: 500, Percent: 0.014000
+Predicted: North Carolina -- CORRECT
+#
+Team:   North Carolina (9-2, 2014-04-12), Won: 481, Lost:  14, Tied:   5, Total: 500, Percent: 0.962000
+Team:         Syracuse (6-3, 2014-04-12), Won:  14, Lost: 481, Tied:   5, Total: 500, Percent: 0.028000
+Predicted: North Carolina -- INCORRECT
+#
+Team:   North Carolina (10-3, 2014-04-26), Won: 472, Lost:  17, Tied:  11, Total: 500, Percent: 0.944000
+Team:         Virginia (9-5, 2014-04-26), Won:  17, Lost: 472, Tied:  11, Total: 500, Percent: 0.034000
+Predicted: North Carolina -- INCORRECT
+#
+Team:       Notre Dame (1-1, 2014-02-22), Won: 449, Lost:  36, Tied:  15, Total: 500, Percent: 0.898000
+Team:         Penn St. (2-1, 2014-02-22), Won:  36, Lost: 449, Tied:  15, Total: 500, Percent: 0.072000
+Predicted: Notre Dame -- INCORRECT
+#
+Team:       Notre Dame (3-2, 2014-03-16), Won: 457, Lost:  31, Tied:  12, Total: 500, Percent: 0.914000
+Team:         Virginia (6-2, 2014-03-16), Won:  31, Lost: 457, Tied:  12, Total: 500, Percent: 0.062000
+Predicted: Notre Dame -- CORRECT
+#
+Team:       Notre Dame (3-2, 2014-03-25), Won: 411, Lost:  62, Tied:  27, Total: 500, Percent: 0.822000
+Team:         Ohio St. (2-5, 2014-03-25), Won:  62, Lost: 411, Tied:  27, Total: 500, Percent: 0.124000
+Predicted: Notre Dame -- CORRECT
+#
+Team:       Notre Dame (3-2, 2014-03-29), Won: 439, Lost:  47, Tied:  14, Total: 500, Percent: 0.878000
+Team:         Syracuse (4-3, 2014-03-29), Won:  47, Lost: 439, Tied:  14, Total: 500, Percent: 0.094000
+Predicted: Notre Dame -- INCORRECT
+#
+Team:       Notre Dame (4-4, 2014-04-12), Won: 381, Lost:  93, Tied:  26, Total: 500, Percent: 0.762000
+Team:    Robert Morris (5-6, 2014-04-12), Won:  93, Lost: 381, Tied:  26, Total: 500, Percent: 0.186000
+Predicted: Notre Dame -- CORRECT
+#
+Team:       Notre Dame (8-5, 2014-04-27), Won: 399, Lost:  75, Tied:  26, Total: 500, Percent: 0.798000
+Team:         Syracuse (10-4, 2014-04-27), Won:  75, Lost: 399, Tied:  26, Total: 500, Percent: 0.150000
+Predicted: Notre Dame -- CORRECT
+#
+Team:         Ohio St. (1-2, 2014-03-01), Won: 297, Lost: 160, Tied:  43, Total: 500, Percent: 0.594000
+Team:         Penn St. (2-1, 2014-03-01), Won: 160, Lost: 297, Tied:  43, Total: 500, Percent: 0.320000
+Predicted: Ohio St. -- INCORRECT
+#
+Team:             Penn (0-1, 2014-02-25), Won: 195, Lost: 263, Tied:  42, Total: 500, Percent: 0.390000
+Team:   Saint Joseph's (1-1, 2014-02-25), Won: 263, Lost: 195, Tied:  42, Total: 500, Percent: 0.526000
+Predicted: Saint Joseph's -- INCORRECT
+#
+Team:             Penn (2-1, 2014-03-08), Won: 422, Lost:  53, Tied:  25, Total: 500, Percent: 0.844000
+Team:        Villanova (1-2, 2014-03-08), Won:  53, Lost: 422, Tied:  25, Total: 500, Percent: 0.106000
+Predicted: Penn -- CORRECT
+#
+Team:             Penn (3-1, 2014-03-15), Won: 397, Lost:  74, Tied:  29, Total: 500, Percent: 0.794000
+Team:        Princeton (2-2, 2014-03-15), Won:  74, Lost: 397, Tied:  29, Total: 500, Percent: 0.148000
+Predicted: Penn -- INCORRECT
+#
+Team:             Penn (3-3, 2014-03-29), Won: 250, Lost: 207, Tied:  43, Total: 500, Percent: 0.500000
+Team:             Yale (4-2, 2014-03-29), Won: 207, Lost: 250, Tied:  43, Total: 500, Percent: 0.414000
+Predicted: Penn -- CORRECT
+#
+Team:             Penn (7-3, 2014-04-22), Won: 211, Lost: 244, Tied:  45, Total: 500, Percent: 0.422000
+Team:           Towson (8-5, 2014-04-22), Won: 244, Lost: 211, Tied:  45, Total: 500, Percent: 0.488000
+Predicted: Towson -- INCORRECT
+#
+Team:             Penn (7-3, 2014-04-25), Won: 225, Lost: 221, Tied:  54, Total: 500, Percent: 0.450000
+Team:  St. John's (NY) (7-6, 2014-04-25), Won: 221, Lost: 225, Tied:  54, Total: 500, Percent: 0.442000
+Predicted: Penn -- CORRECT
+#
+Team:         Penn St. (4-4, 2014-03-29), Won: 223, Lost: 225, Tied:  52, Total: 500, Percent: 0.446000
+Team:        Villanova (2-5, 2014-03-29), Won: 225, Lost: 223, Tied:  52, Total: 500, Percent: 0.450000
+Predicted: Villanova -- CORRECT
+#
+Team:         Penn St. (4-6, 2014-04-12), Won: 215, Lost: 240, Tied:  45, Total: 500, Percent: 0.430000
+Team:           Towson (8-3, 2014-04-12), Won: 240, Lost: 215, Tied:  45, Total: 500, Percent: 0.480000
+Predicted: Towson -- INCORRECT
+#
+Team:        Princeton (3-2, 2014-03-18), Won: 238, Lost: 223, Tied:  39, Total: 500, Percent: 0.476000
+Team:        Villanova (1-4, 2014-03-18), Won: 223, Lost: 238, Tied:  39, Total: 500, Percent: 0.446000
+Predicted: Princeton -- CORRECT
+#
+Team:        Princeton (3-2, 2014-03-22), Won: 257, Lost: 200, Tied:  43, Total: 500, Percent: 0.514000
+Team:             Yale (3-2, 2014-03-22), Won: 200, Lost: 257, Tied:  43, Total: 500, Percent: 0.400000
+Predicted: Princeton -- INCORRECT
+#
+Team:        Princeton (4-4, 2014-04-05), Won: 358, Lost: 108, Tied:  34, Total: 500, Percent: 0.716000
+Team:          Rutgers (6-4, 2014-04-05), Won: 108, Lost: 358, Tied:  34, Total: 500, Percent: 0.216000
+Predicted: Princeton -- CORRECT
+#
+Team:       Providence (1-0, 2014-02-22), Won: 197, Lost: 237, Tied:  66, Total: 500, Percent: 0.394000
+Team:          Vermont (0-2, 2014-02-22), Won: 237, Lost: 197, Tied:  66, Total: 500, Percent: 0.474000
+Predicted: Vermont -- INCORRECT
+#
+Team:       Providence (1-0, 2014-03-01), Won: 151, Lost: 308, Tied:  41, Total: 500, Percent: 0.302000
+Team:       Quinnipiac (0-1, 2014-03-01), Won: 308, Lost: 151, Tied:  41, Total: 500, Percent: 0.616000
+Predicted: Quinnipiac -- CORRECT
+#
+Team:       Providence (2-1, 2014-03-08), Won:  84, Lost: 379, Tied:  37, Total: 500, Percent: 0.168000
+Team:     Sacred Heart (0-3, 2014-03-08), Won: 379, Lost:  84, Tied:  37, Total: 500, Percent: 0.758000
+Predicted: Sacred Heart -- CORRECT
+#
+Team:       Providence (3-2, 2014-03-15), Won: 265, Lost: 202, Tied:  33, Total: 500, Percent: 0.530000
+Team:          Rutgers (4-2, 2014-03-15), Won: 202, Lost: 265, Tied:  33, Total: 500, Percent: 0.404000
+Predicted: Providence -- INCORRECT
+#
+Team:       Providence (3-5, 2014-03-29), Won: 121, Lost: 336, Tied:  43, Total: 500, Percent: 0.242000
+Team:  St. John's (NY) (5-3, 2014-03-29), Won: 336, Lost: 121, Tied:  43, Total: 500, Percent: 0.672000
+Predicted: St. John's (NY) -- CORRECT
+#
+Team:       Providence (3-7, 2014-04-01), Won: 158, Lost: 309, Tied:  33, Total: 500, Percent: 0.316000
+Team:             Yale (4-3, 2014-04-01), Won: 309, Lost: 158, Tied:  33, Total: 500, Percent: 0.618000
+Predicted: Yale -- CORRECT
+#
+Team:       Providence (3-11, 2014-04-26), Won: 111, Lost: 350, Tied:  39, Total: 500, Percent: 0.222000
+Team:        Villanova (5-7, 2014-04-26), Won: 350, Lost: 111, Tied:  39, Total: 500, Percent: 0.700000
+Predicted: Villanova -- INCORRECT
+#
+Team:       Quinnipiac (3-4, 2014-04-01), Won: 208, Lost: 256, Tied:  36, Total: 500, Percent: 0.416000
+Team:      Stony Brook (4-6, 2014-04-01), Won: 256, Lost: 208, Tied:  36, Total: 500, Percent: 0.512000
+Predicted: Stony Brook -- INCORRECT
+#
+Team:       Quinnipiac (5-5, 2014-04-19), Won: 261, Lost: 198, Tied:  41, Total: 500, Percent: 0.522000
+Team:            Siena (7-4, 2014-04-19), Won: 198, Lost: 261, Tied:  41, Total: 500, Percent: 0.396000
+Predicted: Quinnipiac -- INCORRECT
+#
+Team:       Quinnipiac (5-7, 2014-04-22), Won: 184, Lost: 277, Tied:  39, Total: 500, Percent: 0.368000
+Team:             Yale (8-3, 2014-04-22), Won: 277, Lost: 184, Tied:  39, Total: 500, Percent: 0.554000
+Predicted: Yale -- CORRECT
+#
+Team:         Richmond (0-3, 2014-02-08), Won:  87, Lost: 377, Tied:  36, Total: 500, Percent: 0.174000
+Team:         Virginia (4-0, 2014-02-08), Won: 377, Lost:  87, Tied:  36, Total: 500, Percent: 0.754000
+Predicted: Virginia -- CORRECT
+#
+Team:         Richmond (0-3, 2014-03-01), Won:  20, Lost: 471, Tied:   9, Total: 500, Percent: 0.040000
+Team:             UMBC (1-1, 2014-03-01), Won: 471, Lost:  20, Tied:   9, Total: 500, Percent: 0.942000
+Predicted: UMBC -- CORRECT
+#
+Team:         Richmond (0-4, 2014-03-08), Won:  62, Lost: 416, Tied:  22, Total: 500, Percent: 0.124000
+Team:          Vermont (2-2, 2014-03-08), Won: 416, Lost:  62, Tied:  22, Total: 500, Percent: 0.832000
+Predicted: Vermont -- INCORRECT
+#
+Team:         Richmond (1-5, 2014-03-15), Won:  70, Lost: 404, Tied:  26, Total: 500, Percent: 0.140000
+Team:   Saint Joseph's (4-2, 2014-03-15), Won: 404, Lost:  70, Tied:  26, Total: 500, Percent: 0.808000
+Predicted: Saint Joseph's -- CORRECT
+#
+Team:         Richmond (1-6, 2014-03-17), Won: 133, Lost: 332, Tied:  35, Total: 500, Percent: 0.266000
+Team:          Rutgers (5-2, 2014-03-17), Won: 332, Lost: 133, Tied:  35, Total: 500, Percent: 0.664000
+Predicted: Rutgers -- CORRECT
+#
+Team:         Richmond (1-6, 2014-03-21), Won:  88, Lost: 385, Tied:  27, Total: 500, Percent: 0.176000
+Team:           Wagner (1-4, 2014-03-21), Won: 385, Lost:  88, Tied:  27, Total: 500, Percent: 0.770000
+Predicted: Wagner -- INCORRECT
+#
+Team:         Richmond (4-9, 2014-04-26), Won: 115, Lost: 353, Tied:  32, Total: 500, Percent: 0.230000
+Team:              VMI (1-12, 2014-04-26), Won: 353, Lost: 115, Tied:  32, Total: 500, Percent: 0.706000
+Predicted: VMI -- CORRECT
+#
+Team:    Robert Morris (1-3, 2014-03-09), Won:  76, Lost: 386, Tied:  38, Total: 500, Percent: 0.152000
+Team:   Saint Joseph's (4-2, 2014-03-09), Won: 386, Lost:  76, Tied:  38, Total: 500, Percent: 0.772000
+Predicted: Saint Joseph's -- CORRECT
+#
+Team:    Robert Morris (1-3, 2014-03-12), Won: 101, Lost: 371, Tied:  28, Total: 500, Percent: 0.202000
+Team:            Siena (3-2, 2014-03-12), Won: 371, Lost: 101, Tied:  28, Total: 500, Percent: 0.742000
+Predicted: Siena -- INCORRECT
+#
+Team:    Robert Morris (3-4, 2014-03-29), Won: 142, Lost: 308, Tied:  50, Total: 500, Percent: 0.284000
+Team:     Sacred Heart (1-6, 2014-03-29), Won: 308, Lost: 142, Tied:  50, Total: 500, Percent: 0.616000
+Predicted: Sacred Heart -- CORRECT
+#
+Team:    Robert Morris (4-5, 2014-04-05), Won: 153, Lost: 306, Tied:  41, Total: 500, Percent: 0.306000
+Team:           Wagner (2-6, 2014-04-05), Won: 306, Lost: 153, Tied:  41, Total: 500, Percent: 0.612000
+Predicted: Wagner -- INCORRECT
+#
+Team:          Rutgers (2-1, 2014-02-18), Won: 378, Lost:  96, Tied:  26, Total: 500, Percent: 0.756000
+Team:           Wagner (0-1, 2014-02-18), Won:  96, Lost: 378, Tied:  26, Total: 500, Percent: 0.192000
+Predicted: Rutgers -- CORRECT
+#
+Team:          Rutgers (2-1, 2014-02-22), Won: 450, Lost:  35, Tied:  15, Total: 500, Percent: 0.900000
+Team:         Virginia (4-0, 2014-02-22), Won:  35, Lost: 450, Tied:  15, Total: 500, Percent: 0.070000
+Predicted: Rutgers -- INCORRECT
+#
+Team:          Rutgers (2-1, 2014-03-01), Won: 452, Lost:  38, Tied:  10, Total: 500, Percent: 0.904000
+Team:      Stony Brook (1-2, 2014-03-01), Won:  38, Lost: 452, Tied:  10, Total: 500, Percent: 0.076000
+Predicted: Rutgers -- INCORRECT
+#
+Team:          Rutgers (6-4, 2014-04-02), Won: 332, Lost: 139, Tied:  29, Total: 500, Percent: 0.664000
+Team:  St. John's (NY) (6-3, 2014-04-02), Won: 139, Lost: 332, Tied:  29, Total: 500, Percent: 0.278000
+Predicted: Rutgers -- CORRECT
+#
+Team:          Rutgers (7-5, 2014-04-12), Won: 267, Lost: 184, Tied:  49, Total: 500, Percent: 0.534000
+Team:        Villanova (4-6, 2014-04-12), Won: 184, Lost: 267, Tied:  49, Total: 500, Percent: 0.368000
+Predicted: Rutgers -- INCORRECT
+#
+Team:     Sacred Heart (1-3, 2014-03-11), Won: 235, Lost: 219, Tied:  46, Total: 500, Percent: 0.470000
+Team:      Stony Brook (2-3, 2014-03-11), Won: 219, Lost: 235, Tied:  46, Total: 500, Percent: 0.438000
+Predicted: Sacred Heart -- INCORRECT
+#
+Team:     Sacred Heart (1-5, 2014-03-22), Won: 175, Lost: 288, Tied:  37, Total: 500, Percent: 0.350000
+Team:          Vermont (4-3, 2014-03-22), Won: 288, Lost: 175, Tied:  37, Total: 500, Percent: 0.576000
+Predicted: Vermont -- CORRECT
+#
+Team:     Sacred Heart (4-7, 2014-04-15), Won:  89, Lost: 381, Tied:  30, Total: 500, Percent: 0.178000
+Team:           Wagner (2-8, 2014-04-15), Won: 381, Lost:  89, Tied:  30, Total: 500, Percent: 0.762000
+Predicted: Wagner -- INCORRECT
+#
+Team:     Sacred Heart (4-7, 2014-04-19), Won: 123, Lost: 332, Tied:  45, Total: 500, Percent: 0.246000
+Team:   Saint Joseph's (9-3, 2014-04-19), Won: 332, Lost: 123, Tied:  45, Total: 500, Percent: 0.664000
+Predicted: Saint Joseph's -- CORRECT
+#
+Team:   Saint Joseph's (1-1, 2014-02-22), Won: 429, Lost:  45, Tied:  26, Total: 500, Percent: 0.858000
+Team:              VMI (0-3, 2014-02-22), Won:  45, Lost: 429, Tied:  26, Total: 500, Percent: 0.090000
+Predicted: Saint Joseph's -- CORRECT
+#
+Team:   Saint Joseph's (1-1, 2014-03-01), Won: 359, Lost: 101, Tied:  40, Total: 500, Percent: 0.718000
+Team:           Wagner (0-1, 2014-03-01), Won: 101, Lost: 359, Tied:  40, Total: 500, Percent: 0.202000
+Predicted: Saint Joseph's -- CORRECT
+#
+Team:            Siena (2-1, 2014-02-10), Won: 239, Lost: 221, Tied:  40, Total: 500, Percent: 0.478000
+Team:         Syracuse (2-1, 2014-02-10), Won: 221, Lost: 239, Tied:  40, Total: 500, Percent: 0.442000
+Predicted: Siena -- INCORRECT
+#
+Team:            Siena (2-1, 2014-03-01), Won:  58, Lost: 421, Tied:  21, Total: 500, Percent: 0.116000
+Team:  St. John's (NY) (1-1, 2014-03-01), Won: 421, Lost:  58, Tied:  21, Total: 500, Percent: 0.842000
+Predicted: St. John's (NY) -- CORRECT
+#
+Team:  St. John's (NY) (1-1, 2014-02-22), Won: 346, Lost: 121, Tied:  33, Total: 500, Percent: 0.692000
+Team:             Yale (1-0, 2014-02-22), Won: 121, Lost: 346, Tied:  33, Total: 500, Percent: 0.242000
+Predicted: St. John's (NY) -- INCORRECT
+#
+Team:  St. John's (NY) (2-1, 2014-03-08), Won: 355, Lost: 112, Tied:  33, Total: 500, Percent: 0.710000
+Team:         Syracuse (2-2, 2014-03-08), Won: 112, Lost: 355, Tied:  33, Total: 500, Percent: 0.224000
+Predicted: St. John's (NY) -- INCORRECT
+#
+Team:  St. John's (NY) (3-3, 2014-03-22), Won: 274, Lost: 192, Tied:  34, Total: 500, Percent: 0.548000
+Team:      Stony Brook (3-4, 2014-03-22), Won: 192, Lost: 274, Tied:  34, Total: 500, Percent: 0.384000
+Predicted: St. John's (NY) -- CORRECT
+#
+Team:  St. John's (NY) (6-6, 2014-04-19), Won: 228, Lost: 233, Tied:  39, Total: 500, Percent: 0.456000
+Team:        Villanova (5-6, 2014-04-19), Won: 233, Lost: 228, Tied:  39, Total: 500, Percent: 0.466000
+Predicted: Villanova -- INCORRECT
+#
+Team:      Stony Brook (4-5, 2014-03-28), Won: 281, Lost: 191, Tied:  28, Total: 500, Percent: 0.562000
+Team:             UMBC (4-4, 2014-03-28), Won: 191, Lost: 281, Tied:  28, Total: 500, Percent: 0.382000
+Predicted: Stony Brook -- INCORRECT
+#
+Team:      Stony Brook (4-6, 2014-04-05), Won: 309, Lost: 135, Tied:  56, Total: 500, Percent: 0.618000
+Team:          Vermont (5-4, 2014-04-05), Won: 135, Lost: 309, Tied:  56, Total: 500, Percent: 0.270000
+Predicted: Stony Brook -- CORRECT
+#
+Team:         Syracuse (2-1, 2014-03-01), Won: 248, Lost: 222, Tied:  30, Total: 500, Percent: 0.496000
+Team:         Virginia (4-0, 2014-03-01), Won: 222, Lost: 248, Tied:  30, Total: 500, Percent: 0.444000
+Predicted: Syracuse -- INCORRECT
+#
+Team:           Towson (5-2, 2014-03-18), Won: 133, Lost: 322, Tied:  45, Total: 500, Percent: 0.266000
+Team:             UMBC (3-3, 2014-03-18), Won: 322, Lost: 133, Tied:  45, Total: 500, Percent: 0.644000
+Predicted: UMBC -- INCORRECT
+#
+Team:             UMBC (6-6, 2014-04-26), Won: 294, Lost: 165, Tied:  41, Total: 500, Percent: 0.588000
+Team:          Vermont (5-7, 2014-04-26), Won: 165, Lost: 294, Tied:  41, Total: 500, Percent: 0.330000
+Predicted: UMBC -- CORRECT
+#
+Team:              VMI (1-4, 2014-03-05), Won:  18, Lost: 472, Tied:  10, Total: 500, Percent: 0.036000
+Team:          Vermont (2-2, 2014-03-05), Won: 472, Lost:  18, Tied:  10, Total: 500, Percent: 0.944000
+Predicted: Vermont -- CORRECT
+#
+Team:              VMI (1-7, 2014-03-18), Won:   8, Lost: 485, Tied:   7, Total: 500, Percent: 0.016000
+Team:           Wagner (1-4, 2014-03-18), Won: 485, Lost:   8, Tied:   7, Total: 500, Percent: 0.970000
+Predicted: Wagner -- CORRECT
+#
+Team:              VMI (1-8, 2014-03-24), Won:  28, Lost: 450, Tied:  22, Total: 500, Percent: 0.056000
+Team:         Virginia (7-2, 2014-03-24), Won: 450, Lost:  28, Tied:  22, Total: 500, Percent: 0.900000
+Predicted: Virginia -- CORRECT
+#
+Team:          Vermont (3-3, 2014-03-15), Won: 245, Lost: 209, Tied:  46, Total: 500, Percent: 0.490000
+Team:           Wagner (1-3, 2014-03-15), Won: 209, Lost: 245, Tied:  46, Total: 500, Percent: 0.418000
+Predicted: Vermont -- CORRECT
+#
+RESULTS: 311/511=0.608611
