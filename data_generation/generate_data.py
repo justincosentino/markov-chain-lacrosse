@@ -4,15 +4,13 @@
 
 # --------------------------------------------------------------------------- #
 
-
 from collections import defaultdict
+import datetime
 import requests
 import sqlite3
 import sys
 import re
 import os
-import pprint
-
 
 # --------------------------------------------------------------------------- #
 
@@ -43,25 +41,39 @@ _stat_map = {
 
 def _isfloat(x):
 	'''
-	'''
-    try:
-        a = float(x)
-    except ValueError:
-        return False
-    else:
-        return True
+	Determines if a given value is a float.
 
+	@param x: value to be tested
+	@return:  True if x is a float
+			  False otherwise
+	'''
+	try:
+		a = float(x)
+	except ValueError:
+		return False
+	return True
 
 def _isint(x):
 	'''
+	Determines if a given value is a int.
+
+	@param x: value to be tested
+	@return:  True if x is an int
+			  False otherwise
 	'''
+	try:
+		a = float(x)
+		b = int(a)
+	except ValueError:
+		return False
+	return a == b
+
+def _isdate(date_text):
     try:
-        a = float(x)
-        b = int(a)
+        datetime.datetime.strptime(date_text, '%Y-%m-%d')
     except ValueError:
         return False
-    else:
-        return a == b
+    return True
 
 
 # --------------------------------------------------------------------------- #
@@ -73,6 +85,7 @@ def createTables(db, stats):
   	transactions = []
 
   	for stat in stats:
+  		print stat
 		columns = stats[stat][stats[stat].keys()[0]]['columns']
 		example_team = stats[stat][stats[stat].keys()[0]]['Duke']
 
@@ -82,19 +95,24 @@ def createTables(db, stats):
 		# Create data type string
 		type_string = ''
 		for i in range(len(columns)):
+
+			# Determine data type
 			datatype = 'TEXT'
 			if _isint(example_team[i]):
 				datatype = 'INTEGER'
 			elif _isfloat(example_team[i]):
 				datatype = 'REAL'
+			elif _isdate(example_team[i]):
+				datatype = 'DATETIME'
+
 			if columns[i].lower() == "to":
 				columns[i] = "turnovers"
+
 			type_string += '%s %s, ' % ('_'.join(re.findall(r"[\w']+", 
 				columns[i].lower())), datatype)
-		type_string += '%s %s, ' % ('rpt_weeks', 'INTEGER')
 		
 		# Create primary key string
-		primary_key_string = 'PRIMARY KEY (name, rpt_weeks)'
+		primary_key_string = 'PRIMARY KEY (name, through_date)'
 		
 		# Create total schema string
 		schema_string = '%s (%s%s);' % (create_string, type_string, 
@@ -119,22 +137,17 @@ def createTables(db, stats):
 # --------------------------------------------------------------------------- #
 
 
-def stats_generator(stats_stat, week):
-	'''
-	'''
-	for team in stats_stat[week]:
-		row = stats_stat[week][team]
-		values = '"' + '","'.join(row) + '", "%s"' % (week)
-		yield (values)
-
 def insertAll(db, stats):
 	'''
 	'''
 	for stat in stats:
 		for week in stats[stat]:
+			stats[stat][week].pop('columns', None)
 			for team in stats[stat][week]:
 				row = stats[stat][week][team]
-				values = '"' + '","'.join(row) + '", "%s"' % (week)
+				if row[0] == 'Reclassifying':
+					continue
+				values = '"' + '","'.join(row) + '"'
 				insert_string = 'INSERT INTO %s VALUES (%s)' % (stat, values)
 				db.execute(insert_string)
   	return
@@ -173,17 +186,28 @@ def parseCSV(csv_data):
 	
 	# remove quotes
 	csv_data = re.sub(r'"', '', csv_data)
+	if 'The following error occured trying to process your last request:' in csv_data:
+		return
 
-	# remove header information
-	csv_data = csv_data.strip().split('\n')[5:]
+	# remove header information and prepare date
+	csv_data = csv_data.strip().split('\n')
+	if csv_data[-1] == 'No rankings for this category':
+		return
+
+	through_date = csv_data[2].split()[2].split('/')
+	through_date[1], through_date[0] = through_date[0], through_date[1]
+	through_date = '-'.join(through_date[::-1])
+	csv_data = csv_data[5:]
 
 	all_team_data = {}
 
 	# grab columns and data
 	columns, csv_data = csv_data[0], csv_data[1:]
 	columns = columns.split(',')
+	columns.append('through_date')
 	for row in csv_data:
 		row = row.split(',')
+		row.append(through_date)
 		all_team_data[row[1]] = row
 
 	all_team_data['columns'] = columns
@@ -203,7 +227,8 @@ def fetchData(division, year, start_week, end_week):
 		for week in range(start_week, end_week+1):
 			csv_data = fetchCSV(division, year, stat, week)
 			parsed_data = parseCSV(csv_data)
-			stats_data[stat][week] = parsed_data
+			if parsed_data:
+				stats_data[stat][week] = parsed_data
 	return stats_data
 
 
@@ -256,7 +281,7 @@ def main():
 	# Check if provided database exists
 	if len(sys.argv) != 5:
 		print ('Usage: python generate_data.py <division> <year> <start_week>' +
-			   '<end_week>')
+			   ' <end_week>')
 		print 'Invalid number of arguments. Exiting...'
 		exit(1)
 	division, year       = int(sys.argv[1]), int(sys.argv[2])
@@ -267,8 +292,6 @@ def main():
   	# Scrape data
 	print 'Scraping lacrosse data from \'%s\'...' % (_BASE_URL)  
 	stats = fetchData(division, year, start_week, end_week)
-	# pp = pprint.PrettyPrinter(indent=4)
-	# pp.pprint(stats)
   	
   	# Open connection to database
   	print 'Creating new lacrosse database \'%s\'...'  % (filename)

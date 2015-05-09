@@ -69,7 +69,7 @@ def createTable(db, longest_name):
 		db.execute( '''CREATE TABLE Schedule
 					   (
 					  	team_name   VARCHAR(%d),
-					  	game_date   VARCHAR(5),
+					  	game_date   DATETIME,
 					  	location    VARCHAR(1),
 					  	opp_name    VARCHAR(%d),
 					  	team_score  INT,
@@ -87,24 +87,28 @@ def createTable(db, longest_name):
   	return
 
 
-def entryGenerator(team_data):
+def entryGenerator(team_data, year):
 	for team in team_data:
 		for i, game in enumerate(team):
 			game.append(i)
+			curr_date = game[1].split('/')
+			new_date = ['20%s' % year]
+			new_date.extend(curr_date)
+			new_date = '-'.join(new_date)
+			game[1] = new_date
+			# print game
 			yield tuple(game)
 			
 
-def insertAll(db, team_data):
+def insertAll(db, team_data, year):
 	insert_str = '''INSERT INTO Schedule 
 					(
 					team_name, game_date, location, opp_name, 
 					team_score, opp_score, game_number
 					) VALUES (?, ?, ?, ?, ?, ?, ?)
 				 '''
-	db.executemany(insert_str, entryGenerator(team_data))
+	db.executemany(insert_str, entryGenerator(team_data, year))
 	return 
-
-
 
 
 # ---------------------------------------------------------------------------- #
@@ -128,41 +132,42 @@ def get_team_ids(_RATINGS_URL):
 	teams = [{'id':t[0],'name':t[1]} for t in teams]
 	return teams
 
-
 def get_team_page(team, _TEAM_URL):
     team_url='%s%s%s?tab=detail' % (_BASE_URL, _TEAM_URL, team['id'])
     team_detail_html = requests.get(team_url).content
     team_soup = bs(team_detail_html.decode('utf-8', 'ignore'))
+    # print team_soup
     table = team_soup.find("table")
-    rows=[]
+    # print table
+    rows = []
+    # print team_url
     for row in table.find_all("tr")[3:-1]:
-        data=[d.get_text().replace(u'\xa0\x96','') for d in row.findAll('td')]
-        outline=[team['name']]+data[:5]
-        rows.append([i.encode('utf-8') for i in outline])
+		data = [d.get_text().replace(u'\xa0\x96','') for d in row.findAll('td')]
+		outline = [team['name']]+data[:5]
+		outline = [i.encode('utf-8') for i in outline]
 
-    # Naming errors
-    for item in rows:
-    	if item[0] == 'Loyola': item[0] = 'Loyola Maryland'
-    	if item[3] == 'Loyola': item[3] = 'Loyola Maryland'
+		if outline[0] == 'Loyola': outline[0] = 'Loyola Maryland'
+		if outline[3] == 'Loyola': outline[3] = 'Loyola Maryland'
 
-    	if item[0] == 'Army': item[0] = 'Army West Point'
-    	if item[3] == 'Army': item[3] = 'Army West Point'
+		if outline[0] == 'Army': outline[0] = 'Army West Point'
+		if outline[3] == 'Army': outline[3] = 'Army West Point'
 
-    	if item[0] == 'Albany': item[0] = 'Albany (NY)'
-    	if item[3] == 'Albany': item[3] = 'Albany (NY)'
+		if outline[0] == 'Albany': outline[0] = 'Albany (NY)'
+		if outline[3] == 'Albany': outline[3] = 'Albany (NY)'
 
-    	if item[0] == 'Penn State': item[0] = 'Penn St.'
-    	if item[3] == 'Penn State': item[3] = 'Penn St.'
+		if outline[0] == 'Penn State': outline[0] = 'Penn St.'
+		if outline[3] == 'Penn State': outline[3] = 'Penn St.'
 
-    	if item[0] == "St. John's": item[0] = "St. John's (NY)"
-    	if item[3] == "St. John's": item[3] = "St. John's (NY)"
-    	
-    	if item[0] == "Mount St. Mary's": item[0] = "Mt. St. Mary's"
-    	if item[3] == "Mount St. Mary's": item[3] = "Mt. St. Mary's"
-    	
-    	if item[0] == "Ohio State": item[0] = "Ohio St."
-    	if item[3] == "Ohio State": item[3] = "Ohio St."
+		if outline[0] == "St. John's": outline[0] = "St. John's (NY)"
+		if outline[3] == "St. John's": outline[3] = "St. John's (NY)"
 
+		if outline[0] == "Mount St. Mary's": outline[0] = "Mt. St. Mary's"
+		if outline[3] == "Mount St. Mary's": outline[3] = "Mt. St. Mary's"
+
+		if outline[0] == "Ohio State": outline[0] = "Ohio St."
+		if outline[3] == "Ohio State": outline[3] = "Ohio St."
+
+		rows.append(outline)
 
     return rows 
 
@@ -196,7 +201,6 @@ def main():
 	team_data = []
 	for team in team_list:
 		team_data.append(get_team_page(team, _TEAM_URL))
-		# time.sleep(1)
 
 	# Add to sqlite database
   	print 'Creating new lacrosse schedule database \'%s\'...'  % (filename)
@@ -213,7 +217,7 @@ def main():
   	createTable(db, longest_name)
 
   	# Insert team data
-  	insertAll(db, team_data)
+  	insertAll(db, team_data, year)
 	
 	# Commit changes to db
   	conn.commit()
